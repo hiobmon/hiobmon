@@ -2048,6 +2048,10 @@ a {
 .container {
   max-width: 820px;
   margin: 0 auto; }
+  .container h1, .container h3 {
+    color: #fff;
+    margin: 0;
+    font-weight: 600; }
 
 .article-cover, .blog-cover {
   max-width: 100%;

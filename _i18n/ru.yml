@@ -6,14 +6,36 @@ pages:
   about: О нас
   directions: Направления
   gallery: Галерея
-  freundeskreis: Freundeskreis
+  freundeskreis: Попечители
   contact: контакт
   donations: пожертвования
-permalinks:
-  novosti: aktuelles
-  monastir: kloster
-  napravlenia: anfahrt
-  galeria: gallerie
-  freundeskreis: freundeskreis
-  kontakt: kontakt
-  pozhertvovania: spenden
+homepage:
+  title: Монастыря Св. Иова Почаевского
+  subtitle: Русская православная церковь заграницей | Мюнхен-Оберменцинг
+  welcome:
+    heading: добро пожаловать
+    text: >
+      Недалеко от замка Блутенбург в Мюнхенском районе Обермензинг скрывается за
+      деревьями монастырь святого Иова Почаева Русская Православная Церковь за
+      рубежом, основанная в 1946 году. До этого русские монахи населяли монастырь
+      в восточной Словакии. Однако в конце Второй мировой войны Братство бежало
+      из Красной Армии и, наконец, поселилось в Мюнхене.
+  location:
+    heading: место
+    text: >
+  church_service:
+    heading: поклонение
+    text: >
+      Der Gottesdienst dauert einschließlich der  Götttlichen Liturgie (der
+      Eucharistie) bis ca. 8 Uhr. Danach folgt als “Frühstück” die Hauptmahlzeit
+      des Tages. Anschließend arbeiten die Mönche. Die Arbeit wird von 12
+      bis 14 Uhr durch die  Mittagsruhe unterbrochen und dann bis zum Abend
+      fortgesetzt. Um 18 Uhr beginnt der  Abendgottesdienst. Anschließend wird
+      gegen 19 Uhr gemeinsam zu Abend gegessen. Um ca. 19.45 Uhr ist der
+      Spätabendgottesdienst, in dem sich alle vor den Ikonen, die die Heiligen
+      und den Erlöser  Jesus Christus darstellen, verbeugen und sie küssen,
+      einander um Vergebung bitten und den Segen  vom Abt empfangen. Eine
+      individuelle Gebetsregel wird anhand der Gebetsschnur verrichtet,
+      sie beinhaltet die je nach  geitlichem Vortschritt gebotene Anzahl
+      Verbeugungen und die Übung im “immerwährenden  Herzensgebet”, dem
+      stillen Zentrum des orthodoxen Mönchslebens.

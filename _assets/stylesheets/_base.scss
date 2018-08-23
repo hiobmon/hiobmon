@@ -45,6 +45,12 @@ a {
 .container {
     max-width: 820px;
     margin: 0 auto;
+
+    h1, h3 {
+        color:#fff;
+        margin:0;
+        font-weight:600;
+    }
 }
 
 .article-cover {
