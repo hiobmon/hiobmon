@@ -1,0 +1,19 @@
+language_toggle:
+  german: Deutsch
+  russian: Русский
+pages:
+  news: Новости
+  about: О нас
+  directions: Направления
+  gallery: Галерея
+  freundeskreis: Freundeskreis
+  contact: контакт
+  donations: пожертвования
+permalinks:
+  novosti: aktuelles
+  monastir: kloster
+  napravlenia: anfahrt
+  galeria: gallerie
+  freundeskreis: freundeskreis
+  kontakt: kontakt
+  pozhertvovania: spenden

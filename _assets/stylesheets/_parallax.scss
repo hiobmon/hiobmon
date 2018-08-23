@@ -1,0 +1,20 @@
+.parallax {
+  overflow-x: hidden;
+  height: 150vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  &.greeting {
+    background-image: url("/images/kloster.jpg");
+  }
+
+  &.location {
+    background-image: url("/images/blutenburg.jpeg");
+  }
+
+  &.church-service {
+    background-image: url("/images/liturgie.jpeg");
+  }
+}

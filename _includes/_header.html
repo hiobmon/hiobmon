@@ -1,0 +1,29 @@
+<section class="site-nav">
+    <header>
+        <nav id="navigation">
+            <a class="brand" href="{% if site.lang == 'de' %}/{% else %}/ru{% endif %}">
+                <img src="/images/{{ site.inc.logo }}" alt="Inc">
+            </a>
+            <a href="{% if site.lang == 'de' %}/aktuelles{% else %}/ru/novosti{% endif %}">{% t pages.news %}</a>
+            <a href="{% if site.lang == 'de' %}/kloster{% else %}/ru/monastir{% endif %}">{% t pages.about %}</a>
+            <a href="{% if site.lang == 'de' %}/anfahrt{% else %}/ru/napravlenia{% endif %}">{% t pages.directions %}</a>
+            <a href="{% if site.lang == 'de' %}/galerie{% else %}/ru/galeria{% endif %}">{% t pages.gallery %}</a>
+            <a href="{% if site.lang == 'de' %}/freundeskreis{% else %}/ru/freundeskreis{% endif %}">{% t pages.freundeskreis %}</a>
+            <a href="{% if site.lang == 'de' %}/kontakt{% else %}/ru/kontakt{% endif %}">{% t pages.contact %}</a>
+            <a href="{% if site.lang == 'de' %}/spenden{% else %}/ru/pozhertvovania{% endif %}">{% t pages.donations %}</a>
+        </nav>
+        <nav class="tagline">
+          {% if site.lang == "de" %}
+            {% capture toggle_russian %}
+              {{ site.baseurl_root }}ru
+            {% endcapture %}
+            <a href="{{ toggle_russian }}" >{% t language_toggle.russian %}</a>
+          {% elsif site.lang == "ru" %}
+            {% capture toggle_german %}
+              {{ site.baseurl_root }}
+            {% endcapture %}
+            <a href="{{ toggle_german }}" >{% t language_toggle.german %}</a>
+          {% endif %}
+        </nav>
+    </header>
+</section>

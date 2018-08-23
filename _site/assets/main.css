@@ -2084,6 +2084,9 @@ a {
   background-size: cover;
   background-position: center center;
   z-index: 1; }
+  .blog-cover.vh {
+    max-height: 100vh;
+    height: 90vh; }
   .blog-cover section {
     text-align: center;
     position: absolute;
@@ -2139,7 +2142,7 @@ a {
 
 .site-footer {
   padding: 5em 0;
-  margin: 4em 0 0 0;
+  margin: 0;
   background: whitesmoke;
   color: #aaa;
   font-size: 0.8em; }
@@ -2800,3 +2803,16 @@ article {
       margin: 0; }
     .index img {
       display: none; } }
+.parallax {
+  overflow-x: hidden;
+  height: 150vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+  .parallax.greeting {
+    background-image: url("/images/kloster.jpg"); }
+  .parallax.location {
+    background-image: url("/images/blutenburg.jpeg"); }
+  .parallax.church-service {
+    background-image: url("/images/liturgie.jpeg"); }
