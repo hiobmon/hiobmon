@@ -2,6 +2,7 @@
 layout: post
 
 lang: de
+categories: de posts
 title: Jekyll Incorporated Features
 subtitle: "What's in the box"
 cover_image: blog-cover.jpg

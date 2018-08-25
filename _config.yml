@@ -43,7 +43,7 @@ plugins_dir:     ./_plugins
 layouts_dir:     ./_layouts
 include:     ['.htaccess']
 exclude:     []
-timezone:    Europe/Berlin
+timezone:    nil
 languages: ['de', 'ru']
 exclude_from_localizations: ['javascript', 'images', 'css']
 gems: [jekyll-paginate, jekyll-multiple-languages-plugin]
@@ -57,8 +57,10 @@ highlighter:    rouge
 # relative_permalinks: true
 
 permalink:     pretty
-paginate_path: 'page:num'
+
+# Pagination: https://github.com/scandio/jekyll-paginate-multiple
 paginate: 10
+paginate_path: '/news/page:num'
 
 markdown:      kramdown
 markdown_ext:  markdown,mkd,mkdn,md
