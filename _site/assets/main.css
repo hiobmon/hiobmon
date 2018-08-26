@@ -2259,7 +2259,7 @@ a {
     padding-right: 0; }
     .site-nav #navigation a {
       border: 0;
-      margin: 0 0.9em;
+      margin: 0 0.3em;
       display: inline-block; }
       .site-nav #navigation a:hover {
         color: #2077b2; }

@@ -3,12 +3,15 @@ language_toggle:
   russian: Русский
 pages:
   news: Новости
-  about: О нас
-  directions: Направления
+  about: Обитель
+  clergy: Клир
+  worship: Службы
+  pilgrims: Паломники
+  directions: Как найти
   gallery: Галерея
   freundeskreis: Попечители
-  contact: контакт
-  donations: пожертвования
+  contact: Контакт
+  donations: Пожертвования
 landing_page:
   title: Монастыря Св. Иова Почаевского
   subtitle: Русская православная церковь заграницей | Мюнхен-Оберменцинг

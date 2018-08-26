@@ -5,24 +5,21 @@
                 <img src="/images/{{ site.inc.logo }}" alt="Inc">
             </a>
             <a href="{% if site.lang == 'de' %}/news{% else %}/ru/news{% endif %}">{% t pages.news %}</a>
-            <a href="{% if site.lang == 'de' %}/kloster{% else %}/ru/monastir{% endif %}">{% t pages.about %}</a>
-            <a href="{% if site.lang == 'de' %}/anfahrt{% else %}/ru/napravlenia{% endif %}">{% t pages.directions %}</a>
+            <a href="{% if site.lang == 'de' %}/kloster{% else %}/ru/obitel{% endif %}">{% t pages.about %}</a>
+            <a href="{% if site.lang == 'de' %}/klerus{% else %}/ru/klir{% endif %}">{% t pages.clergy %}</a>
+            <a href="{% if site.lang == 'de' %}/gottesdienste{% else %}/ru/sluzhby{% endif %}">{% t pages.worship %}</a>
+            <a href="{% if site.lang == 'de' %}/pilger{% else %}/ru/palomniki{% endif %}">{% t pages.pilgrims %}</a>
+            <a href="{% if site.lang == 'de' %}/anfahrt{% else %}/ru/kak-naiti{% endif %}">{% t pages.directions %}</a>
             <a href="{% if site.lang == 'de' %}/galerie{% else %}/ru/galeria{% endif %}">{% t pages.gallery %}</a>
-            <a href="{% if site.lang == 'de' %}/freundeskreis{% else %}/ru/freundeskreis{% endif %}">{% t pages.freundeskreis %}</a>
+            <a href="{% if site.lang == 'de' %}/freundeskreis{% else %}/ru/popechiteli{% endif %}">{% t pages.freundeskreis %}</a>
             <a href="{% if site.lang == 'de' %}/kontakt{% else %}/ru/kontakt{% endif %}">{% t pages.contact %}</a>
             <a href="{% if site.lang == 'de' %}/spenden{% else %}/ru/pozhertvovania{% endif %}">{% t pages.donations %}</a>
         </nav>
         <nav class="tagline">
           {% if site.lang == "de" %}
-            {% capture toggle_russian %}
-              {{ site.baseurl_root }}ru
-            {% endcapture %}
-            <a href="{{ toggle_russian }}" >{% t language_toggle.russian %}</a>
+            <a href="{{ site.baseurl_root | append: 'ru' }}" >{% t language_toggle.russian %}</a>
           {% elsif site.lang == "ru" %}
-            {% capture toggle_german %}
-              {{ site.baseurl_root }}
-            {% endcapture %}
-            <a href="{{ toggle_german }}" >{% t language_toggle.german %}</a>
+            <a href="{{ site.baseurl_root }}" >{% t language_toggle.german %}</a>
           {% endif %}
         </nav>
     </header>
