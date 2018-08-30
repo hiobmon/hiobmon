@@ -1,25 +1,35 @@
 <footer class="site-footer">
     <div class="container">
-        &copy; {{ site.time | date: "%Y" }}
-
+      <div class="row">
         <nav>
-            <a href="{{ site.inc.url }}">{{ site.inc.company }}</a> &middot;
-            <a href="/">Blog</a> &middot;
-            {% if site.inc.product_link %}<a href="{{ site.inc.product_link }}">Product</a> &middot; {% endif %}
-            {% if site.inc.about_link %}<a href="{{ site.inc.about_link }}">About</a>{% endif %}
+          <a href="/">Home</a> &middot;
+          <a href="{% if site.lang == 'de' %}/news{% else %}/ru/news{% endif %}">{% t pages.news %}</a> &middot;
+          <a href="{% if site.lang == 'de' %}/kloster{% else %}/ru/obitel{% endif %}">{% t pages.about %}</a> &middot;
+          <a href="{% if site.lang == 'de' %}/gottesdienste{% else %}/ru/sluzhby{% endif %}">{% t pages.worship %}</a> &middot;
+          <a href="{% if site.lang == 'de' %}/pilger{% else %}/ru/palomniki{% endif %}">{% t pages.pilgrims %}</a> &middot;
+          <a href="{% if site.lang == 'de' %}/anfahrt{% else %}/ru/kak-naiti{% endif %}">{% t pages.directions %}</a> &middot;
+          <a href="{% if site.lang == 'de' %}/freundeskreis{% else %}/ru/popechiteli{% endif %}">{% t pages.freundeskreis %}</a> &middot;
+          <a href="{% if site.lang == 'de' %}/kontakt{% else %}/ru/kontakt{% endif %}">{% t pages.contact %}</a> &middot;
+          <a href="{% if site.lang == 'de' %}/spenden{% else %}/ru/pozhertvovania{% endif %}">{% t pages.donations %}</a>
+          <a href="/impressum">Impressum</a>
         </nav>
+      </div>
+      <div class="row">
+        hello world
+      </div>
+
+      <div class="col-md-6">
+        <div>
+          <p>Copyright © 2018, Kloster des heiligen Hiob</p>
+        </div>
+      </div>
+      <div class="col-md-6">
 
         <nav class="social">
-            {% if site.inc.twitter %}
-            <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter black"></i></a>
-            {% endif %}
-            {% if site.inc.facebook %}
-            <a href="http://facebook.com/{{ site.inc.facebook }}" title="Follow on Facebook" target="_blank"><i class="icon icon-facebook black"></i></a>
-            {% endif %}
-            <a href="/feed.xml" title="RSS Feed">
-                <i class="icon icon-rss black"></i>
-            </a>
+            <a href="https://www.instagram.com/kloster_hl_hiob_in_munchen/" title="{% t footer.instagram %}" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.facebook.com/people/Kloster-Des-Heiligen-Hiob/100009288324612" title="{% t footer.facebook %}" target="_blank"><i class="fab fa-facebook"></i></a>
+            <a href="/feed.xml" title="RSS Feed"><i class="fas fa-rss"></i></a>
         </nav>
-        <p>Copyright © 2018, Kloster des heiligen Hiob</p>
+      </div>
     </div>
 </footer>

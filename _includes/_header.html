@@ -1,9 +1,9 @@
 <section class="site-nav">
     <header>
         <nav id="navigation">
-            <a class="brand" href="{% if site.lang == 'de' %}/{% else %}/ru{% endif %}">
-                <img src="/images/{{ site.inc.logo }}" alt="Inc">
-            </a>
+              <a class="brand" href="{% if site.lang == 'de' %}/{% else %}/ru{% endif %}">
+                  <img src="/images/{{ site.inc.logo }}" alt="Inc">
+              </a>
             <a href="{% if site.lang == 'de' %}/news{% else %}/ru/news{% endif %}">{% t pages.news %}</a>
             <a href="{% if site.lang == 'de' %}/kloster{% else %}/ru/obitel{% endif %}">{% t pages.about %}</a>
             <a href="{% if site.lang == 'de' %}/gottesdienste{% else %}/ru/sluzhby{% endif %}">{% t pages.worship %}</a>
@@ -15,9 +15,9 @@
         </nav>
         <nav class="tagline">
           {% if site.lang == "de" %}
-            <a href="{{ site.baseurl_root | append: 'ru' }}" >{% t language_toggle.russian %}</a>
+            <a href="{{ site.baseurl_root | append: 'ru' }}" class="btn btn-outline">{% t language_toggle.russian %}</a>
           {% elsif site.lang == "ru" %}
-            <a href="{{ site.baseurl_root }}" >{% t language_toggle.german %}</a>
+            <a href="{{ site.baseurl_root }}" class="btn btn-outline">{% t language_toggle.german %}</a>
           {% endif %}
         </nav>
     </header>
