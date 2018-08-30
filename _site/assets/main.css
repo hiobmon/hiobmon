@@ -2048,7 +2048,7 @@ a {
 .container {
   max-width: 820px;
   margin: 0 auto; }
-  .container h1, .container h3 {
+  .containerh1, .containerh3 {
     color: #fff;
     margin: 0;
     font-weight: 600; }
