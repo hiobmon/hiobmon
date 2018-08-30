@@ -6,12 +6,15 @@ pages:
   about: Обитель
   clergy: Клир
   worship: Службы
+  worship_short: Службы
   pilgrims: Паломники
   directions: Как найти
   gallery: Галерея
   freundeskreis: Попечители
+  freundeskreis_short: Попеч.
   contact: Контакт
   donations: Пожертвования
+  donations_short: Пожертв.
 landing_page:
   title: Монастыря Св. Иова Почаевского
   subtitle: Русская православная церковь заграницей | Мюнхен-Оберменцинг
@@ -43,5 +46,10 @@ landing_page:
       Verbeugungen und die Übung im “immerwährenden  Herzensgebet”, dem
       stillen Zentrum des orthodoxen Mönchslebens.
 footer:
+  kloster_buchendorf: Женский монастырь св. Елизавета Феодоровна
+  links: Ссылки
+  partner: Партнеры
   instagram: Следуйте на Instagram
   facebook: Следуйте на Facebook
+  sobor: Кафедральный собор в Мюнхене
+  social_media: Социальные сети

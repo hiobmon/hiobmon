@@ -1,35 +1,52 @@
 <footer class="site-footer">
     <div class="container">
       <div class="row">
+        <h6>{% t footer.links %}</h6>
+      </div>
+      <div class="row">
         <nav>
           <a href="/">Home</a> &middot;
           <a href="{% if site.lang == 'de' %}/news{% else %}/ru/news{% endif %}">{% t pages.news %}</a> &middot;
           <a href="{% if site.lang == 'de' %}/kloster{% else %}/ru/obitel{% endif %}">{% t pages.about %}</a> &middot;
-          <a href="{% if site.lang == 'de' %}/gottesdienste{% else %}/ru/sluzhby{% endif %}">{% t pages.worship %}</a> &middot;
+          <a href="{% if site.lang == 'de' %}/gottesdienste{% else %}/ru/sluzhby{% endif %}">{% t pages.worship_short %}</a> &middot;
           <a href="{% if site.lang == 'de' %}/pilger{% else %}/ru/palomniki{% endif %}">{% t pages.pilgrims %}</a> &middot;
           <a href="{% if site.lang == 'de' %}/anfahrt{% else %}/ru/kak-naiti{% endif %}">{% t pages.directions %}</a> &middot;
-          <a href="{% if site.lang == 'de' %}/freundeskreis{% else %}/ru/popechiteli{% endif %}">{% t pages.freundeskreis %}</a> &middot;
+          <a href="{% if site.lang == 'de' %}/freundeskreis{% else %}/ru/popechiteli{% endif %}">{% t pages.freundeskreis_short %}</a> &middot;
           <a href="{% if site.lang == 'de' %}/kontakt{% else %}/ru/kontakt{% endif %}">{% t pages.contact %}</a> &middot;
-          <a href="{% if site.lang == 'de' %}/spenden{% else %}/ru/pozhertvovania{% endif %}">{% t pages.donations %}</a>
+          <a href="{% if site.lang == 'de' %}/spenden{% else %}/ru/pozhertvovania{% endif %}">{% t pages.donations_short %}</a>
           <a href="/impressum">Impressum</a>
         </nav>
       </div>
+
+      <hr/>
+
       <div class="row">
-        hello world
+        <h6>{% t footer.partner %}</h6>
+      </div>
+      <div class="row">
+        <nav>
+          <a href="http://bookstore.jordanville.org/">Holy Trinity Bookstore, Jordanville USA</a> &middot;
+          <a href="http://www.orth-frauenkloster.de/">{% t footer.kloster_buchendorf %}</a> &middot;
+          <a href="http://www.sobor.de/">{% t footer.sobor %}</a>
+        </nav>
       </div>
 
-      <div class="col-md-6">
-        <div>
-          <p>Copyright © 2018, Kloster des heiligen Hiob</p>
-        </div>
-      </div>
-      <div class="col-md-6">
+      <hr/>
 
-        <nav class="social">
+
+      <div class="row">
+        <h6>{% t footer.social_media %}</h6>
+      </div>
+      <div class="row">
+        <nav class="social top-buffer-5">
             <a href="https://www.instagram.com/kloster_hl_hiob_in_munchen/" title="{% t footer.instagram %}" target="_blank"><i class="fab fa-instagram"></i></a>
             <a href="https://www.facebook.com/people/Kloster-Des-Heiligen-Hiob/100009288324612" title="{% t footer.facebook %}" target="_blank"><i class="fab fa-facebook"></i></a>
             <a href="/feed.xml" title="RSS Feed"><i class="fas fa-rss"></i></a>
         </nav>
+      </div>
+
+      <div class="top-buffer-20 text-center">
+        Copyright © {{ site.time | date: '%Y' }}, {% t landing_page.title %}
       </div>
     </div>
 </footer>

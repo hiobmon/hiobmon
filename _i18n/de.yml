@@ -6,12 +6,15 @@ pages:
   about: Kloster
   clergy: Klerus
   worship: Gottesdienste
+  worship_short: Gottesdienste
   pilgrims: Pilger
   directions: Anfahrt
   gallery: Galerie
   freundeskreis: Freundeskreis
+  freundeskreis_short: Freundeskreis
   contact: Kontakt
   donations: Spenden
+  donations_short: Spenden
 landing_page:
   title: Kloster des heiligen Hiob
   subtitle: Russische Orthodoxe Kirche im Ausland | München-Obermenzing
@@ -35,7 +38,7 @@ landing_page:
   church_service:
     heading: Gottesdienste
     text: >
-      Der Gottesdienst dauert einschließlich der  Götttlichen Liturgie (der
+      Der Gottesdienst dauert einschließlich der  Göttlichen Liturgie (der
       Eucharistie) bis ca. 8 Uhr. Danach folgt als “Frühstück” die Hauptmahlzeit
       des Tages. Anschließend arbeiten die Mönche. Die Arbeit wird von 12
       bis 14 Uhr durch die  Mittagsruhe unterbrochen und dann bis zum Abend
@@ -49,5 +52,10 @@ landing_page:
       Verbeugungen und die Übung im “immerwährenden  Herzensgebet”, dem
       stillen Zentrum des orthodoxen Mönchslebens.
 footer:
+  kloster_buchendorf: Frauenkloster der hll. Elisabeth v. Hessen-Darmstadt
+  links: Links
+  partner: Unsere Partner
   instagram: Auf Instagram folgen
   facebook: Auf Facebook folgen
+  sobor: Kathedralkirche München
+  social_media: Soziale Medien

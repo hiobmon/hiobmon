@@ -189,7 +189,7 @@ a {
 }
 
 .site-footer {
-    padding:5em 0;
+    padding:3em 0;
     margin: 0; //4em 0 0 0;
     background:whitesmoke;;
     color:#aaa;
@@ -239,6 +239,14 @@ a {
                 opacity:0.9;
             }
         }
+    }
+
+    .top-buffer-5 {
+        margin-top: 5px;
+    }
+
+    .top-buffer-20 {
+        margin-top: 20px;
     }
 }
 

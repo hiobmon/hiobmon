@@ -1,7 +1,10 @@
 ---
 layout: page
+
 title: Impressum / Datenschutz
 permalink: impressum/
+
+cover_image: kloster.jpg
 ---
 **Freundeskreis Kloster des heiligen Hiob e.V.**  
 Hofbauernstr. 26  

@@ -1,11 +1,11 @@
 ---
 layout: base
 ---
-<div class="blog-cover" style="background-image:url(/images/{{ site.inc.cover_image }});">
+<div class="blog-cover" style="background-image:url(/images/{{ page.cover_image }});">
   <section>
     <div class="container">
-      <h1>{{ page.title }}</h1>
-      {% if site.inc.subtitle %}<h3>{{ page.subtitle }}</h3>{% endif %}
+      <h1>{% t landing_page.title %}</h1>
+      <h3>{% t landing_page.subtitle %}</h3>
     </div>
   </section>
 </div>
@@ -13,7 +13,7 @@ layout: base
 <article>
     <div class="container">
         <header>
-            <h1 class="title">{{ page.title }}</h1>
+            <h1 class="title">{% t page.title %}</h1>
             {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
         </header>
 
