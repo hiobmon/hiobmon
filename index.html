@@ -2,6 +2,8 @@
 layout: index
 
 namespace: homepage
+
+title: pages.home
 ---
 <div class="blog-cover vh parallax" style="background-image:url(/images/{{ site.inc.cover_image }});">
   <section>
@@ -12,25 +14,31 @@ namespace: homepage
   </section>
 </div>
 
-  <div class="parallax greeting">
-    <div class="container">
-      <h1>{% t landing_page.welcome.heading %}</h1>
-      <h3>{% t landing_page.welcome.text %}</h3>
-    </div>
-  </div>
-
-  <div class="parallax location">
+<div class="parallax location">
+  <section>
     <div class="container">
       <h1>{% t landing_page.location.heading %}</h1>
       <h3>{% t landing_page.location.text %}</h3>
     </div>
-  </div>
+  </section>
+</div>
 
-  <div class="parallax church-service">
+<div class="parallax church-service">
+  <section>
     <div class="container">
       <h1>{% t landing_page.church_service.heading. %}</h1>
       <h3>{% t landing_page.church_service.text %}</h3>
     </div>
-  </div>
-  {% include _footer.html %}
+  </section>
 </div>
+
+<div class="parallax workshops">
+  <section>
+    <div class="container">
+      <h1>{% t landing_page.workshops.heading. %}</h1>
+      <h3>{% t landing_page.workshops.text %}</h3>
+    </div>
+  </section>
+</div>
+
+{% include _footer.html %}

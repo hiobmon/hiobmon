@@ -2,6 +2,7 @@ language_toggle:
   german: Deutsch
   russian: Русский
 pages:
+  home: Home
   news: Aktuelles
   about: Kloster
   clergy: Klerus
@@ -15,6 +16,10 @@ pages:
   contact: Kontakt
   donations: Spenden
   donations_short: Spenden
+  impressum: Impressum
+post:
+  written_by: Geschrieben von
+  by: Von
 landing_page:
   title: Kloster des heiligen Hiob
   subtitle: Russische Orthodoxe Kirche im Ausland | München-Obermenzing
@@ -51,11 +56,26 @@ landing_page:
       sie beinhaltet die je nach  geitlichem Vortschritt gebotene Anzahl
       Verbeugungen und die Übung im “immerwährenden  Herzensgebet”, dem
       stillen Zentrum des orthodoxen Mönchslebens.
+  workshops:
+    heading: Arbeits- und Lebensbereiche
+    text: >
+      Das Kloster betreibt neben anderen Werkstätten für Kerzen,  Weihrauch etc.
+      auch eine Druckerei, die orthodoxe Bücher in  deutscher und russischer
+      Sprache herausgibt sowie die  Diözesanzeitschrift “Der Bote”, welche die
+      Lehre der christlichen  Väter weitergibt und über das Leben der deutschen
+      Diözese  berichtet. Zum Kloster kommen immer wieder zahlreiche Pilger.
+      Die Teilnahme am liturgischen und geistigen  Leben des Klosters wird
+      für viele Gläubige schon nach dem ersten kurzen Besuch zu einem Lichtquell,
+      von dem man sich geistig nährt, und zu dem man - so es gelingt - von
+      einem Jahr zum nächsten immer  wieder hingezogen wird. Die Einfachheit,
+      Kargheit und innere Sammlung lässt das Kloster zu einem  Ort der Freude
+      werden, die so beständig ist, wie man es in der Welt draußen nicht kennt.
 footer:
   kloster_buchendorf: Frauenkloster der hll. Elisabeth v. Hessen-Darmstadt
-  links: Links
+  navigation: Navigation
   partner: Unsere Partner
   instagram: Auf Instagram folgen
   facebook: Auf Facebook folgen
   sobor: Kathedralkirche München
   social_media: Soziale Medien
+  youtube: Auf YouTube folgen

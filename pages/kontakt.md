@@ -5,7 +5,7 @@ namespace: kontakt
 permalink: kontakt/
 permalink_ru: kontakt/
 
-cover_image: kloster.jpg
+cover_image: contact.jpg
 title: pages.contact
 ---
 {% translate_file kontakt/kontakt.md %}

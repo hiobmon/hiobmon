@@ -4,14 +4,13 @@ layout: post
 lang: ru
 categories: ru posts
 title: Собрание членов попечительского общества
-cover_image: blog-cover.jpg
+cover_image: Hiobmon-Tserkov.jpg
 
-excerpt: "нашего общества состоится 14 февраля в 10 часов"
+excerpt: "нашего общества состоится 14 февраля в 10 часов..."
 
 author:
-  name: Admin
-  bio: Co-founder, Design
-  image: ks.png
+  name: Lena
+  bio: Рабочая группа Интернета
 ---
 Дорогие Попечители!
 

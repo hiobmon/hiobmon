@@ -765,14 +765,30 @@ article {
       display: none; } }
 .parallax {
   overflow-x: hidden;
-  height: 150vh;
+  height: 100vh;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; }
-  .parallax.greeting {
-    background-image: url("/images/kloster.jpg"); }
+  .parallax h1, .parallax h3 {
+    color: #fff;
+    margin: 0; }
+  .parallax h1 {
+    font-size: 2.7em;
+    line-height: 1.4em;
+    font-weight: 600; }
+  .parallax h3 {
+    font-size: 1.3em;
+    font-weight: 400; }
+  .parallax section {
+    text-align: center;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 20vh 0;
+    z-index: 10; }
   .parallax.location {
-    background-image: url("/images/blutenburg.jpeg"); }
+    background-image: url("/images/kloster.jpg"); }
   .parallax.church-service {
-    background-image: url("/images/liturgie.jpeg"); }
+    background-image: url("/images/patronatsfest.jpg"); }
+  .parallax.workshops {
+    background-image: url("/images/imkerei.jpg"); }

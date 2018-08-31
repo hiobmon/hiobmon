@@ -1,7 +1,7 @@
 ---
 layout: page
 
-title: Impressum / Datenschutz
+title: pages.impressum
 permalink: impressum/
 
 cover_image: kloster.jpg
