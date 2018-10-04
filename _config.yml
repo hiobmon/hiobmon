@@ -39,7 +39,12 @@ destination: ./docs
 plugins_dir:     ./_plugins
 layouts_dir:     ./_layouts
 include:     ['.htaccess']
-exclude:     []
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Rakefile
 timezone:    nil
 languages: ['de', 'ru']
 exclude_from_localizations: ['javascript', 'images', 'css']
