@@ -35,7 +35,7 @@ inc:
 
 url:         http://incorporated.sendtoinc.com
 source:      .
-destination: ./_site
+destination: ./docs
 plugins_dir:     ./_plugins
 layouts_dir:     ./_layouts
 include:     ['.htaccess']
@@ -107,16 +107,17 @@ redcloth:
 # jekyll-assets: see more at https://github.com/ixti/jekyll-assets
 #
 assets:
-
-  dirname: assets
-  baseurl: /assets/
+  dirname: css
+  baseurl: /css/
   sources:
-    - _assets/javascripts
-    - _assets/stylesheets
-    - _assets/images
+    - css/javascripts
+    - css/stylesheets
+    - css/images
   js_compressor: uglifier
   css_compressor: sass
   cachebust: none
   cache: false
   gzip: [ text/css, application/javascript ]
   debug: false
+sass:
+  sass_dir: css/stylesheets/_sass
