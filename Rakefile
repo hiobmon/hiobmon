@@ -1,33 +1,7 @@
-require "rubygems"
-require "tmpdir"
-require "bundler/setup"
-require "jekyll"
+task :default do
+  puts "Running CI tasks..."
 
-GITHUB_UPSTREAM = "ROCOR-Germany/hiobmon"
-GITHUB_ORIGIN = "hiobmon/hiobmon"
-
-namespace :site do
-  desc "Generate blog files"
-  task :generate do
-    Jekyll::Site.new(Jekyll.configuration({
-      "source"      => ".",
-      "destination" => "_site"
-    })).process
-  end
-
-  desc "Generate and publish blog to gh-pages"
-  task :publish => [:generate] do
-    Dir.mktmpdir do |tmp|
-      cp_r "_site/.", tmp
-      Dir.chdir tmp
-      system "git init"
-      system "git add ."
-      message = "Site updated at #{Time.now.utc}"
-      system "git commit -m #{message.inspect}"
-      system "git remote add upstream git@github.com:#{GITHUB_UPSTREAM}.git"
-      system "git remote add origin git@github.com:#{GITHUB_ORIGIN}.git"
-      system "git push upstream master:refs/heads/gh-pages --force"
-      system "git push origin master:refs/heads/gh-pages --force"
-    end
-  end
+  # Travis CI will grab _site/* from develop branch and push it to master branch
+  sh("JEKYLL_ENV=production bundle exec jekyll build")
+  puts "Jekyll successfully built"
 end
