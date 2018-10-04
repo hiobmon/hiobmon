@@ -35,7 +35,7 @@ inc:
 
 url:         http://incorporated.sendtoinc.com
 source:      .
-destination: ./docs
+destination: ./_site
 plugins_dir:     ./_plugins
 layouts_dir:     ./_layouts
 include:     ['.htaccess']
