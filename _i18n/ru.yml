@@ -8,8 +8,6 @@ pages:
   clergy: Клир
   worship: Службы
   worship_short: Службы
-  pilgrims: Паломники
-  directions: Как найти
   gallery: Галерея
   freundeskreis: Попечители
   freundeskreis_short: Попеч.
@@ -17,11 +15,13 @@ pages:
   donations: Пожертвования
   donations_short: Пожертв.
   impressum: Impressum
+  publishing: Издательство
+  gallery: Галерея
 post:
   written_by: 'Автор:'
   by: 'Автор:'
 landing_page:
-  title: Монастыр Св. Иова Почаевского
+  title: Монастырь преп. Иова Почаевского
   subtitle: Русская православная церковь заграницей | Мюнхен-Оберменцинг
   welcome:
     heading: добро пожаловать
@@ -97,3 +97,5 @@ footer:
   sobor: Кафедральный собор в Мюнхене
   social_media: Социальные сети
   youtube: Следуйте на YouTube
+  flickr: Следуйте на Flickr
+  vimeo: Следуйте на Vimeo

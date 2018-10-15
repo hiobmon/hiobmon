@@ -38,12 +38,12 @@ Ende der 1990er Jahre kam er zur Kirche und wurde Ministrant in der Kathedralkir
 
 31.07./13.08.2011 wurde er von S.E. Mark, Erzbischof von Berlin und Deutschland zum Mönchsdiakon geweiht und diente im Kloster des hl. Hiob, zugleich begleitete er Erzbischof Mark bei dessen Reisen innerhalb der Diözese und in andere Lander.
 
-Am Tag des hl. Simeon vom Wunderberg, 24. Mai/6 Juni 2016 wurde er zum Priestermönch geweit und setzt seinen Dienst im Männerkloster des hl. Hiob in München fort.
+Am Tag des hl. Simeon vom Wunderberg, 24. Mai/6. Juni 2016 wurde er zum Priestermönch geweit und setzt seinen Dienst im Männerkloster des hl. Hiob in München fort.
 
-2011 erhielt er die Lehrbefugnis, sodann die Unterrichtsgenehmigung als gymnasialer Religionslehrer (bis zur 10. Klasse) vom Bayerischen Staatsmianisterium für Bildung und Kultus, Wissenschaft und Kunst und lehrt entsprechend an der Gemeindeschule der Münchner Kathedralkirche der hll. Neumärtyrer und Bekenner Russlands
+2011 erhielt er die Lehrbefugnis, sodann die Unterrichtsgenehmigung als gymnasialer Religionslehrer (bis zur 10. Klasse) vom Bayerischen Staatsministerium für Bildung und Kultus, Wissenschaft und Kunst und lehrt entsprechend an der Gemeindeschule der Münchner Kathedralkirche der hll. Neumärtyrer und Bekenner Russlands.
 
-## Mönchsdiakon Hiob (Bandmann)
-![Mönchsdiakon Hiob (Bandmann)](/images/Vater_Hiob.jpg)  
+## Priestermönch Hiob (Bandmann)
+![Priestermönch Hiob (Bandmann)](/images/vater_hiob.jpg)  
 Am 23. Juni/6. Juli vollzog Erzbischof Mark im Kloster des Hl. Hiob von Počaev die Mönchsweihe an Inok Iosif (Bandmann). Vater Iosif erhielt beim kleinen Schema den Mönchsnamen Hiob, nach dem himmlischen Schutzherrn des Münchner Klosters. Zur Mönchsweihe führten ihn der Abt Evfimij sowie Priestermönch Kornilij.
 
 Der künftige Vater Hiob besuchte schon in jungen Jahren das Kloster.  Nach seinem Eintritt ins Kloster befasste er sich viele Jahre mit der Herausgabe des Vestnik/Boten sowie dem Layout und der Druckvorbereitung von Büchern. Zudem diente er im Kloster als Chorleiter.
@@ -52,4 +52,10 @@ Der Mönch Hiob wurde in Berlin 1982 geboren und erhielt den Namen John. Mit dem
 
 Das Studium 2004-2009 im Institut für Orthodoxe Theologie an der Münchner Universität schloss er mit dem Diplom theol. univ. ab. Das Thema der Diplomarbeit lautet: „Der Begriff der Wissenschaft im Dialog der Orthodoxen Theologie mit den Naturwissenschaften“. Es folgt das Promotionsstudium unter Mitwirkung an der Gestaltung von Seminaren und Übungen. Sprachen: Deutsch, Englisch, Russisch – Latinum, Graecum und Hebraicum. Vater Hiob leistet den vom Bayerischen Kultusministerium anerkannten Orthodoxen Religionsunterricht als Pflichtfach, in dem die Schüler auch das Abitur ablegen können. Außerdem ist er der Sekretär der von der Orthodoxen Bischofskonferenz eingesetzten Übersetzungskommission.
 
-Seine Weihe zum Mönchsdiakon erfolgte in der Münchner Kathedralkirche am Sonntag, dem 11./24. Juli 2016.
+Am 10.09.2018, dem Fest des Klosterpatrons und Namensheiligen Hiob wurde V. Hiob von S.E. Erzbischof Mark zum Mönchspriester geweiht.
+
+## Priestermönch Anatolij (Tregubenko)
+![Priestermönch Anatolij (Tregubenko)](/images/vater_anatolij.jpg)  
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.

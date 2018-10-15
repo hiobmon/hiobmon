@@ -8,8 +8,6 @@ pages:
   clergy: Klerus
   worship: Gottesdienste
   worship_short: Gottesdienste
-  pilgrims: Pilger
-  directions: Anfahrt
   gallery: Galerie
   freundeskreis: Freundeskreis
   freundeskreis_short: Freundeskreis
@@ -17,6 +15,8 @@ pages:
   donations: Spenden
   donations_short: Spenden
   impressum: Impressum
+  publishing: Verlag
+  gallery: Galerie
 post:
   written_by: Geschrieben von
   by: Von
@@ -79,3 +79,5 @@ footer:
   sobor: Kathedralkirche München
   social_media: Soziale Medien
   youtube: Auf YouTube folgen
+  flickr: Auf Flickr folgen
+  vimeo: Auf Vimeo folgen
