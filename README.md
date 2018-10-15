@@ -1,4 +1,4 @@
-# Hiobmon Homepage
+# Hiobmon Homepage [![Build Status](https://travis-ci.org/hiobmon/hiobmon.github.io.svg?branch=develop)](https://travis-ci.org/hiobmon/hiobmon.github.io)
 Documentation tbd...
 
 ## Setup

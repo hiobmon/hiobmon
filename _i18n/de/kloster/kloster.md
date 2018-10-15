@@ -26,6 +26,18 @@ Am 25 Dezember 1983 wurde zum Mönchsdiakon und am 8 April 1991 zum Priestermön
 
 Am 1 Mai 2001 erfolgte seine Hochweihe zum Bischof von Stuttgart und Vikar der deutschen Diözese der Russischen Orthodoxen Kirche im Ausland (ROKA).
 
+## Priestermönch Hiob (Bandmann)
+![Priestermönch Hiob (Bandmann)](/images/vater_hiob.jpg)  
+Am 23. Juni/6. Juli vollzog Erzbischof Mark im Kloster des Hl. Hiob von Počaev die Mönchsweihe an Inok Iosif (Bandmann). Vater Iosif erhielt beim kleinen Schema den Mönchsnamen Hiob, nach dem himmlischen Schutzherrn des Münchner Klosters. Zur Mönchsweihe führten ihn der Abt Evfimij sowie Priestermönch Kornilij.
+
+Der künftige Vater Hiob besuchte schon in jungen Jahren das Kloster.  Nach seinem Eintritt ins Kloster befasste er sich viele Jahre mit der Herausgabe des Vestnik/Boten sowie dem Layout und der Druckvorbereitung von Büchern. Zudem diente er im Kloster als Chorleiter.
+
+Der Mönch Hiob wurde in Berlin 1982 geboren und erhielt den Namen John. Mit dem Namen Johannes wurde er im Jordan während einer Pilgerfahrt im Heiligen Land getauft. 2002 legte er die Abiturprüfung ab und leistete dann Zivildienst in einem Wohnheim für geistig Behinderte, wonach er 2003 in das Männerkloster des Heiligen Hiob von Počaev in München eintrat. Weihe zum Lektor – 2006. Rjassophormönch – 2012.
+
+Das Studium 2004-2009 im Institut für Orthodoxe Theologie an der Münchner Universität schloss er mit dem Diplom theol. univ. ab. Das Thema der Diplomarbeit lautet: „Der Begriff der Wissenschaft im Dialog der Orthodoxen Theologie mit den Naturwissenschaften“. Es folgt das Promotionsstudium unter Mitwirkung an der Gestaltung von Seminaren und Übungen. Sprachen: Deutsch, Englisch, Russisch – Latinum, Graecum und Hebraicum. Vater Hiob leistet den vom Bayerischen Kultusministerium anerkannten Orthodoxen Religionsunterricht als Pflichtfach, in dem die Schüler auch das Abitur ablegen können. Außerdem ist er der Sekretär der von der Orthodoxen Bischofskonferenz eingesetzten Übersetzungskommission.
+
+Am 10.09.2018, dem Fest des Klosterpatrons und Namensheiligen Hiob wurde V. Hiob von S.E. Erzbischof Mark zum Mönchspriester geweiht.
+
 ## Priestermönch Kornilij (Litwitschenko)
 ![Priestermönch Kornilij (Litwitschenko)](/images/Vater_Kornilij_skl.jpg)  
 Wurde am 29. August 1973 im Gebiet Krasnodar, im Dorf Kuban geboren. In der Stadt Nerjungri, Rep.Jakutien, schloss er 1990 die Schule ab und 1998 die Staatliche Universitét von Blagowestschensk. Mit dem Abschluss in Germanistik wurde er Lehrer für Deutsch und Englisch.
@@ -41,18 +53,6 @@ Ende der 1990er Jahre kam er zur Kirche und wurde Ministrant in der Kathedralkir
 Am Tag des hl. Simeon vom Wunderberg, 24. Mai/6. Juni 2016 wurde er zum Priestermönch geweit und setzt seinen Dienst im Männerkloster des hl. Hiob in München fort.
 
 2011 erhielt er die Lehrbefugnis, sodann die Unterrichtsgenehmigung als gymnasialer Religionslehrer (bis zur 10. Klasse) vom Bayerischen Staatsministerium für Bildung und Kultus, Wissenschaft und Kunst und lehrt entsprechend an der Gemeindeschule der Münchner Kathedralkirche der hll. Neumärtyrer und Bekenner Russlands.
-
-## Priestermönch Hiob (Bandmann)
-![Priestermönch Hiob (Bandmann)](/images/vater_hiob.jpg)  
-Am 23. Juni/6. Juli vollzog Erzbischof Mark im Kloster des Hl. Hiob von Počaev die Mönchsweihe an Inok Iosif (Bandmann). Vater Iosif erhielt beim kleinen Schema den Mönchsnamen Hiob, nach dem himmlischen Schutzherrn des Münchner Klosters. Zur Mönchsweihe führten ihn der Abt Evfimij sowie Priestermönch Kornilij.
-
-Der künftige Vater Hiob besuchte schon in jungen Jahren das Kloster.  Nach seinem Eintritt ins Kloster befasste er sich viele Jahre mit der Herausgabe des Vestnik/Boten sowie dem Layout und der Druckvorbereitung von Büchern. Zudem diente er im Kloster als Chorleiter.
-
-Der Mönch Hiob wurde in Berlin 1982 geboren und erhielt den Namen John. Mit dem Namen Johannes wurde er im Jordan während einer Pilgerfahrt im Heiligen Land getauft. 2002 legte er die Abiturprüfung ab und leistete dann Zivildienst in einem Wohnheim für geistig Behinderte, wonach er 2003 in das Männerkloster des Heiligen Hiob von Počaev in München eintrat. Weihe zum Lektor – 2006. Rjassophormönch – 2012.
-
-Das Studium 2004-2009 im Institut für Orthodoxe Theologie an der Münchner Universität schloss er mit dem Diplom theol. univ. ab. Das Thema der Diplomarbeit lautet: „Der Begriff der Wissenschaft im Dialog der Orthodoxen Theologie mit den Naturwissenschaften“. Es folgt das Promotionsstudium unter Mitwirkung an der Gestaltung von Seminaren und Übungen. Sprachen: Deutsch, Englisch, Russisch – Latinum, Graecum und Hebraicum. Vater Hiob leistet den vom Bayerischen Kultusministerium anerkannten Orthodoxen Religionsunterricht als Pflichtfach, in dem die Schüler auch das Abitur ablegen können. Außerdem ist er der Sekretär der von der Orthodoxen Bischofskonferenz eingesetzten Übersetzungskommission.
-
-Am 10.09.2018, dem Fest des Klosterpatrons und Namensheiligen Hiob wurde V. Hiob von S.E. Erzbischof Mark zum Mönchspriester geweiht.
 
 ## Priestermönch Anatolij (Tregubenko)
 ![Priestermönch Anatolij (Tregubenko)](/images/vater_anatolij.jpg)  
