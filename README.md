@@ -33,17 +33,23 @@ So fängst Du an:
 - Zuerst brauchst Du einen GitHub Account.
 - Anschließend musst Du dieses Repository forken.
 - Sobald Du das Repo geforkt hast, musst Du Deinen Fork clonen.
+
+__Wichtig!__ Es wird ausschließlich auf dem ```development``` Branch entwickelt.
+Der ```master``` Branch enthält eine jederzeit lauffähige Version der Webseite und wird niemals angetastet. Um die Gründe zu verstehen, scrolle bitte runter zum Kapitel ```Deployment```.
+_(Um das Git-Branching Modell zu verstehen, ist [folgender Blogpost](https://nvie.com/posts/a-successful-git-branching-model/) hilfreich.)_
+
 - Du erstellst einen lokalen Feature- oder Bugfix-Branch, z.B. "feature/add_new_page" oder "bugfix/fix_css_rule".
 - Jetzt kannst Du Deine Änderungen in den Code einpflegen. Mithilfe des ```bundle exec jekyll serve --watch``` Kommandos kannst Du Dir die statische Seite generieren lassen und unter ```localhost:4000``` im Browser betrachten.
 - Du pushst deinen Feature- oder Bugfix-Branch auf Deinen Fork (```origin```).
 - Danach erstellst Du einen [Pull-Request auf diesem Repository](https://github.com/hiobmon/hiobmon.github.io/pulls).
 
 ## Deployment
-Es wird ausschließlich auf dem ```development``` Branch entwickelt.
-Der ```master``` Branch enthält eine jederzeit lauffähige Version der Webseite.
-_(Um das Git-Branching Modell zu verstehen, ist [folgender Blogpost](https://nvie.com/posts/a-successful-git-branching-model/) hilfreich.)_
+Das Deployment und Go-Live erfolgt vollautomatisch und ohne zutun des Programmierers. Der Deployment-Status lasst sich am Travis CI Build-Badge ablesen: [![Build Status](https://travis-ci.org/hiobmon/hiobmon.github.io.svg?branch=develop)](https://travis-ci.org/hiobmon/hiobmon.github.io). Dieser Build-Badge befindet sich auch weiter oben, rechts neben der Überschrift.
 
 Sobald eine Änderung auf dem ```development``` Branch committed wird, erkennt Travis CI automatisch die Änderungen und generiert den statischen HTML-Code. Der statische HTML-Code wird dann auf dem ```master``` Branch abgelegt.
+Der ```master``` Branch wird automatisch mit [https://hiobmon.github.io](https://hiobmon.github.io) gesynct.
+
+Geplant, aber noch nicht umgesetzt: [https://hiobmon.github.io](https://hiobmon.github.io) wird automatisch mit [https://hiobmon.org](https://hiobmon.org) und [https://hiobmon.de](https://hiobmon.de) gesynct.
 
 ## Content hinzufügen
 Es ist geplant, [Forestry.io](https://forestry.io/) als CMS aufzusetzen. Dieses Plugin erlaubt es, ohne Programmierkenntnisse Blogposts hinzuzufügen. Wie das genau erfolgt, wird in Zukunft auf dem [Wiki](https://github.com/hiobmon/hiobmon.github.io/wiki) dokumentiert werden.
