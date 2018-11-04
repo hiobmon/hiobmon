@@ -1,0 +1,79 @@
+---
+label: Blogpost
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Titel
+  name: title
+  description: Geben Sie einen Titel an. Pflichtfeld.
+  config:
+    required: true
+- type: text
+  name: excerpt
+  description: Geben Sie einen Untertitel an. Der Untertitel dient dazu, damit Leser
+    Blogposts schonmal anlesen können. Pflichtfeld.
+  label: Untertitel
+  config:
+    required: true
+- type: field_group
+  name: author
+  description: Geben Sie Infos zu dem Artikelautor an. Pflichtfeld.
+  label: Autor
+  fields:
+  - type: text
+    name: name
+    label: Vorname
+    description: Der Vorname des Autors.
+    config:
+      required: true
+  - type: select
+    name: bio
+    config:
+      source:
+        type: simple
+      required: true
+      options:
+      - Рабочая группа Интернета
+      - Arbeitskreis Internet
+      - Web-Kreis
+      - Рабочая группа Веба
+    label: Arbeitsgruppe
+    description: Bitte geben Sie an, zu welcher Arbeitsgruppe Sie gehören. Wichtig
+      ist die Auswahl in der richtigen Sprache!
+    default: Рабочая группа Интернета
+- type: select
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - post
+  label: Layout
+  name: layout
+  hidden: true
+  description: Standardmäßig immer auf "post"! Pflichtfeld.
+  default: post
+- type: select
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - ru
+    - de
+  label: Sprache
+  name: lang
+  description: Russischer oder deutschsprachiger Blogpost? Pflichtfeld.
+  default: ru
+- type: text
+  label: Coverbild
+  name: cover_image
+  config:
+    required: true
+  default: Hiobmon-Tserkov.jpg
+  description: 'Den Pfad zum Coverbild. Pflichtfeld. Standardmäßig auf "Hiobmon-Tserkov.jpg"! '
+- type: tag_list
+  name: categories
+  label: Kategorien
+  description: Zu welchen Kategorien gehört der Blogpost? Optional.
