@@ -27,7 +27,7 @@ Am 25 Dezember 1983 wurde zum Mönchsdiakon und am 8 April 1991 zum Priestermön
 Am 1 Mai 2001 erfolgte seine Hochweihe zum Bischof von Stuttgart und Vikar der deutschen Diözese der Russischen Orthodoxen Kirche im Ausland (ROKA).
 
 ## Priestermönch Hiob (Bandmann)
-![Priestermönch Hiob (Bandmann)](/images/vater_hiob.jpg)  
+![Priestermönch Hiob (Bandmann)](/images/vater_hiob_gr.jpg)  
 Am 23. Juni/6. Juli vollzog Erzbischof Mark im Kloster des Hl. Hiob von Počaev die Mönchsweihe an Inok Iosif (Bandmann). Vater Iosif erhielt beim kleinen Schema den Mönchsnamen Hiob, nach dem himmlischen Schutzherrn des Münchner Klosters. Zur Mönchsweihe führten ihn der Abt Evfimij sowie Priestermönch Kornilij.
 
 Der künftige Vater Hiob besuchte schon in jungen Jahren das Kloster.  Nach seinem Eintritt ins Kloster befasste er sich viele Jahre mit der Herausgabe des Vestnik/Boten sowie dem Layout und der Druckvorbereitung von Büchern. Zudem diente er im Kloster als Chorleiter.
