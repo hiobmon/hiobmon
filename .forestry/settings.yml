@@ -4,6 +4,7 @@ auto_deploy: false
 admin_path: ''
 webhook_url:
 sections:
+### German ###
 - type: heading
   label: Deutsch
 - type: directory
@@ -15,15 +16,68 @@ sections:
 - type: document
   label: Kloster
   path: _i18n/de/kloster/kloster.md
-  read_only: false 
+  read_only: false
+- type: document
+  label: Gottesdienste
+  path: _i18n/de/gottesdienste/gottesdienste.md
+  read_only: false
+- type: document
+  label: Verlag
+  path: _i18n/de/verlag/verlag.md
+  read_only: false
+- type: document
+  label: Galerie
+  path: pages/galerie.md
+  read_only: true
+- type: document
+  label: Freundeskreis
+  path: _i18n/de/freundeskreis/freundeskreis.md
+  read_only: false
+- type: document
+  label: Kontakt
+  path: _i18n/de/kontakt/kontakt.md
+  read_only: false
+- type: document
+  label: Gottesdienste
+  path: _i18n/de/spenden/spenden.md
+  read_only: false
+### Russian ###
 - type: heading
-  label: Russisch
+  label: Русский
 - type: directory
+  label: Aktuelles
   path: _i18n/ru/_posts
-  label: Новости
   create: all
   match: "*.md"
   new_doc_ext: md
+- type: document
+  label: Kloster
+  path: _i18n/ru/kloster/kloster.md
+  read_only: false
+- type: document
+  label: Gottesdienste
+  path: _i18n/ru/gottesdienste/gottesdienste.md
+  read_only: false
+- type: document
+  label: Verlag
+  path: _i18n/ru/verlag/verlag.md
+  read_only: false
+- type: document
+  label: Galerie
+  path: pages/galerie.md
+  read_only: true
+- type: document
+  label: Freundeskreis
+  path: _i18n/ru/freundeskreis/freundeskreis.md
+  read_only: false
+- type: document
+  label: Kontakt
+  path: _i18n/ru/kontakt/kontakt.md
+  read_only: false
+- type: document
+  label: Gottesdienste
+  path: _i18n/ru/spenden/spenden.md
+  read_only: false
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
