@@ -1,8 +1,4 @@
 @media (max-width: 1000px) {
-    .tagline span {
-        display:none;
-    }
-
     .container > header, .container > section, .container > footer {
         padding:0;
         margin:1.5em 10%;
@@ -13,7 +9,7 @@
     }
 }
 
-@media (max-width: 942px) {
+@media (max-width: 963px) {
 
     article {
         padding-top:30px;
@@ -86,6 +82,9 @@
     }
 
     .site-nav {
+        .brand-nav {
+          display: none;
+        }
 
         #navigation {
             #nav-drawer-menu {
@@ -93,10 +92,6 @@
             }
 
             a {
-                display:none;
-            }
-
-            .brand {
                 display:none;
             }
         }

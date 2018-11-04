@@ -1,0 +1,13 @@
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="{% if site.lang == 'de' %}/{% else %}/ru/{% endif %}">{% t pages.home %}</a>
+  <a href="{% if site.lang == 'de' %}/news{% else %}/ru/news{% endif %}">{% t pages.news %}</a>
+  <a href="{% if site.lang == 'de' %}/kloster{% else %}/ru/obitel{% endif %}">{% t pages.about %}</a>
+  <a href="{% if site.lang == 'de' %}/gottesdienste{% else %}/ru/sluzhby{% endif %}">{% t pages.worship %}</a>
+
+  <a href="{% if site.lang == 'de' %}/verlag{% else %}/ru/izdatelstvo{% endif %}">{% t pages.publishing %}</a>
+  <a href="{% if site.lang == 'de' %}/galerie{% else %}/ru/galereya{% endif %}">{% t pages.gallery %}</a>
+  <a href="{% if site.lang == 'de' %}/freundeskreis{% else %}/ru/popechiteli{% endif %}">{% t pages.freundeskreis %}</a>
+  <a href="{% if site.lang == 'de' %}/kontakt{% else %}/ru/kontakt{% endif %}">{% t pages.contact %}</a>
+  <a href="{% if site.lang == 'de' %}/spenden{% else %}/ru/pozhertvovania{% endif %}">{% t pages.donations %}</a>
+</div>

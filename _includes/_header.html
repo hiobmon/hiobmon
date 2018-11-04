@@ -1,10 +1,12 @@
 <section class="site-nav">
     <header>
+        <nav class="brand-nav">
+          <a href="{% if site.lang == 'de' %}/{% else %}/ru{% endif %}">
+            <img src="/images/{{ site.inc.logo }}" alt="Kloster des hl. Hiob von Počaev">
+          </a>
+        </nav>
         <nav id="navigation">
-            <a class="brand" href="{% if site.lang == 'de' %}/{% else %}/ru{% endif %}">
-              <img src="/images/{{ site.inc.logo }}" alt="Inc">
-            </a>
-            <span id="nav-drawer-menu" onclick="openNav()"><i class="fa fa-bars fa-2x"></i></span>
+            <span id="nav-drawer-menu" onclick="openNav()"><i class="fa fa-bars"></i></span>
             <a href="{% if site.lang == 'de' %}/news{% else %}/ru/news{% endif %}">{% t pages.news %}</a>
             <a href="{% if site.lang == 'de' %}/kloster{% else %}/ru/obitel{% endif %}">{% t pages.about %}</a>
             <a href="{% if site.lang == 'de' %}/gottesdienste{% else %}/ru/sluzhby{% endif %}">{% t pages.worship %}</a>
