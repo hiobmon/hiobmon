@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url:
+webhook_url: 
 sections:
 - type: heading
   label: DEUTSCH
@@ -17,27 +17,33 @@ sections:
 - type: document
   path: _i18n/de/kloster/kloster.md
   label: Kloster
-  templates: ['']
+  templates:
+  - ''
 - type: document
   path: _i18n/de/gottesdienste/gottesdienste.md
   label: Gottesdienste
-  templates: ['']
+  templates:
+  - ''
 - type: document
   path: _i18n/de/verlag/verlag.md
   label: Verlag
-  templates: ['']
+  templates:
+  - ''
 - type: document
   path: _i18n/de/freundeskreis/freundeskreis.md
   label: Freundeskreis
-  templates: ['']
+  templates:
+  - ''
 - type: document
   path: _i18n/de/kontakt/kontakt.md
   label: Kontakt
-  templates: ['']
+  templates:
+  - ''
 - type: document
   path: _i18n/de/spenden/spenden.md
   label: Spenden
-  templates: ['']
+  templates:
+  - ''
 - type: heading
   label: РУССКИЙ
 - type: directory
@@ -51,27 +57,33 @@ sections:
 - type: document
   path: _i18n/ru/kloster/kloster.md
   label: Обитель
-  templates: ['']
+  templates:
+  - ''
 - type: document
   path: _i18n/ru/gottesdienste/gottesdienste.md
   label: Службы
-  templates: ['']
+  templates:
+  - ''
 - type: document
   path: _i18n/ru/verlag/verlag.md
   label: Издательство
-  templates: ['']
+  templates:
+  - ''
 - type: document
   path: _i18n/ru/freundeskreis/freundeskreis.md
   label: Попечители
-  templates: ['']
+  templates:
+  - ''
 - type: document
   path: _i18n/ru/kontakt/kontakt.md
   label: Контакт
-  templates: ['']
+  templates:
+  - ''
 - type: document
   path: _i18n/ru/spenden/spenden.md
   label: Пожертвования
-  templates: ['']
+  templates:
+  - ''
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
