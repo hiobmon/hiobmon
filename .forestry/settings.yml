@@ -6,7 +6,7 @@ webhook_url:
 sections:
 ### German ###
 - type: heading
-  label: Deutsch
+  label: DEUTSCH
 - type: directory
   label: Aktuelles
   path: _i18n/de/_posts
@@ -38,44 +38,44 @@ sections:
   path: _i18n/de/kontakt/kontakt.md
   read_only: false
 - type: document
-  label: Gottesdienste
+  label: Spenden
   path: _i18n/de/spenden/spenden.md
   read_only: false
 ### Russian ###
 - type: heading
-  label: Русский
+  label: РУССКИЙ
 - type: directory
-  label: Aktuelles
+  label: Новости
   path: _i18n/ru/_posts
   create: all
   match: "*.md"
   new_doc_ext: md
 - type: document
-  label: Kloster
+  label: Обитель
   path: _i18n/ru/kloster/kloster.md
   read_only: false
 - type: document
-  label: Gottesdienste
+  label: Службы
   path: _i18n/ru/gottesdienste/gottesdienste.md
   read_only: false
 - type: document
-  label: Verlag
+  label: Издательство
   path: _i18n/ru/verlag/verlag.md
   read_only: false
 - type: document
-  label: Galerie
+  label: Галерея
   path: pages/galerie.md
   read_only: true
 - type: document
-  label: Freundeskreis
+  label: Попечители
   path: _i18n/ru/freundeskreis/freundeskreis.md
   read_only: false
 - type: document
-  label: Kontakt
+  label: Контакт
   path: _i18n/ru/kontakt/kontakt.md
   read_only: false
 - type: document
-  label: Gottesdienste
+  label: Пожертвования
   path: _i18n/ru/spenden/spenden.md
   read_only: false
 upload_dir: uploads
