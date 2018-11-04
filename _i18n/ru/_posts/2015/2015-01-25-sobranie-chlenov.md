@@ -2,7 +2,7 @@
 layout: post
 
 lang: ru
-categories: ru posts
+categories: freundeskreis
 title: Собрание членов попечительского общества
 cover_image: Hiobmon-Tserkov.jpg
 
