@@ -11,7 +11,7 @@ Für die Homepage werden folgende Technologien verwendet:
 - [Jekyll](https://jekyllrb.com/) zum generieren von statischen HTML-Seiten.
 - [GitHub Pages](https://pages.github.com/) zum Hosten der Webseite.
 - [Travis CI](https://travis-ci.org/hiobmon/hiobmon.github.io) als Buildtool.
-- Geplant, aber noch nicht umgesetzt: [Forestry.io](https://forestry.io/) als CMS-System.
+- [Forestry.io](https://forestry.io/) als CMS-System.
 
 Um den grundlegende Struktur bzw. die Architektur des Codes zu verstehen, ist es gut,
 folgende Seiten aufmerksam durchzulesen, bevor Änderungen an dieser Seite vorgenommen werden.
@@ -52,4 +52,6 @@ Der ```master``` Branch wird automatisch mit [https://hiobmon.github.io](https:/
 Geplant, aber noch nicht umgesetzt: [https://hiobmon.github.io](https://hiobmon.github.io) wird automatisch mit [https://hiobmon.org](https://hiobmon.org) und [https://hiobmon.de](https://hiobmon.de) gesynct.
 
 ## Content hinzufügen
-Es ist geplant, [Forestry.io](https://forestry.io/) als CMS aufzusetzen. Dieses Plugin erlaubt es, ohne Programmierkenntnisse Blogposts hinzuzufügen. Wie das genau erfolgt, wird in Zukunft auf dem [Wiki](https://github.com/hiobmon/hiobmon.github.io/wiki) dokumentiert werden.
+Wir verwenden [Forestry.io](https://forestry.io/) als CMS. Dieses Plugin erlaubt es, ohne Programmierkenntnisse Blogposts hinzuzufügen. Es lohnt sich, einen Blick auf die offizielle [Forestry.io](https://forestry.io/docs/quickstart/tour/) Dokumentation zu werfen.
+
+Eine detailliertere Dokumentation wird in Zukunft auf dem [Wiki](https://github.com/hiobmon/hiobmon.github.io/wiki) entstehen.
