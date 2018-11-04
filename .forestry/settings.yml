@@ -17,27 +17,27 @@ sections:
 - type: document
   path: _i18n/de/kloster/kloster.md
   label: Kloster
-  templates: ['leeres-template']
+  templates: ['']
 - type: document
   path: _i18n/de/gottesdienste/gottesdienste.md
   label: Gottesdienste
-  templates: ['leeres-template']
+  templates: ['']
 - type: document
   path: _i18n/de/verlag/verlag.md
   label: Verlag
-  templates: ['leeres-template']
+  templates: ['']
 - type: document
   path: _i18n/de/freundeskreis/freundeskreis.md
   label: Freundeskreis
-  templates: ['leeres-template']
+  templates: ['']
 - type: document
   path: _i18n/de/kontakt/kontakt.md
   label: Kontakt
-  templates: ['leeres-template']
+  templates: ['']
 - type: document
   path: _i18n/de/spenden/spenden.md
   label: Spenden
-  templates: ['leeres-template']
+  templates: ['']
 - type: heading
   label: РУССКИЙ
 - type: directory
@@ -51,27 +51,27 @@ sections:
 - type: document
   path: _i18n/ru/kloster/kloster.md
   label: Обитель
-  templates: ['leeres-template']
+  templates: ['']
 - type: document
   path: _i18n/ru/gottesdienste/gottesdienste.md
   label: Службы
-  templates: ['leeres-template']
+  templates: ['']
 - type: document
   path: _i18n/ru/verlag/verlag.md
   label: Издательство
-  templates: ['leeres-template']
+  templates: ['']
 - type: document
   path: _i18n/ru/freundeskreis/freundeskreis.md
   label: Попечители
-  templates: ['leeres-template']
+  templates: ['']
 - type: document
   path: _i18n/ru/kontakt/kontakt.md
   label: Контакт
-  templates: ['leeres-template']
+  templates: ['']
 - type: document
   path: _i18n/ru/spenden/spenden.md
   label: Пожертвования
-  templates: ['leeres-template']
+  templates: ['']
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
