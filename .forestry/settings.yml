@@ -2,23 +2,24 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url:
-sections:
+webhook_url: 
 sections:
 - type: heading
   label: Deutsch
 - type: directory
-  path: "_i18n/de/_posts"
-  match: "*.md"
+  path: _i18n/de/_posts
   label: Posts
-  new_doc_ext: ".md"
+  create: all
+  match: "*.md"
+  new_doc_ext: md
 - type: heading
   label: Russisch
 - type: directory
-  path: "_i18n/ru/_posts"
-  match: "*.md"
+  path: _i18n/ru/_posts
   label: Posts
-  new_doc_ext: ".md"
+  create: all
+  match: "*.md"
+  new_doc_ext: md
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
