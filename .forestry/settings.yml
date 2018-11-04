@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url:
+webhook_url: 
 sections:
 - type: heading
   label: DEUTSCH
@@ -15,32 +15,21 @@ sections:
 - type: document
   path: _i18n/de/kloster/kloster.md
   label: Kloster
-  create: none
 - type: document
   path: _i18n/de/gottesdienste/gottesdienste.md
   label: Gottesdienste
-  create: none
 - type: document
   path: _i18n/de/verlag/verlag.md
   label: Verlag
-  create: none
-- type: document
-  path: pages/galerie.md
-  label: Galerie
-  read_only: true
-  create: none
 - type: document
   path: _i18n/de/freundeskreis/freundeskreis.md
   label: Freundeskreis
-  create: none
 - type: document
   path: _i18n/de/kontakt/kontakt.md
   label: Kontakt
-  create: none
 - type: document
   path: _i18n/de/spenden/spenden.md
   label: Spenden
-  create: none
 - type: heading
   label: РУССКИЙ
 - type: directory
@@ -52,34 +41,27 @@ sections:
 - type: document
   path: _i18n/ru/kloster/kloster.md
   label: Обитель
-  create: none
 - type: document
   path: _i18n/ru/gottesdienste/gottesdienste.md
   label: Службы
-  create: none
 - type: document
   path: _i18n/ru/verlag/verlag.md
   label: Издательство
-  create: none
 - type: document
   path: pages/galerie.md
   label: Галерея
   read_only: true
-  create: none
 - type: document
   path: _i18n/ru/freundeskreis/freundeskreis.md
   label: Попечители
-  create: none
 - type: document
   path: _i18n/ru/kontakt/kontakt.md
   label: Контакт
-  create: none
 - type: document
   path: _i18n/ru/spenden/spenden.md
   label: Пожертвования
-  create: none
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
-file_template: ":filename:"
+file_template: ":year:/:month:/:filename:"
