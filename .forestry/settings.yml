@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: heading
   label: DEUTSCH
@@ -12,24 +12,36 @@ sections:
   create: all
   match: "**/*.md"
   new_doc_ext: md
+  templates: ['blogpost']
 - type: document
   path: _i18n/de/kloster/kloster.md
   label: Kloster
+  templates: []
 - type: document
   path: _i18n/de/gottesdienste/gottesdienste.md
   label: Gottesdienste
+  templates: []
 - type: document
   path: _i18n/de/verlag/verlag.md
   label: Verlag
+  templates: []
+- type: document
+  path: pages/galerie.md
+  label: Галерея
+  read_only: true
+  templates: []
 - type: document
   path: _i18n/de/freundeskreis/freundeskreis.md
   label: Freundeskreis
+  templates: []
 - type: document
   path: _i18n/de/kontakt/kontakt.md
   label: Kontakt
+  templates: []
 - type: document
   path: _i18n/de/spenden/spenden.md
   label: Spenden
+  templates: []
 - type: heading
   label: РУССКИЙ
 - type: directory
@@ -38,28 +50,36 @@ sections:
   create: all
   match: "**/*.md"
   new_doc_ext: md
+  templates: ['blogpost']
 - type: document
   path: _i18n/ru/kloster/kloster.md
   label: Обитель
+  templates: []
 - type: document
   path: _i18n/ru/gottesdienste/gottesdienste.md
   label: Службы
+  templates: []
 - type: document
   path: _i18n/ru/verlag/verlag.md
   label: Издательство
+  templates: []
 - type: document
   path: pages/galerie.md
   label: Галерея
   read_only: true
+  templates: []
 - type: document
   path: _i18n/ru/freundeskreis/freundeskreis.md
   label: Попечители
+  templates: []
 - type: document
   path: _i18n/ru/kontakt/kontakt.md
   label: Контакт
+  templates: []
 - type: document
   path: _i18n/ru/spenden/spenden.md
   label: Пожертвования
+  templates: []
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
