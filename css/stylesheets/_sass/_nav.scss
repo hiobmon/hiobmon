@@ -35,6 +35,10 @@
     #navigation {
         padding-right:0;
 
+        #nav-drawer-menu {
+          display: none;
+        }
+        
         a {
             border:0;
             margin:0 0.3em;
