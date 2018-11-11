@@ -1,8 +1,8 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 'leeres-template'
-webhook_url:
+admin_path: leeres-template
+webhook_url: 
 sections:
 - type: heading
   label: DEUTSCH
@@ -18,37 +18,37 @@ sections:
   path: _i18n/de/kloster/kloster.md
   label: Kloster
   templates:
-  - 'leeres-template'
+  - leeres-template
 - type: document
   path: _i18n/de/gottesdienste/gottesdienste.md
   label: Gottesdienste
   templates:
-  - 'leeres-template'
+  - leeres-template
 - type: document
   path: _i18n/de/verlag/verlag.md
   label: Verlag
   templates:
-  - 'leeres-template'
+  - leeres-template
 - type: document
   path: _i18n/de/freundeskreis/freundeskreis.md
   label: Freundeskreis
   templates:
-  - 'leeres-template'
+  - leeres-template
 - type: document
   path: _i18n/de/kontakt/kontakt.md
   label: Kontakt
   templates:
-  - 'leeres-template'
+  - leeres-template
 - type: document
   path: _i18n/de/spenden/spenden.md
   label: Spenden
   templates:
-  - 'leeres-template'
+  - leeres-template
 - type: document
   path: pages/impressum.md
   label: Impressum
   templates:
-  - 'leeres-template'
+  - leeres-template
 - type: heading
   label: РУССКИЙ
 - type: directory
@@ -63,34 +63,34 @@ sections:
   path: _i18n/ru/kloster/kloster.md
   label: Обитель
   templates:
-  - 'leeres-template'
+  - leeres-template
 - type: document
   path: _i18n/ru/gottesdienste/gottesdienste.md
   label: Службы
   templates:
-  - 'leeres-template'
+  - leeres-template
 - type: document
   path: _i18n/ru/verlag/verlag.md
   label: Издательство
   templates:
-  - 'leeres-template'
+  - leeres-template
 - type: document
   path: _i18n/ru/freundeskreis/freundeskreis.md
   label: Попечители
   templates:
-  - 'leeres-template'
+  - leeres-template
 - type: document
   path: _i18n/ru/kontakt/kontakt.md
   label: Контакт
   templates:
-  - 'leeres-template'
+  - leeres-template
 - type: document
   path: _i18n/ru/spenden/spenden.md
   label: Пожертвования
   templates:
-  - 'leeres-template'
+  - leeres-template
 upload_dir: uploads
 public_path: "/uploads"
-front_matter_path: 'leeres-template'
+front_matter_path: leeres-template
 use_front_matter_path: false
 file_template: ":year:/:month:/:filename:"
