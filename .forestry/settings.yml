@@ -89,7 +89,7 @@ sections:
   label: Пожертвования
   templates:
   - leeres-template
-upload_dir: uploads/assets
+upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: leeres-template
 use_front_matter_path: false
