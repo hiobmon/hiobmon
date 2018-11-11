@@ -44,6 +44,11 @@ sections:
   label: Spenden
   templates:
   - 'leeres-template'
+- type: document
+  path: pages/impressum.md
+  label: Impressum
+  templates:
+  - 'leeres-template'
 - type: heading
   label: РУССКИЙ
 - type: directory
