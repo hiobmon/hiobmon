@@ -2,8 +2,8 @@ inc:
   # Blog Information
   title:        "Kloster des heiligen Hiob"
   subtitle:     "Russische Orthodoxe Kirche im Ausland | München-Obermenzing"
-  cover_image:  Hiobmon-Tserkov.jpg
-  logo:         Hiobmon-Logo.png
+  cover_image:  /uploads/assets/pages/shared/cover_images/kirche.jpg
+  logo:         hiobmon_logo.png
 
   # Company information
   company:      Incorporated
@@ -47,7 +47,7 @@ exclude:
   - Rakefile
 timezone:    nil
 languages: ['de', 'ru']
-exclude_from_localizations: ['javascript', 'images', 'css']
+exclude_from_localizations: ['javascript', 'uploads', 'css']
 gems: [jekyll-paginate, jekyll-multiple-languages-plugin]
 
 # Show future posts
@@ -80,8 +80,8 @@ kramdown:
   use_tex:    false
   use_divs:   false
   png_engine: blahtex
-  png_dir:    images/latex
-  png_url:    /images/latex
+  png_dir:    uploads/latex
+  png_url:    /uploads/latex
 
 rdiscount:
   extensions: []
@@ -117,7 +117,7 @@ assets:
   sources:
     - css/javascripts
     - css/stylesheets
-    - css/images
+    - uploads/assets
   js_compressor: uglifier
   css_compressor: sass
   cachebust: none

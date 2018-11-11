@@ -1,8 +1,8 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: leeres-template
-webhook_url: 
+admin_path: .forestry/
+webhook_url:
 sections:
 - type: heading
   label: DEUTSCH

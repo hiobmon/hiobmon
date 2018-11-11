@@ -4,7 +4,7 @@ layout: post
 lang: ru
 categories: freundeskreis
 title: Собрание членов попечительского общества
-cover_image: Hiobmon-Tserkov.jpg
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 
 excerpt: "нашего общества состоится 14 февраля в 10 часов..."
 

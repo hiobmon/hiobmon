@@ -4,7 +4,7 @@ layout: post
 lang: de
 categories: de posts
 title: Das Evangelium auf Deutsch von der Schweizerischen Bibelgesellschaft erscheint bald
-cover_image: Hiobmon-Tserkov.jpg
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 
 excerpt: "Die Schweizerische Bibelgesellschaft (SB) arbeitet an der neuen Bibelübersetzung «Byzantinischer Text Deutsch BTD». Die Quelle der Übersetzung..."
 

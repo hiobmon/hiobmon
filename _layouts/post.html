@@ -1,7 +1,7 @@
 ---
 layout: base
 ---
-<div class="blog-cover" style="background-image:url(/images/{{ page.cover_image }});">
+<div class="blog-cover" style="background-image:url({{ page.cover_image }});">
   <section>
     <div class="container">
       <h1>{% t landing_page.title %}</h1>
@@ -28,7 +28,7 @@ layout: base
 
         <footer>
             <address>
-               {% if page.author.image %}<img src="/images/{{ page.author.image }}">{% endif %}
+               {% if page.author.image %}<img src="/images/assets/pages/shared/authors/{{ page.author.image }}">{% endif %}
                 <p>{% t post.written_by %} {{ page.author.name }}<br>
                 <span class="muted">{{ page.author.bio }}</span>
                 </p>

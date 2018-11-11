@@ -1,9 +1,9 @@
 ---
-layout: base
+layout: index
 
 title: pages.news
 ---
-<div class="blog-cover" style="background-image:url(/images/{{ site.inc.cover_image }});">
+<div class="blog-cover" style="background-image:url(/uploads/assets/pages/aktuelles/cover_image.jpg);">
   <section>
     <div class="container">
       <h1>{% t landing_page.title %}</h1>
@@ -27,7 +27,7 @@ title: pages.news
               {% endif %}
                 <p>{{ post.excerpt }}</p>
                 <div class="meta">
-                    Written By <address>{{ post.author.name }}</address> &mdash;
+                    {% t post.written_by %} <address>{{ post.author.name }}</address> &mdash;
                     <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time>
                 </div>
             {% endunless %}

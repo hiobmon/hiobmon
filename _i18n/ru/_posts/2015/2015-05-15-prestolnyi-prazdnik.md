@@ -4,7 +4,7 @@ layout: post
 lang: ru
 categories: ikonen
 title: Икона Богородицы Курская-Коренная в Мюнхене - 9/10 мая 2015
-cover_image: Hiobmon-Tserkov.jpg
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 
 excerpt: "Чудотворная икона Божией Матери \"Курская-Коренная\" посещает нашу епархию"
 
