@@ -6,7 +6,12 @@ Es ist geplant, dass unsere Webseite unter folgender URL erreichbar ist:
 - https://hiobmon.org _(Hauptseite)_
 - https://hiobmon.de _(Weiterleitung auf die .org Domain)_
 
-## Allgemeines Setup
+## Content hinzufügen
+Wir verwenden [Forestry.io](https://forestry.io/) als CMS. Dieses Plugin erlaubt es, ohne Programmierkenntnisse Blogposts hinzuzufügen. Es lohnt sich, einen Blick auf die offizielle [Forestry.io](https://forestry.io/docs/quickstart/tour/) Dokumentation zu werfen.
+
+Eine detailliertere Dokumentation wird in Zukunft auf dem [Wiki](https://github.com/hiobmon/hiobmon.github.io/wiki) entstehen.
+
+## Allgemeine Codestruktur
 Für die Homepage werden folgende Technologien verwendet:
 - [Jekyll](https://jekyllrb.com/) zum generieren von statischen HTML-Seiten.
 - [GitHub Pages](https://pages.github.com/) zum Hosten der Webseite.
@@ -51,7 +56,3 @@ Der ```master``` Branch wird automatisch mit [https://hiobmon.github.io](https:/
 
 Geplant, aber noch nicht umgesetzt: [https://hiobmon.github.io](https://hiobmon.github.io) wird automatisch mit [https://hiobmon.org](https://hiobmon.org) und [https://hiobmon.de](https://hiobmon.de) gesynct.
 
-## Content hinzufügen
-Wir verwenden [Forestry.io](https://forestry.io/) als CMS. Dieses Plugin erlaubt es, ohne Programmierkenntnisse Blogposts hinzuzufügen. Es lohnt sich, einen Blick auf die offizielle [Forestry.io](https://forestry.io/docs/quickstart/tour/) Dokumentation zu werfen.
-
-Eine detailliertere Dokumentation wird in Zukunft auf dem [Wiki](https://github.com/hiobmon/hiobmon.github.io/wiki) entstehen.
