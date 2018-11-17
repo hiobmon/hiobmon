@@ -56,6 +56,10 @@ Am Tag des hl. Simeon vom Wunderberg, 24. Mai/6. Juni 2016 wurde er zum Priester
 
 ## Priestermönch Anatolij (Tregubenko)
 ![Priestermönch Anatolij (Tregubenko)](/uploads/assets/pages/kloster/otez_anatolii.jpg)  
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Priestermönch Anatolij (Tregubenkov) wurde am 23.10.1966 in Krasnojarsk geboren.
+Er besuchte seit 1974 die Schule in Chmelnyzkyj, welche er 1984 beendete. 1985 wurde er in die Sowjetische Armee eingezogen. 1986 begann er seine Ausbildung im Institut für Kommunikationstechnik, welche er mit der Spezialisation als Radio-Ingenieur abschloss. 1999 emigrierte er nach Schweden.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Seit 1994 war er Gemeindemitglied der Maria-Entschlafens-Kirche in Chmelnyzkyj, nach seinem Umzug nach Schweden besuchte er regelmäßig die orthodoxe Kirche zu Ehren der hll. Kyrill und Method in Malmö. 2004 pilgerte er zur Lavra von Potschajew im Westen der Ukraine, wo er sich entschied, als Trudnik (Anwärter zum Mönchtum) zu bleiben. 2005 wurde er dort Novize des Klosters.
+
+2009 siedelte er als Novize über in das Kloster des hl. Hiob in München.
+2012 wurde er von Erzbischof Mark zum Inok/Rassophor-Mönch mit dem Namen Amfilochij geschoren. Am 4. März 2016 wurde er zum Mönch mit dem Namen Anatolij geschoren und am 5. März folgte seine Weihe zum Diakon, gefolgt von der Chirotonie (Handauflegung) zum Priestermönch am 6. März.
