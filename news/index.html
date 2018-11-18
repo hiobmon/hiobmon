@@ -42,11 +42,11 @@ title: pages.news
         {% if paginator.previous_page == 1 %}
         <a href="/" class="btn btn-outline pagination">‹ {% t post.newer %}</a>
         {% else %}
-        <a href="{{ site.url }}/{{ site.baseurl }}{{ paginator.previous_page_path }}" class="btn btn-outline pagination">‹ {% t post.newer %}</a>
+        <a href="{{ site.url }}{{ site.baseurl }}{{ paginator.previous_page_path }}" class="btn btn-outline pagination">‹ {% t post.newer %}</a>
         {% endif %}
       {% endif %}
       {% if paginator.next_page %}
-        <a href="{{ site.url }}/{{ site.baseurl }}{{ paginator.next_page_path }}" class="btn btn-outline pagination">{% t post.older %} ›</a>
+        <a href="{{ site.url }}{{ site.baseurl }}{{ paginator.next_page_path }}" class="btn btn-outline pagination">{% t post.older %} ›</a>
       {% endif %}
     </section>
 </article>
