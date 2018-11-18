@@ -28,7 +28,7 @@ title: pages.news
                 <p>{{ post.excerpt }}</p>
                 <div class="meta">
                     {% t post.written_by %} <address>{{ post.author.name }}</address> &mdash;
-                    <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time>
+                    <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%d-%m-%Y" }}</time>
                 </div>
             {% endunless %}
           {% endfor %}
@@ -37,16 +37,16 @@ title: pages.news
     </section>
     {% endunless %}
     {% endfor %}
-    <section class="pagination" style="text-align:center">
+    <section class="text-center">
       {% if paginator.previous_page %}
         {% if paginator.previous_page == 1 %}
-        <a href="/" class="btn btn-outline">‹ Newer</a>
+        <a href="/" class="btn btn-outline pagination">‹ {% t post.newer %}</a>
         {% else %}
-        <a href="{{ site.url }}{{ site.baseurl }}{{ paginator.previous_page_path }}" class="btn btn-outline">‹ Newer</a>
+        <a href="{{ site.url }}{{ site.baseurl }}{{ paginator.previous_page_path }}" class="btn btn-outline pagination">‹ {% t post.newer %}</a>
         {% endif %}
       {% endif %}
       {% if paginator.next_page %}
-        <a href="{{ site.url }}{{ site.baseurl }}{{ paginator.next_page_path }}" class="btn btn-outline">Older ›</a>
+        <a href="{{ site.url }}{{ site.baseurl }}{{ paginator.next_page_path }}" class="btn btn-outline pagination">{% t post.older %} ›</a>
       {% endif %}
     </section>
 </article>

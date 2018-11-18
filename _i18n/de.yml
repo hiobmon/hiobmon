@@ -20,6 +20,8 @@ pages:
 post:
   written_by: Geschrieben von
   by: Von
+  older: Weiter
+  newer: Zurück
 landing_page:
   title: Kloster des heiligen Hiob
   subtitle: Russische Orthodoxe Kirche im Ausland | München-Obermenzing
