@@ -1,12 +1,12 @@
 inc:
   # Blog Information
   title:        "Kloster des heiligen Hiob"
-  subtitle:     "Russische Orthodoxe Kirche im Ausland | München-Obermenzing"
+  subtitle:     "Russisch-Orthodoxe Kirche im Ausland | München-Obermenzing"
   cover_image:  /uploads/assets/pages/shared/cover_images/kirche.jpg
   logo:         hiobmon_logo.png
 
   # Company information
-  company:      Incorporated
+  company:      Kloster des heiligen Hiob von Počaev
   url:          http://hiobmon.de
 
   # Comments
@@ -71,7 +71,6 @@ textile_ext:   textile
 excerpt_separator: "<!-- more -->"
 
 safe:        false
-host:        0.0.0.0
 port:        4000
 baseurl:     /
 lsi:         false
