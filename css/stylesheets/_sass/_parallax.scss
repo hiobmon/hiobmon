@@ -1,6 +1,6 @@
 .parallax {
   overflow-x: hidden;
-  height: 100vh;
+  height: 120vh;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -24,10 +24,22 @@
 
   section {
     text-align: center;
-    height: 100vh;
+    height: 120vh;
     background-color:rgba(0,0,0,0.4);
-    padding: 20vh 0;
+    padding: 13em 0;
     z-index:10;
+  }
+
+  @media (max-width: 600px) {
+    section {
+      padding: 9em 0;
+    }
+  }
+
+  @media (max-width: 400px) {
+    section {
+      padding: 5em 0;
+    }
   }
 
   &.location {
