@@ -62,7 +62,7 @@ permalink:     pretty
 
 # Pagination: https://github.com/scandio/jekyll-paginate-multiple
 paginate: 5
-paginate_path: '/news/page:num'
+paginate_path: '/news/:num'
 
 markdown:      kramdown
 markdown_ext:  markdown,mkd,mkdn,md

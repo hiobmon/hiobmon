@@ -20,7 +20,7 @@ title: pages.news
         <div>
           {% for lang in site.languages %}
             {% unless site.lang == lang %}
-              {% if site.lang == site.default_lang %}
+              {% if site.lang == 'de' %}
                 <h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
               {% elsif site.lang == 'ru' %}
                 <h2 class="title"><a href="{{ post.url | prepend: '/ru'}}" rel="prefetch">{{ post.title }}</a></h2>
