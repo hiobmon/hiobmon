@@ -30,47 +30,48 @@ landing_page:
     text: >
   location:
     heading: Lage
-    text: >
+    first_column: >
       Unweit des Schlosses Blutenburg im Münchner Stadtteil Obermenzing befindet
       sich hinter Bäumen versteckt das Kloster des heiligen Hiob von Počaev der
       russischen orthodoxen Kirche im Ausland, gegründet 1946. Davor schon hatten
       die russischen Mönche ein Kloster in der Ostslowakei bevölkert. Die
       Bruderschaft war jedoch am Ende des zweiten Weltkrieges vor der Roten
       Armee geflüchtet und ließ sich schließlich in München nieder.
+    second_column: >
       Heute leben im Kloster über zehn Bewohner, deren Tag jeden Morgen noch im
-      Dunkeln mit dem Gottesdienst  um vier Uhr beginnt. Die Grundhaltung im
-      orthodoxen Gottesdienst ist das Stehen, Instrumente  zur Begleitung des
-      Gesang gibt es nicht, die  liturgischen Texte, die bis ins erste
-      Jahrtausend zurückreichen, werden gesungen oder gesangartig rezitiert.
+      Dunkeln mit dem Gottesdienst  um vier Uhr beginnt.
+      Die Grundhaltung im orthodoxen Gottesdienst ist das Stehen, Instrumente  zur Begleitung des
+      Gesang gibt es nicht, die liturgischen Texte, die bis ins erste Jahrtausend zurückreichen, werden gesungen oder gesangartig rezitiert.
   church_service:
     heading: Gottesdienste
-    text: >
+    first_column: >
       Der Gottesdienst dauert einschließlich der  Göttlichen Liturgie (der
       Eucharistie) bis ca. 8 Uhr. Danach folgt als “Frühstück” die Hauptmahlzeit
       des Tages. Anschließend arbeiten die Mönche. Die Arbeit wird von 12
       bis 14 Uhr durch die  Mittagsruhe unterbrochen und dann bis zum Abend
       fortgesetzt. Um 18 Uhr beginnt der  Abendgottesdienst. Anschließend wird
-      gegen 19 Uhr gemeinsam zu Abend gegessen. Um ca. 19.45 Uhr ist der
-      Spätabendgottesdienst, in dem sich alle vor den Ikonen, die die Heiligen
-      und den Erlöser  Jesus Christus darstellen, verbeugen und sie küssen,
-      einander um Vergebung bitten und den Segen  vom Abt empfangen. Eine
-      individuelle Gebetsregel wird anhand der Gebetsschnur verrichtet,
+      gegen 19 Uhr gemeinsam zu Abend gegessen. Um ca. 19.45 Uhr ist der Spätabendgottesdienst, in dem sich alle vor den Ikonen,
+    second_column: >
+      die die Heiligen und den Erlöser Jesus Christus darstellen, verbeugen und sie küssen,
+      einander um Vergebung bitten und den Segen  vom Abt empfangen.
+      Eine individuelle Gebetsregel wird anhand der Gebetsschnur verrichtet,
       sie beinhaltet die je nach  geitlichem Vortschritt gebotene Anzahl
       Verbeugungen und die Übung im “immerwährenden  Herzensgebet”, dem
       stillen Zentrum des orthodoxen Mönchslebens.
   workshops:
     heading: Arbeits- und Lebensbereiche
-    text: >
-      Das Kloster betreibt neben anderen Werkstätten für Kerzen,  Weihrauch etc.
-      auch eine Druckerei, die orthodoxe Bücher in  deutscher und russischer
-      Sprache herausgibt sowie die  Diözesanzeitschrift “Der Bote”, welche die
-      Lehre der christlichen  Väter weitergibt und über das Leben der deutschen
-      Diözese  berichtet. Zum Kloster kommen immer wieder zahlreiche Pilger.
-      Die Teilnahme am liturgischen und geistigen  Leben des Klosters wird
-      für viele Gläubige schon nach dem ersten kurzen Besuch zu einem Lichtquell,
+    first_column: >
+      Das Kloster betreibt neben anderen Werkstätten für Kerzen, Weihrauch etc.
+      auch eine Druckerei, die orthodoxe Bücher in deutscher und russischer
+      Sprache herausgibt sowie die Diözesanzeitschrift “Der Bote”, welche die
+      Lehre der christlichen Väter weitergibt und über das Leben der deutschen
+      Diözese berichtet. Zum Kloster kommen immer wieder zahlreiche Pilger.
+      Die Teilnahme am liturgischen
+    second_column: >
+      und geistigen Leben des Klosters wird für viele Gläubige schon nach dem ersten kurzen Besuch zu einem Lichtquell,
       von dem man sich geistig nährt, und zu dem man - so es gelingt - von
-      einem Jahr zum nächsten immer  wieder hingezogen wird. Die Einfachheit,
-      Kargheit und innere Sammlung lässt das Kloster zu einem  Ort der Freude
+      einem Jahr zum nächsten immer wieder hingezogen wird.
+      Die Einfachheit, Kargheit und innere Sammlung lässt das Kloster zu einem Ort der Freude
       werden, die so beständig ist, wie man es in der Welt draußen nicht kennt.
 footer:
   kloster_buchendorf: Frauenkloster der hll. Elisabeth v. Hessen-Darmstadt
