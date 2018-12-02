@@ -1,14 +1,12 @@
 ---
-title: 'Gottesmutterikone von Kursk >>von der Wurzel<< in München - 9./10. Mai 2015'
+title: 'Gottesmutterikone von Kursk in München - 9. und 10. Mai 2015'
 author:
   bio: Arbeitsgruppe Internet
   name: Lena
 layout: post
 lang: de
-cover_image: Hiobmon-Tserkov.jpg
-date: 2018-12-02 15:08:00 +0100
-excerpt: Die wundertätige Kursker Gottesmutterikone >>von der Wurzel<< besucht unsere Diözese.
-Die Ankunft der Ikone wird am Abend 08.05.2015 im Kloster des Hl. Hiob erwartet.
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
+excerpt: Die wundertätige Kursker Gottesmutterikone >>von der Wurzel<< besucht unsere Diözese. Die Ankunft der Ikone wird am Abend 08.05.2015 im Kloster des Hl. Hiob erwartet.
 categories: []
 ---
 Die wundertätige Kursker Gottesmutterikone "von der Wurzel" besucht unsere Diözese.

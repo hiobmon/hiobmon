@@ -1,12 +1,11 @@
 ---
 title: Patronatsfest im Kloster
 author:
-  bio: Рабочая группа Интернета
+  bio: Arbeitsgruppe Internet
   name: Lena
 layout: post
 lang: de
-cover_image: Hiobmon-Tserkov.jpg
-date: 2018-12-02 15:10:55 +0100
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 excerpt: Am Freitag, den 10.11.2017 feiert das Kloster sein Patronatsfest.
 categories: []
 

@@ -1,12 +1,11 @@
 ---
-title: Brand im Kloster am Sonntag Nacht
+title: Brand im Kloster am Sonntag abend
 author:
-  bio: Рабочая группа Интернета
+  bio: Arbeitsgruppe Internet
   name: Lena
 layout: post
 lang: de
-cover_image: Hiobmon-Tserkov.jpg
-date: 2018-12-02 15:11:51 +0100
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 excerpt: ''
 categories: []
 

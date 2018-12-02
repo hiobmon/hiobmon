@@ -1,14 +1,13 @@
 ---
 title: 'Update - Brand im Kloster am Sonntag Nacht'
 author:
-  bio: Рабочая группа Интернета
+  bio: Arbeitsgruppe Internet
   name: Lena
 layout: post
 lang: de
-cover_image: Hiobmon-Tserkov.jpg
-date: 2018-12-02 15:05:39 +0100
-excerpt: Liebe Freunde des Klosters, liebe Besucher,  am vergangenen Dienstag, den
-  05 Dezember, hat die Sitzung des Bezirksausschusses 21 Pasing-Obermenzing statt
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
+excerpt: Liebe Freunde des Klosters, liebe Besucher, am vergangenen Dienstag, den
+  5. Dezember, hat die Sitzung des Bezirksausschusses 21 Pasing-Obermenzing statt
   gefunden. Das Kloster war in der Sitzung durch den Priestermönch Kornilij und den
   Dirigenten des Klosterchores Mönchsdiakon Hiob vertreten.
 categories: []

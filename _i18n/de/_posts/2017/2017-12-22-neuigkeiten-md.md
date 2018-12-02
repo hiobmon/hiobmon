@@ -1,12 +1,11 @@
 ---
-title: 'Neues aus der Presse: Deutschen werden christliche Wurzeln wichtiger'
+title: 'Neues aus der Presse - Deutschen werden christliche Wurzeln wichtiger'
 author:
-  bio: Рабочая группа Интернета
+  bio: Arbeitsgruppe Internet
   name: Lena
 layout: post
 lang: de
-cover_image: Hiobmon-Tserkov.jpg
-date: 2018-12-02 14:47:13 +0100
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 excerpt: Die Frankfurter Allgemeine Zeitung hat neulich die Ergebnisse der neuen Allensbach-Studie
   veröffentlicht. Unter folgendem Link ist der Artikel in der e-Version zu lesen...
 categories: []

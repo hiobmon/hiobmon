@@ -1,12 +1,11 @@
 ---
 title: Der Münchner Athos - SE Bischof Agapit über das Kloster des Hl. Hiob
 author:
-  bio: Рабочая группа Интернета
+  bio: Arbeitsgruppe Internet
   name: Lena
 layout: post
 lang: de
-cover_image: Hiobmon-Tserkov.jpg
-date: 2018-12-02 15:09:54 +0100
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 excerpt: ''
 categories: []
 

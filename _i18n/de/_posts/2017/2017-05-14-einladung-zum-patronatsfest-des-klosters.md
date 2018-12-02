@@ -1,12 +1,11 @@
 ---
 title: Einladung zum Patronatsfest des Klosters
 author:
-  bio: Рабочая группа Интернета
+  bio: Arbeitsgruppe Internet
   name: Lena
 layout: post
 lang: de
-cover_image: Hiobmon-Tserkov.jpg
-date: 2018-12-02 15:24:53 +0100
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 excerpt: Am  19 (6) Mai feiert das Kloster sein Patronatsfest. Alle Freunde und  Besucher
   des Klosters sind herzlich eingeladen an dem Fest teilzunehmen.
 categories: []

@@ -1,12 +1,11 @@
 ---
 title: Klosterbrüder suchen Hilfe - Presse über Brandstiftungen im Kloster
 author:
-  bio: Рабочая группа Интернета
+  bio: Arbeitsgruppe Internet
   name: Lena
 layout: post
 lang: de
-cover_image: Hiobmon-Tserkov.jpg
-date: 2018-12-02 14:55:28 +0100
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 excerpt: Auch die Münchner Merkur hat über die Sitzung des Bezirksausschusses und
   die Diskussion über die Situation mit den Brandstiftungen berichtet
 categories: []

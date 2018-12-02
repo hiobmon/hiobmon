@@ -1,12 +1,11 @@
 ---
 title: Predigt von Priestermönch Kornilij am zweiten Weihnachtstag
 author:
-  bio: Рабочая группа Интернета
+  bio: Arbeitsgruppe Internet
   name: Lena
 layout: post
 lang: de
-cover_image: Hiobmon-Tserkov.jpg
-date: 2018-12-02 15:30:50 +0100
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 excerpt: ''
 categories: []
 

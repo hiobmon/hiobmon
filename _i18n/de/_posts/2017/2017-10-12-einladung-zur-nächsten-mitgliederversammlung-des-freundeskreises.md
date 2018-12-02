@@ -1,12 +1,11 @@
 ---
 title: Einladung zur nächsten Mitgliederversammlung des Freundeskreises
 author:
-  bio: Рабочая группа Интернета
+  bio: Arbeitsgruppe Internet
   name: Lena
 layout: post
 lang: de
-cover_image: Hiobmon-Tserkov.jpg
-date: 2018-12-02 15:16:32 +0100
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 excerpt: ''
 categories: []
 

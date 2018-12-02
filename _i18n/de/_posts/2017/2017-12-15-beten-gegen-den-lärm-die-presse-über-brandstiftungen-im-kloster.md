@@ -1,14 +1,13 @@
 ---
 title: Beten gegen den Lärm - die Presse über Brandstiftungen im Kloster
 author:
-  bio: Рабочая группа Интернета
+  bio: Arbeitsgruppe Internet
   name: Lena
 layout: post
 lang: de
-cover_image: Hiobmon-Tserkov.jpg
-date: 2018-12-02 15:03:41 +0100
-excerpt: Die  Süddeutsche Zeitung hat am vergangenen Mittwoch über die Sitzung des  Bezirksausschusses,
-  wo die Serie der Brandstiftungen im Kloster  diskutiert wurde, berichtet.
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
+excerpt: Die Süddeutsche Zeitung hat am vergangenen Mittwoch über die Sitzung des  Bezirksausschusses,
+  wo die Serie der Brandstiftungen im Kloster diskutiert wurde, berichtet.
 categories: []
 
 ---

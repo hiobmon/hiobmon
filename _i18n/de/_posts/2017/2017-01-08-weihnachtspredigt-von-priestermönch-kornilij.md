@@ -1,12 +1,11 @@
 ---
 title: Weihnachtspredigt von Priestermönch Kornilij
 author:
-  bio: Рабочая группа Интернета
+  bio: Arbeitsgruppe Internet
   name: Lena
 layout: post
 lang: de
-cover_image: Hiobmon-Tserkov.jpg
-date: 2018-12-02 15:36:51 +0100
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 excerpt: ''
 categories: []
 

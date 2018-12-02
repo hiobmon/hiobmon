@@ -2,13 +2,12 @@
 title: Die wundertätige Ikone der Gottemutter mit dem Beinamen >>von der Wurzel<< besucht
   unsere Diozese
 author:
-  bio: Рабочая группа Интернета
+  bio: Arbeitsgruppe Internet
   name: Lena
 layout: post
 lang: de
-cover_image: Hiobmon-Tserkov.jpg
-date: 2018-12-02 15:19:42 +0100
-excerpt: 'Reiseplan der wundertätigen Gottesmutterikone von Kursk 2017: ...'
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
+excerpt: 'Reiseplan der wundertätigen Gottesmutterikone von Kursk 2017 ...'
 categories: []
 
 ---

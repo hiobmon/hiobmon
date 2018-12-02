@@ -1,12 +1,11 @@
 ---
-title: Predigt von Priestermönch Kornilij am 19 Sonntag nach Pfingsten
+title: Predigt von Priestermönch Kornilij am 19. Sonntag nach Pfingsten
 author:
-  bio: Рабочая группа Интернета
+  bio: Arbeitsgruppe Internet
   name: Lena
 layout: post
 lang: de
-cover_image: Hiobmon-Tserkov.jpg
-date: 2018-12-02 15:14:18 +0100
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 excerpt: ''
 categories: []
 

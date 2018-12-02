@@ -5,9 +5,8 @@ author:
   name: Lena
 layout: post
 lang: de
-cover_image: Hiobmon-Tserkov.jpg
-date: 2018-12-02 15:08:00 +0100
-excerpt: An kommenden Tagen werden in der Orthodoxen Kirche gleich 3 Feste gefeiert: Totengedenken am Samstag, Pfingsten (Heilige Dreiheit) am Sonntag und Tag des Heiligen Geistes am Montag.
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
+excerpt: An kommenden Tagen werden in der Orthodoxen Kirche gleich 3 Feste gefeiert - Totengedenken am Samstag, Pfingsten (Heilige Dreiheit) am Sonntag und Tag des Heiligen Geistes am Montag.
 categories: []
 ---
 An kommenden Tagen werden in der Orthodoxen Kirche gleich 3 Feste gefeiert: Totengedenken am Samstag, Pfingsten (Heilige Dreiheit) am Sonntag und Tag des Heiligen Geistes am Montag. Die Gottesdienste werden wie folgt zelebriert:

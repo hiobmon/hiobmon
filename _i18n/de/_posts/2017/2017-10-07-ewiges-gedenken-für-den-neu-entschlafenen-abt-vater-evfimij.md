@@ -1,12 +1,11 @@
 ---
 title: Ewiges Gedenken für den neu entschlafenen Abt Vater Evfimij
 author:
-  bio: Рабочая группа Интернета
+  bio: Arbeitsgruppe Internet
   name: Lena
 layout: post
 lang: de
-cover_image: Hiobmon-Tserkov.jpg
-date: 2018-12-02 15:18:33 +0100
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 excerpt: Liebe Freunde des Klosters!  Gestern, am 5. Oktober um 15.15 Uhr, entschlief
   nach langer schwerer  Krankheit im Kloster des Hl. Hiob von Pocaev Igumen Evfimij
   im Alter von  64 Jahren friedlich.

@@ -5,8 +5,7 @@ author:
   name: Lena
 layout: post
 lang: de
-cover_image: Hiobmon-Tserkov.jpg
-date: 2018-12-02 15:08:00 +0100
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 excerpt: Liebe Mitglieder des Freundeskreises und Besucher unserer Web-Seite! Am 19.05, dem Gedenktag des Heiligen Hiob von Počaev, feiert das Kloster sein Patronatsfest.
 categories: []
 ---
