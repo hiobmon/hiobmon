@@ -78,6 +78,7 @@ fields:
   label: Kategorien
   description: Zu welchen Kategorien gehört der Blogpost? Optional.
 pages:
+- _i18n/de/_posts/2017/die-wundertätige-ikone-der-gottemutter-mit-dem-beinamen-von-der-wurzel-besucht-unsere-diozese.md
 - _i18n/de/_posts/2017/2018-12-02-ewiges-gedenken-für-den-neu-entschlafenen-abt-vater-evfimij.md
 - _i18n/de/_posts/2017/2018-12-02-abschied-vom-vater-evfimij.md
 - _i18n/de/_posts/2017/2018-12-02-einladung-zur-nächsten-mitgliederversammlung-des-freundeskreises.md
