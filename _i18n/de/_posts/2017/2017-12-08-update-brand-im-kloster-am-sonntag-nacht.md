@@ -1,5 +1,5 @@
 ---
-title: 'Update: Brand im Kloster am Sonntag Nacht'
+title: 'Update - Brand im Kloster am Sonntag Nacht'
 author:
   bio: Рабочая группа Интернета
   name: Lena

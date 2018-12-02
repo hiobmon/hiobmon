@@ -10,7 +10,7 @@ date: 2018-12-02 15:01:44 +0100
 excerpt: 'Die Hallo-München Zeitung hat in der Ausgabe von der letzen Woche dem Thema
   Brandstiftungssituation im Kloster des Hl. Hiob einen Artikel gewidmet. Die Situation
   ist in dem Artikel von der anderen Seite gezeigt, nämlich aus der Perspektive der
-  Nachbarschaft. '
+  Nachbarschaft.'
 categories: []
 
 ---
