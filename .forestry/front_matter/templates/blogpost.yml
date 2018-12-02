@@ -78,7 +78,7 @@ fields:
   label: Kategorien
   description: Zu welchen Kategorien gehört der Blogpost? Optional.
 pages:
-- _i18n/de/_posts/2017/einladung-zur-nächsten-mitgliederversammlung-des-freundeskreises.md
+- _i18n/de/_posts/2017/2018-12-02-einladung-zur-nächsten-mitgliederversammlung-des-freundeskreises.md
 - _i18n/de/_posts/2017/2018-12-02-predigt-von-priestermönch-kornilij-am-19-sonntag-nach-pfingsten.md
 - _i18n/de/_posts/2017/2018-12-02-brand-im-kloster-am-sonntag-nacht.md
 - _i18n/de/_posts/2017/2018-12-02-patronatsfest-im-kloster.md
