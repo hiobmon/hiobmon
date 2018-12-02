@@ -78,6 +78,7 @@ fields:
   label: Kategorien
   description: Zu welchen Kategorien gehört der Blogpost? Optional.
 pages:
+- _i18n/de/_posts/2017/predigt-von-priestermönch-kornilij-am-zweiten-weihnachtstag.md
 - _i18n/de/_posts/2017/2018-12-02-predigt-von-priestermönch-kornilij-am-sonntag-der-orthodoxie.md
 - _i18n/de/_posts/2017/gottesdienstplan-große-fastenzeit.md
 - _i18n/de/_posts/2017/update-gottesdiensplan-karwoche-und-ostern.md
