@@ -6,7 +6,7 @@ author:
 layout: post
 lang: de
 cover_image: Hiobmon-Tserkov.jpg
-date: 2018-12-02 15:31:51 +0100
+date: 2018-12-02 15:36:51 +0100
 excerpt: ''
 categories: []
 
