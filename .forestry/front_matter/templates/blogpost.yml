@@ -15,7 +15,7 @@ fields:
     Blogposts schonmal anlesen können. Pflichtfeld.
   label: Untertitel
   config:
-    required: true
+    required: false
 - type: field_group
   name: author
   description: Geben Sie Infos zu dem Artikelautor an. Pflichtfeld.
