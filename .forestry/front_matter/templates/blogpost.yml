@@ -78,7 +78,7 @@ fields:
   label: Kategorien
   description: Zu welchen Kategorien gehört der Blogpost? Optional.
 pages:
-- _i18n/de/_posts/2017/brand-im-kloster-am-sonntag-nacht.md
+- _i18n/de/_posts/2017/2018-12-02-brand-im-kloster-am-sonntag-nacht.md
 - _i18n/de/_posts/2017/2018-12-02-patronatsfest-im-kloster.md
 - _i18n/de/_posts/2017/2018-12-02-der-münchner-athos-se-bischof-agapit-über-das-kloster-des-hl-hiob.md
 - _i18n/de/_posts/2017/2018-12-02-freundeskreis-bittet-um-ihre-gebete.md
