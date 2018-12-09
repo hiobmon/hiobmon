@@ -9,7 +9,7 @@ cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 excerpt: "Дорогие попечители! 19 мая обитель празднует престольный праздник - день памяти преподобного Иова Почаевского."
 
 author:
-  name: Lena
+  name: Лена
   bio: Рабочая группа Интернета
 ---
 Дорогие попечители!

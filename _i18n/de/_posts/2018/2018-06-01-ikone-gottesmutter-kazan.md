@@ -14,4 +14,4 @@ author:
 ---
 Liebe Besucher und Freunde des Klosters,
 
-am Montag, den 4 Juni wird die Gottesmutterikone mit dem Beinamen von der Wurzel im Kloster sein. Die Ikone kann während des morgigen Gottesdienstes von 4 bis ca. 8 Uhr sowie zum Moleben um 17 Uhr abends besucht werden.
+am Montag, den 4. Juni wird die Gottesmutterikone mit dem Beinamen von der Wurzel im Kloster sein. Die Ikone kann während des morgigen Gottesdienstes von 4 bis ca. 8 Uhr sowie zum Moleben um 17 Uhr abends besucht werden.

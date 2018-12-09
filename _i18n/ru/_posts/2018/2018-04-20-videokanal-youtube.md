@@ -9,7 +9,7 @@ cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 excerpt: "Христос воскресе! Дорогие друзья и посетители нашей странички, с радостью хотим сообщить, что мы смогли получить ..."
 
 author:
-  name: Lena
+  name: Лена
   bio: Рабочая группа Интернета
 ---
 Христос воскресе!

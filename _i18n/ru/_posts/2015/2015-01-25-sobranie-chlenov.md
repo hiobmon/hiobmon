@@ -9,7 +9,7 @@ cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 excerpt: "нашего общества состоится 14 февраля в 10 часов..."
 
 author:
-  name: Lena
+  name: Лена
   bio: Рабочая группа Интернета
 ---
 Дорогие Попечители!

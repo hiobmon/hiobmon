@@ -9,7 +9,7 @@ cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 excerpt: "Дорогие друзья! На этой неделе 09-10 сентября монастырь преподобного Иова отмечает свой престольный праздник."
 
 author:
-  name: Lena
+  name: Лена
   bio: Рабочая группа Интернета
 ---
 Дорогие друзья!

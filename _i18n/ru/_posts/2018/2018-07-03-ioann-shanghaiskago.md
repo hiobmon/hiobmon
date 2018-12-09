@@ -9,7 +9,7 @@ cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 excerpt: ""
 
 author:
-  name: Lena
+  name: Лена
   bio: Рабочая группа Интернета
 ---
 ![Der heilige Johann von Shanghai](/uploads/media/2018/hl_johann_von_shanghai.jpeg)

@@ -9,7 +9,7 @@ cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 excerpt: "Дорогие друзья монастыря преподобного Иова! Следующее собрание нашего общества состоится в эту субботу ..."
 
 author:
-  name: Lena
+  name: Лена
   bio: Рабочая группа Интернета
 ---
 
