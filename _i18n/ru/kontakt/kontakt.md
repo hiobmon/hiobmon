@@ -1,6 +1,6 @@
 Замечания относительно обработки вашей информации и прав см.: [Правовая информация / Политика конфиденциальности](/impressum)
 
-<form accept-charset="UTF-8" action="https://formspree.io/kornilij@hiobmon.org" method="POST">
+<form accept-charset="UTF-8" action="https://formspree.io/kontakt@hiobmon.org" method="POST">
   <div class="form-group">
     <label>Ваше имя:</label>
     <input type="name" class="form-control" name="name">

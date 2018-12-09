@@ -1,6 +1,6 @@
 Hinweise zur Verarbeitung Ihrer Angaben und Widerspruchsrechte siehe: [Impressum/Datenschutz](/impressum)
 
-<form accept-charset="UTF-8" action="https://formspree.io/kornilij@hiobmon.org" method="POST">
+<form accept-charset="UTF-8" action="https://formspree.io/kontakt@hiobmon.org" method="POST">
   <div class="form-group">
     <label>Ihr Name:</label>
     <input type="name" class="form-control" name="name">
