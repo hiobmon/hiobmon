@@ -1,10 +1,11 @@
 # Hiobmon Homepage [![Build Status](https://travis-ci.org/hiobmon/hiobmon.github.io.svg?branch=develop)](https://travis-ci.org/hiobmon/hiobmon.github.io)
 Auf diesem Repository liegt der Sourcecode zu unserer Klosterhomepage.
-Die Klosterseite ist derzeit nur unter [https://hiobmon.github.io](https://hiobmon.github.io) zu erreichen.
 
-Es ist geplant, dass unsere Webseite unter folgender URL erreichbar ist:
-- https://hiobmon.org _(Hauptseite)_
-- https://hiobmon.de _(Weiterleitung auf die .org Domain)_
+Die Klosterseite ist derzeit unter folgenden Links zu erreichen:
+- https://www.hiobmon.org _(Hauptseite)_
+- https://www.hiobmon.de _(Weiterleitung auf die .org Domain)_
+- https://www.hiobmon.com _(Weiterleitung auf die .org Domain)_
+- https://hiobmon.github.io _(ehem. Staging Domain, jetzt Weiterleitung auf die .org Domain)_
 
 ## Content hinzufügen
 Wir verwenden [Forestry.io](https://forestry.io/) als CMS. Dieses Plugin erlaubt es, ohne Programmierkenntnisse Blogposts hinzuzufügen. Es lohnt sich, einen Blick auf die offizielle [Forestry.io](https://forestry.io/docs/quickstart/tour/) Dokumentation zu werfen.
@@ -52,7 +53,4 @@ Der ```master``` Branch enthält eine jederzeit lauffähige Version der Webseite
 Das Deployment und Go-Live erfolgt vollautomatisch und ohne Zutun des Programmierers. Der Deployment-Status lässt sich am Travis CI Build-Badge ablesen: [![Build Status](https://travis-ci.org/hiobmon/hiobmon.github.io.svg?branch=develop)](https://travis-ci.org/hiobmon/hiobmon.github.io). Dieser Build-Badge befindet sich auch weiter oben, rechts neben der Überschrift.
 
 Sobald eine Änderung auf dem ```development``` Branch committed wird, erkennt Travis CI automatisch die Änderungen und generiert den statischen HTML-Code. Der statische HTML-Code wird dann auf dem ```master``` Branch abgelegt.
-Der ```master``` Branch wird automatisch mit [https://hiobmon.github.io](https://hiobmon.github.io) gesynct.
-
-Geplant, aber noch nicht umgesetzt: [https://hiobmon.github.io](https://hiobmon.github.io) wird automatisch mit [https://hiobmon.org](https://hiobmon.org) und [https://hiobmon.de](https://hiobmon.de) gesynct.
-
+Der ```master``` Branch wird automatisch mit [https://www.hiobmon.org](https://www.hiobmon.org) gesynct. Jegliche Änderungen brauchen ca. 2 bis 3 Minuten, bis sie sichtbar werden.
