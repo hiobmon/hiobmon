@@ -1,11 +1,11 @@
-![После второй мировой войны](/uploads/assets/pages/kloster/geschichte.jpg)
+![После второй мировой войны](/uploads/assets/pages/kloster/geschichte.jpg)  
 Unweit des Schlosses Blutenburg, im Münchner Stadtteil Obermenzing, befindet sich hinter Bäumen versteckt das Kloster des heiligen Hiob von Počaev der russischen orthodoxen Kirche im Ausland, gegründet 1946. Davor schon hatten die russischen Mönche ein Kloster in der Ostslowakei bevölkert. Die Bruderschaft war jedoch am Ende des zweiten Weltkrieges vor der Roten Armee geflüchtet und ließ sich schließlich in München nieder.
 
 Heute leben im Kloster über zehn Bewohner, deren Tag jeden Morgen noch im Dunkeln mit dem Gottesdienst um vier Uhr beginnt. Die Grundhaltung im orthodoxen Gottesdienst ist das Stehen, Instrumente zur Begleitung des Gesanges gibt es nicht, die  liturgischen Texte, die bis ins erste Jahrtausend zurückreichen, werden gesungen oder gesangartig rezitiert.
 
 Der Gottesdienst dauert, einschließlich der Göttlichen Liturgie (der Eucharistie), bis ca. 8 Uhr. Danach folgt als “Frühstück” die Hauptmahlzeit des Tages. Anschließend arbeiten die Mönche. Die Arbeit wird von 12 bis 14 Uhr durch die  Mittagsruhe unterbrochen und dann bis zum Abend fortgesetzt. Um 18 Uhr beginnt der Abendgottesdienst. Anschließend wird gegen 19 Uhr gemeinsam zu Abend gegessen. Um ca. 19.45 Uhr ist der Spätabendgottesdienst, indem sich alle vor den Ikonen, welches die Heiligen und den Erlöser Jesus Christus darstellen, verbeugen und sie küssen, einander um Vergebung bitten und den Segen vom Abt empfangen. Eine individuelle Gebetsregel wird anhand der Gebetsschnur verrichtet, sie beinhaltet die je nach geistlichem Fortschritt gebotene Anzahl an Verbeugungen und die Übung im “immerwährenden Herzensgebet”, dem stillen Zentrum des orthodoxen Mönchslebens.
 
-![Богослужение](/uploads/assets/pages/kloster/gottesdienst.jpg)
+![Богослужение](/uploads/assets/pages/kloster/gottesdienst.jpg)  
 Das Kloster betreibt neben anderen Werkstätten für Kerzen, Weihrauch etc. auch eine Druckerei, die orthodoxe Bücher in  deutscher und russischer Sprache sowie die Diözesanzeitschrift “Der Bote” herausgibt, welche die Lehre der christlichen  Väter weitergibt und über das Leben der deutschen Diözese berichtet. Zum Kloster kommen zahlreiche Pilger. Die Teilnahme am liturgischen und geistigen Leben des Klosters wird, für viele Gläubige schon nach dem ersten kurzen Besuch, zu einem Lichtquell, von dem man sich geistig nährt, und zu dem man - so es gelingt - von einem Jahr zum nächsten immer wieder hingezogen wird. Die Einfachheit, Kargheit und innere Sammlung lässt das Kloster zu einem Ort der Freude werden, die so beständig ist, wie man es in der Welt draußen nicht kennt.
 
 # Klerus
@@ -39,22 +39,16 @@ Priestermönch Kornilij wurde am 29. August 1973 im Dorf Kuban, welches im südr
 
 Ende der 1990er Jahre kam er zur Kirche und wurde Ministrant in der Kathedralkirche von Blagowestschensk am Amur. Bis zur Übersiedlung nach Deutschland lehrte er an der Fakultät für Germanistik in der staatlichen Uni in Blagowestschensk. Nach der Übersiedlung wurde er Gemeindemitglied des hl. Serafim von Sarov in Bad Nauheim, Hessen.
 
-2004 wurde er Novize im Kloster des hl. Hiob in München und studierte 2005—2011 extern am Seminarium des Sretenskij-Klosters in Moskau.
+2004 wurde er Novize im Kloster des hl. Hiob in München und studierte 2005—2011 extern am geistlichen Seminar des Sretenskij-Klosters in Moskau. Am 14. (jul.) bzw. dem 27. Juni 2011 (greg.) empfing er die Mönchsweihe und erhielt den Namen Kornilij zu Ehren des hl. Kornilij vom Pskower Höhlenkloster. Am 31.07. (jul.) bzw. dem 13.08.2011 (greg.) wurde er von S.E. Mark, Erzbischof von Berlin und Deutschland zum Mönchsdiakon geweiht und diente im Kloster des hl. Hiob. Zugleich begleitete er S.E. Erzbischof Mark bei seinen Reisen innerhalb der Diözese sowie in andere Länder.
 
-2011 am 14./27. Juni empfing er die Mönchsweihe und erhielt den Namen Kornilij zu Ehren des hl. Kornilij vom Pskower Höhlenkloster.
-
-31.07./13.08.2011 wurde er von S.E. Mark, Erzbischof von Berlin und Deutschland zum Mönchsdiakon geweiht und diente im Kloster des hl. Hiob, zugleich begleitete er Erzbischof Mark bei dessen Reisen innerhalb der Diözese und in andere Lander.
-
-Am Tag des hl. Simeon vom Wunderberg, 24. Mai/6. Juni 2016 wurde er zum Priestermönch geweit und setzt seinen Dienst im Männerkloster des hl. Hiob in München fort.
-
-2011 erhielt er die Lehrbefugnis, sodann die Unterrichtsgenehmigung als gymnasialer Religionslehrer (bis zur 10. Klasse) vom Bayerischen Staatsministerium für Bildung und Kultus, Wissenschaft und Kunst und lehrt entsprechend an der Gemeindeschule der Münchner Kathedralkirche der hll. Neumärtyrer und Bekenner Russlands.
+Am Tag des hl. Simeon vom Wunderberg, 24. Mai (jul.) bzw. 6. Juni 2016 (greg.), wurde er zum Priestermönch geweiht und setzt seinen Dienst im Männerkloster des hl. Hiob in München fort. 2011 erhielt er die Lehrbefugnis, sodann die Unterrichtsgenehmigung als gymnasialer Religionslehrer (bis zur 10. Klasse) vom Bayerischen Staatsministerium für Bildung und Kultus, Wissenschaft und Kunst und lehrt an der Gemeindeschule der Münchner Kathedralkirche der hll. Neumärtyrer und Bekenner Russlands.
 
 ## Priestermönch Anatolij (Tregubenko)
 ![Priestermönch Anatolij (Tregubenko)](/uploads/assets/pages/kloster/otez_anatolii.jpg)  
-Priestermönch Anatolij (Tregubenkov) wurde am 23.10.1966 in Krasnojarsk geboren.
+Priestermönch Anatolij (Tregubenko) wurde am 23.10.1966 in Krasnojarsk geboren.
 Er besuchte seit 1974 die Schule in Chmelnyzkyj, welche er 1984 beendete. 1985 wurde er in die Sowjetische Armee eingezogen. 1986 begann er seine Ausbildung im Institut für Kommunikationstechnik, welche er mit der Spezialisation als Radio-Ingenieur abschloss. 1999 emigrierte er nach Schweden.
 
-Seit 1994 war er Gemeindemitglied der Maria-Entschlafens-Kirche in Chmelnyzkyj, nach seinem Umzug nach Schweden besuchte er regelmäßig die orthodoxe Kirche zu Ehren der hll. Kyrill und Method in Malmö. 2004 pilgerte er zur Lavra von Potschajew im Westen der Ukraine, wo er sich entschied, als Trudnik (Anwärter zum Mönchtum) zu bleiben. 2005 wurde er dort Novize des Klosters.
+Seit 1994 war er Gemeindemitglied der Maria-Entschlafens-Kirche in Chmelnyzkyj, nach seinem Umzug nach Schweden besuchte er regelmäßig die orthodoxe Kirche zu Ehren der hll. Kyrill und Method in Malmö. 2004 pilgerte er zur Lavra von Potschajew im Westen der Ukraine, wo er sich entschied, als Trudnik (Mönchsanwärter) zu bleiben. 2005 wurde er dort Novize des Klosters.
 
-2009 siedelte er als Novize über in das Kloster des hl. Hiob in München.
-2012 wurde er von Erzbischof Mark zum Inok/Rassophor-Mönch mit dem Namen Amfilochij geschoren. Am 4. März 2016 wurde er zum Mönch mit dem Namen Anatolij geschoren und am 5. März folgte seine Weihe zum Diakon, gefolgt von der Chirotonie (Handauflegung) zum Priestermönch am 6. März.
+2009 siedelte er als Novize in das Kloster des hl. Hiob in München über.
+2012 wurde er von Erzbischof Mark zum Inok/Rjassophor-Mönch mit dem Namen Amfilochij geschoren. Am 4. März 2016 wurde er zum Mönch mit dem Namen Anatolij geschoren und am 5. März folgte seine Weihe zum Diakon, gefolgt von der Chirotonie (Handauflegung) zum Priestermönch am 6. März.
