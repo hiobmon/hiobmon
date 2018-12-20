@@ -19,7 +19,7 @@ Ab 1980 war Mark Arndt Bischof von Stuttgart und Süddeutschland, 1982 erfolgte 
 
 ## Erzbischof Agapit (Gorachek)
 ![Erzbischof Agapit (Gorachek)](/uploads/assets/pages/kloster/vladyka_agapit.jpg)  
-Erzbischof Agapit wurde am 29. September 1955 in Deutschland geboren. Er absolvierte das Gymnasium in Frankfurt-am-Main und nahm dann das Studium der Architektur in Darmstadt auf. Um die Mönchsweihe empfangen zu können, gab er das Studium auf. 1979 trat er Klostergemeinschaft des Heiligen Hiob von Počaev bei München bei. Am 9. November 1981 empfing er die Scherung zum Rjasophor-Mönch und ab dem 29. März 1983 bekleidete er die Mantia eines Mönches.
+Erzbischof Agapit wurde am 29. September 1955 in Deutschland geboren. Er absolvierte das Gymnasium in Frankfurt-am-Main und nahm dann das Studium der Architektur in Darmstadt auf. Um die Mönchsweihe empfangen zu können, gab er das Studium auf. 1979 trat er der Klostergemeinschaft des Heiligen Hiob von Počaev bei München bei. Am 9. November 1981 empfing er die Scherung zum Rjasophor-Mönch und ab dem 29. März 1983 bekleidete er die Mantia eines Mönches.
 
 Am 25. Dezember 1983 wurde zum Mönchsdiakon und am 8. April 1991 zum Priestermönch geweiht. 1995 wurde er zum Abt ernannt und 1998 mit einem verziertem Kreuz ausgezeichnet. Im Kloster leistete er verschiedene Dienste, unter anderem im Klosterverlag.
 
