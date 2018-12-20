@@ -40,7 +40,7 @@ Hinweise zur Verarbeitung Ihrer Angaben und Widerspruchsrechte siehe: [Impressum
 Das Kloster des heiligen Hiob befindet sich am westlichen Stadtrand. In etwa 150 Meter Entfernung steht das ehemalige [Jagdschloss Blutenburg](http://de.wikipedia.org/wiki/Schloss_Blutenburg). Das Kloster ist an zwei Seiten von Bäumen, an der dritten Seite von Wohnhäusern umgeben und daher nicht auf den ersten Blick sichtbar. Nur ein Russisches Kreuz schimmert durch die Baumkronen hindurch. Manchmal hört man das Glockengeläut weit über den „Durchblick“ klingen.
 
 
-## Mit Öffentlichen Verkehrsmitteln
+## Mit öffentlichen Verkehrsmitteln
 Vom Bahnhof Pasing aus verkehren zwei Buslinien in Richtung Blutenburg, die am Ausgang zur August-Exter-Straße halten. Dies sind die Linien 56 und 160 (Richtung Allach).
 
 Danach führt ein kurzer, jedoch nicht ausgeschilderter Fußweg zum Kloster. Eine Wegbeschreibung finden sie hier unter "Zu Fuß"
