@@ -4,7 +4,7 @@ layout: page
 title: pages.impressum
 permalink: impressum/
 
-cover_image: /uploads/assets/pages/shared/cover_images/kloster.jpg
+cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 ---
 **Freundeskreis Kloster des heiligen Hiob e.V.**  
 Hofbauernstr. 26  
