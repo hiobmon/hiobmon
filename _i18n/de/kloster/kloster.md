@@ -43,9 +43,9 @@ Ende der 1990er Jahre kam er zur Kirche und wurde Ministrant in der Kathedralkir
 
 Am Tag des hl. Simeon vom Wunderberg, 24. Mai (jul.) bzw. 6. Juni 2016 (greg.), wurde er zum Priestermönch geweiht und setzt seinen Dienst im Männerkloster des hl. Hiob in München fort. 2011 erhielt er die Lehrbefugnis, sodann die Unterrichtsgenehmigung als gymnasialer Religionslehrer (bis zur 10. Klasse) vom Bayerischen Staatsministerium für Bildung und Kultus, Wissenschaft und Kunst und lehrt an der Gemeindeschule der Münchner Kathedralkirche der hll. Neumärtyrer und Bekenner Russlands.
 
-## Priestermönch Anatolij (Tregubenko)
-![Priestermönch Anatolij (Tregubenko)](/uploads/assets/pages/kloster/otez_anatolii.jpg)  
-Priestermönch Anatolij (Tregubenko) wurde am 23.10.1966 in Krasnojarsk geboren.
+## Priestermönch Anatolij (Tregubenkov)
+![Priestermönch Anatolij (Tregubenkov)](/uploads/assets/pages/kloster/otez_anatolii.jpg)  
+Priestermönch Anatolij (Tregubenkov) wurde am 23.10.1966 in Krasnojarsk geboren.
 Er besuchte seit 1974 die Schule in Chmelnyzkyj, welche er 1984 beendete. 1985 wurde er in die Sowjetische Armee eingezogen. 1986 begann er seine Ausbildung im Institut für Kommunikationstechnik, welche er mit der Spezialisation als Radio-Ingenieur abschloss. 1999 emigrierte er nach Schweden.
 
 Seit 1994 war er Gemeindemitglied der Maria-Entschlafens-Kirche in Chmelnyzkyj, nach seinem Umzug nach Schweden besuchte er regelmäßig die orthodoxe Kirche zu Ehren der hll. Kyrill und Method in Malmö. 2004 pilgerte er zur Lavra von Potschajew im Westen der Ukraine, wo er sich entschied, als Trudnik (Mönchsanwärter) zu bleiben. 2005 wurde er dort Novize des Klosters.
