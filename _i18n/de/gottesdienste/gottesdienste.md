@@ -9,6 +9,8 @@ Wer die Liturgie am Morgen oder den Abendgottesdienst um 18:00 besucht hat, ist 
 - **Sa** 17:00 – 20:30 (Vigil)
 - Ist unter der Woche ein besonderes Fest, so ist am Abend vorher anstatt der gewöhnlichen Abendgottesdienste eine Vigil von 17:00 bis ca. 20:30.
 
+<hr>
+
 ## Gottesdienstplan zur Theophanie
 ### Am Vorabend
 Datum: 5. Januar 2019 (jul.) / 18. Januar 2019 (greg.)  
