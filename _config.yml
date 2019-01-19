@@ -48,7 +48,7 @@ exclude:
 timezone:    nil
 languages: ['de', 'ru']
 exclude_from_localizations: ['javascript', 'uploads', 'css']
-gems: [jekyll-paginate, jekyll-multiple-languages-plugin]
+plugins: [jekyll-paginate, jekyll-multiple-languages-plugin]
 
 # Show future posts
 future:      false

@@ -11,15 +11,9 @@ Wer die Liturgie am Morgen oder den Abendgottesdienst um 18:00 besucht hat, ist 
 
 <hr>
 
-## Gottesdienstplan zur Theophanie
-### Am Vorabend
-Datum: 5. Januar 2019 (jul.) / 18. Januar 2019 (greg.)  
-- 4:00 – 6:30 Mitternachtsgebet, Morgenamt
-- 8:00 – 9:30 Die Königlichen Stunden, Vesper und hl. Liturgie Basilios des Großen
-- (12:00 – 13:45 Mittagsruhe)
-- (16:00 Kutja und Kompott)
-- 17:00 – 20:15 Großes Apodipnon mit Vigil, 1. Stunde
-
-### Am Fest der Theophanie
-Datum: 06.01.2019 (jul.) / 19.01.2019 (greg.)
-- 6:40 – 8:30 Stundenlesung und Liturgie des hl. Johannes Chrysostomos (danach Festmahl)
+## Wichtige Festtage
+- **Ostern**: 28. April 2019 (greg.) / 15. April 2019 (jul.)
+- **Patronatsfest des Klosters**: 19. Mai 2019 (greg.) / 6. Mai 2019 (jul.)
+- **Himmelfahrt**: 6. Juni 2019 (greg.) / 24. Mai 2019 (jul.)
+- **Pfingsten**: 16. Juni 2019 (greg.) / 3. Juni 2019 (jul.)
+- **Patronatsfest des Klosters**: 10. November 2019 (greg.) / 28. Oktober 2019 (jul.)
