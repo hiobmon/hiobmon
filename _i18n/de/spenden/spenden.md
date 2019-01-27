@@ -1,8 +1,8 @@
 Ihre Spenden können Sie auf folgendes Konto überweisen:
 
- RUSSISCH ORTHODOXE DIÖZESE  
- BLZ: 700 202 70 HypoVereinsbank \| Konto: 15 376 220  
- BIC: HYVEDEMMXXX \| IBAN: DE47 7002 0270 0015 3762 20
+**RUSSISCH ORTHODOXE DIÖZESE**  
+BLZ: 700 202 70 HypoVereinsbank \| Konto: 15 376 220  
+BIC: HYVEDEMMXXX \| IBAN: DE47 7002 0270 0015 3762 20
 
 Alternativ könnten Sie über Ihr Paypal-Konto spenden:
 
