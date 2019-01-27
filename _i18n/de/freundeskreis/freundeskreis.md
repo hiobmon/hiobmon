@@ -1,3 +1,18 @@
+* [Über uns](#Über-uns)
+* [Mitgliedschaft](#mitgliedschaft)
+* [Spenden für Projekte des Freundeskreises](#spenden-für-projekte-des-freundeskreises)
+* [Arbeitskreise](#arbeitskreise)
+  * [I. Bau und Renovierungen](#i-bau-und-renovierungen)
+  * [II. Garten](#ii-garten)
+  * [III. Imkerei](#iii-imkerei)
+  * [IV. Pflege der Klosterwerkstätten](#iv-pflege-der-klosterwerkstätten)
+  * [V. Öffentlichkeitsarbeit](#iv-pflege-der-klosterwerkstätten)
+  * [VI. Web-Kreis](#vi-web-kreis)
+  * [VII. Kinder- und Jugendarbeit](#vii-kinder--und-jugendarbeit)
+  * [VIII. Publikation](#viii-publikation)
+  * [IX. Klostercomputer](#ix-klostercomputer)
+  * [XI. Bibliothek](#xi-bibliothek)
+
 ## Über uns
 Seit nunmehr über siebzig Jahren leben russisch-orthodoxe Mönche im Kloster des Heiligen Hiob von Počaev in München-Obermenzing.
 Zu dessen Unterstützung wurde im Jahr 2011 der „Freundeskreis Kloster des heiligen Hiob e. V.“ gegründet, der seinen Sitz im Kloster selbst hat. Der Verein besteht aus Menschen, die das Kloster als erhaltenswerten und einmaligen spirituellen Ort schätzen. Sie helfen dem Kloster durch praktische und materielle Unterstützung. Die praktische Mithilfe erfolgt in den [Arbeitskreisen](#Arbeitskreise) des Vereins in den Bereichen, für die die Mönche aufgrund ihrer eigenen Dienste kaum Zeit finden. Finanzielle Unterstützung geschieht durch freiwillige Mitgliedsbeiträge oder einmalige [Spenden](/spenden). Für die Mitglieder besteht jedoch keine Pflicht zu irgendeiner Leistung. Jedes Mitglied entscheidet selbst, ob und in welcher Höhe er einen Mitgliedsbeitrag entrichtet und ob er in einem Arbeitskreis mitarbeiten möchte oder nicht. Die grundsätzliche Freiwilligkeit gehört zu den obersten Prinzipien des Freundeskreises.
@@ -8,6 +23,14 @@ Mitglied im Freundeskreis werden kann jeder, der dem Kloster helfen möchte, una
 ## Mitgliedschaft
 Um die Mitgliedschaft zu erwerben, schicken Sie uns bitte über das [Kontaktformular](/kontakt) eine E-Mail und teilen uns darin Ihre Anschrift mit. Falls Sie aktiv mitarbeiten wollen, können Sie auch den Arbeitskreis angeben, der Sie interessiert.
 
+## Spenden für Projekte des Freundeskreises
+<div style="color: #2077b2">
+<b>Freundeskr. Kloster</b><br>
+BLZ: 700 202 70 HypoVereinsbank | Konto: 15026969<br>
+BIC: HYVEDEMMXXX | IBAN: DE66 70020270 0015026969<br>
+<br>
+Wir sammeln für unsere Projekte und Arbeitskreise, die alle dem Kloster zu Gute kommen.
+</div>
 <hr>
 
 ## Arbeitskreise
