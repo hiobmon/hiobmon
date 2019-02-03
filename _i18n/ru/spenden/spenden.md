@@ -1,8 +1,8 @@
 За ваши пожертвования мы благодарим вас заранее.
 
- RUSSISCH ORTHODOXE DIÖZESE  
+**RUSSISCH ORTHODOXE DIÖZESE**  
 BLZ: 700 202 70 HypoVereinsbank \| Konto: 15 376 220  
- BIC: HYVEDEMMXXX \| IBAN: DE47 7002 0270 0015 3762 20
+BIC: HYVEDEMMXXX \| IBAN: DE47 7002 0270 0015 3762 20
 
 В качестве альтернативы Вы можете использовать сервис PayPal:
 
