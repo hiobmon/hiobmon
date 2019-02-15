@@ -6,7 +6,7 @@ layout: post
 lang: de
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
 title: 'Begräbnis der Nonne Barbara'
-excerpt: m 5. Februar 2019 nahmen die Priestermönche Hiob (Bandmann) und Kornilij (Litwitschenko) an dem Begräbnis der älteren Nonne Barbara (Tkatschukova, 77) im Frauenkloster (Buchendorf) teil....
+excerpt: Am 5. Februar 2019 nahmen die Priestermönche Hiob (Bandmann) und Kornilij (Litwitschenko) an dem Begräbnis der älteren Nonne Barbara (Tkatschukova, 77) im Frauenkloster (Buchendorf) teil....
 categories: []
 date: 2019-02-05 12:20:00 +0100
 

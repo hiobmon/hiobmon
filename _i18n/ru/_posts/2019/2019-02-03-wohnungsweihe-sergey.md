@@ -5,7 +5,7 @@ author:
 layout: post
 lang: de
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
-title: 'Освящение квартиры'
+title: 'Освящение квартиры Сергея'
 excerpt: Освящение квартиры иеромонахами Иовом и Корнилием у одного из членов нашего попечительского общества Сергия...
 categories: []
 date: 2019-02-03 12:20:00 +0100
