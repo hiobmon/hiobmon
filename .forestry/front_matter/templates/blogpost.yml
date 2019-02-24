@@ -78,6 +78,7 @@ fields:
   label: Kategorien
   description: Zu welchen Kategorien gehört der Blogpost? Optional.
 pages:
+- _i18n/de/_posts/2019/neue-helferinnen-im-arbeitskreis-bibliothek.md
 - _i18n/de/_posts/2019/neugeweihter-diakon-alexij-aus-bielefeld.md
 - _i18n/ru/_posts/2019/новорукоположенный-диакон-алексий.md
 - _i18n/de/_posts/2019/mit-den-heiligen-lass-ruhen.md
