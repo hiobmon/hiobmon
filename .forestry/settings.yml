@@ -89,8 +89,8 @@ sections:
   label: Пожертвования
   templates:
   - leeres-template
-upload_dir: uploads/media
-public_path: "/uploads/media"
+upload_dir: https://res.cloudinary.com/hiobmon/image/upload/v1551016563
+public_path: https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":year:/:filename:"
