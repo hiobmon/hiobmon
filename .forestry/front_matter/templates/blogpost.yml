@@ -71,13 +71,12 @@ fields:
   name: cover_image
   config:
     required: true
-  default: /uploads/assets/pages/aktuelles/cover_image.jpg
+  default: "/uploads/assets/pages/aktuelles/cover_image.jpg"
   description: 'Den Pfad zum Coverbild. Pflichtfeld. Standardmäßig auf "/uploads/assets/pages/aktuelles/cover_image.jpg"! '
 - type: tag_list
   name: categories
   label: Kategorien
   description: Zu welchen Kategorien gehört der Blogpost? Optional.
 pages:
+- _i18n/ru/_posts/2019/со-святыми-упокой.md
 - _i18n/de/_posts/2017/2017-12-22-neuigkeiten-md.md
-- _i18n/ru/_posts/2019/пожертвование-на-новую-машину.md
-- _i18n/de/_posts/2019/spendenaufruf-für-ein-neues-auto.md
