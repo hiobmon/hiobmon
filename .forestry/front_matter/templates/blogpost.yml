@@ -34,10 +34,10 @@ fields:
         type: simple
       required: true
       options:
-      - Рабочая группа Интернета
-      - Arbeitskreis Internet
-      - Web-Kreis
-      - Рабочая группа Веба
+      - Kloster des heiligen Hiob
+      - Монастырь преп. Иова Почаевского
+      - Freundeskreis Kloster des heiligen Hiob e. V.
+      - Попечительское Общество Монастыря Преп. Иова Почаевского
     label: Arbeitsgruppe
     description: Bitte geben Sie an, zu welcher Arbeitsgruppe Sie gehören. Wichtig
       ist die Auswahl in der richtigen Sprache!
@@ -73,9 +73,3 @@ fields:
     required: true
   default: "/uploads/assets/pages/aktuelles/cover_image.jpg"
   description: 'Den Pfad zum Coverbild. Pflichtfeld. Standardmäßig auf "/uploads/assets/pages/aktuelles/cover_image.jpg"! '
-- type: tag_list
-  name: categories
-  label: Kategorien
-  description: Zu welchen Kategorien gehört der Blogpost? Optional.
-pages:
-- _i18n/de/_posts/2017/2017-12-22-neuigkeiten-md.md
