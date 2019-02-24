@@ -78,7 +78,7 @@ fields:
   label: Kategorien
   description: Zu welchen Kategorien gehört der Blogpost? Optional.
 pages:
-- _i18n/ru/_posts/2019/гости-из-амсберга.md
+- _i18n/ru/_posts/2019/2019-02-24-гости-из-амсберга.md
 - _i18n/de/_posts/2019/besuch-aus-amberg.md
 - _i18n/ru/_posts/2019/в-монастыре-были-гости-из-россии-и-польши.md
 - _i18n/de/_posts/2019/gäste-aus-russland-und-polen.md
