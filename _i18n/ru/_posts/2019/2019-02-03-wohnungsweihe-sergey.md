@@ -11,5 +11,7 @@ categories: []
 date: 2019-02-03 12:20:00 +0100
 
 ---
-![Wohnungsweihe Sergey](/uploads/media/2019/IMG_0619.jpeg)
+<div class="full zoomable"><img src="/uploads/media/2019/IMG_0619.jpeg"></div>
+
+
 Освящение квартиры иеромонахами Иовом и Корнилием у одного из членов нашего попечительского общества Сергия - спасибо Сергию за тёплый приём!

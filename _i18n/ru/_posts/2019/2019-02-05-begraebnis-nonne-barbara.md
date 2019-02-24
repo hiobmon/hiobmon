@@ -11,5 +11,6 @@ categories: []
 date: 2019-02-05 12:20:00 +0100
 
 ---
-![Matyushka Varvara](/uploads/media/2019/monakhini_varvara.png)
+<div class="full zoomable"><img src="/uploads/media/2019/monakhini_varvara.png"></div>
+
 Иеромонахи Иов (Бандманн) и Корнилий (Литвиченко) участвовали при отпевании и похоронах одной из старейших насельниц женской Обители в Бухендорфе, монахини Варвары (Ткачуковой, 77) - вечная память!
