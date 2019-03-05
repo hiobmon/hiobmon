@@ -14,7 +14,7 @@ date: 2019-03-05 10:49:26 +0100
 Ein Baum wurde in der Nähe des Klosterschuppens angezündet. Das Feuer hätte sehr einfach auf den Klosterschuppen übergreifen können.
 
 <video width="480" height="848" controls>  
- <source src="[https://res.cloudinary.com/hiobmon/video/upload/v1551779609/media/2019/1fc5543c-9b2e-4786-bd11-22b2a18c4cc6.mp4](https://res.cloudinary.com/hiobmon/video/upload/v1551779609/media/2019/1fc5543c-9b2e-4786-bd11-22b2a18c4cc6.mp4 "https://res.cloudinary.com/hiobmon/video/upload/v1551779609/media/2019/1fc5543c-9b2e-4786-bd11-22b2a18c4cc6.mp4")" type="video/mp4">  
+ <source src="https://res.cloudinary.com/hiobmon/video/upload/v1551779609/media/2019/1fc5543c-9b2e-4786-bd11-22b2a18c4cc6.mp4" type="video/mp4">  
 Your browser does not support the video tag.  
 </video>
 
