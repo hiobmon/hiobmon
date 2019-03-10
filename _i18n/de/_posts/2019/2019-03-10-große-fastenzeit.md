@@ -7,6 +7,7 @@ author:
   name: Pavel
 cover_image: '"/uploads/assets/pages/aktuelles/cover_image.jpg"!'
 date: 2019-03-10 12:33:31 +0100
+layout: ''
 
 ---
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1552217594/media/2019/Gottesdienst_de.jpg)
