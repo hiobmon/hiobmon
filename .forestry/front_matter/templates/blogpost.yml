@@ -38,7 +38,8 @@ fields:
       - Freundeskreis Kloster des heiligen Hiob e. V.
       - Попечительское Общество Монастыря Преп. Иова Почаевского
     label: Arbeitsgruppe
-    description: Bitte geben Sie an, ob sie Mönch (Kloster) oder Mitglied des Freundeskreises sind!
+    description: Bitte geben Sie an, ob sie Mönch (Kloster) oder Mitglied des Freundeskreises
+      sind!
     default: Kloster des heiligen Hiob
 - type: select
   config:
@@ -60,3 +61,6 @@ fields:
     required: true
   default: "/uploads/assets/pages/aktuelles/cover_image.jpg"
   description: 'Den Pfad zum Coverbild. Pflichtfeld. Standardmäßig auf "/uploads/assets/pages/aktuelles/cover_image.jpg"! '
+pages:
+- _i18n/de/_posts/2019/2019-03-05-versuchte-brandstiftung-am-klosterschuppen.md
+- _i18n/de/_posts/2017/2017-12-22-neuigkeiten-md.md
