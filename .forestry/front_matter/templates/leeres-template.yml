@@ -2,8 +2,3 @@
 label: Leeres Template
 hide_body: false
 fields:
-- type: tag_list
-  label: Kategorien
-  name: categories
-  description: Geben Sie hier eine Kategorie an. Optional.
-  hidden: true

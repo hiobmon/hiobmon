@@ -38,9 +38,8 @@ fields:
       - Freundeskreis Kloster des heiligen Hiob e. V.
       - Попечительское Общество Монастыря Преп. Иова Почаевского
     label: Arbeitsgruppe
-    description: Bitte geben Sie an, zu welcher Arbeitsgruppe Sie gehören. Wichtig
-      ist die Auswahl in der richtigen Sprache!
-    default: Рабочая группа Интернета
+    description: Bitte geben Sie an, ob sie Mönch (Kloster) oder Mitglied des Freundeskreises sind!
+    default: Kloster des heiligen Hiob
 - type: select
   config:
     source:
@@ -53,27 +52,11 @@ fields:
   hidden: true
   description: Standardmäßig immer auf "post"! Pflichtfeld.
   default: post
-- type: select
-  config:
-    source:
-      type: simple
-    required: true
-    options:
-    - ru
-    - de
-  label: Sprache
-  name: lang
-  description: Russischer oder deutschsprachiger Blogpost? Pflichtfeld.
-  default: ru
 - type: text
   label: Coverbild
   name: cover_image
+  hidden: true
   config:
     required: true
   default: "/uploads/assets/pages/aktuelles/cover_image.jpg"
   description: 'Den Pfad zum Coverbild. Pflichtfeld. Standardmäßig auf "/uploads/assets/pages/aktuelles/cover_image.jpg"! '
-pages:
-- _i18n/de/_posts/2019/2019-03-10-große-fastenzeit.md
-- _i18n/ru/_posts/2019/первая-неделя-великого-поста.md
-- _i18n/de/_posts/2019/2019-03-05-versuchte-brandstiftung-am-klosterschuppen.md
-- _i18n/de/_posts/2017/2017-12-22-neuigkeiten-md.md
