@@ -15,10 +15,6 @@ Wir gratulieren den Eltern der kleinen Eva zur heiligen Taufe!
 
 Auf viele Jahre, liebe neu getaufte Eva, Eltern Alexij und Svetlana, Pateneltern Xenia und Wassilij!!!
 
-<div class="full zoomable">
-
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1553500158/media/2019/foto2.jpg)
-
-</div>
 
 _Von links nach rechts: Xenia mit Eva, Priestermönch Kornilij und Wassilij nach der Taufe_
