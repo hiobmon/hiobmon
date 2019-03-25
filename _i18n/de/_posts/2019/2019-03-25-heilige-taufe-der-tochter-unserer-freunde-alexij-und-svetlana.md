@@ -5,7 +5,7 @@ author:
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
 title: 'Heilige Taufe der Tochter unserer Freunde Alexij und Svetlana '
-excerpt: In unserer Münchner Kathedrale
+excerpt: In Münchner Kathedrale
 date: 2019-03-25 08:55:36 +0100
 
 ---
@@ -15,6 +15,6 @@ Wir gratulieren den Eltern der kleinen Eva zur heiligen Taufe!
 
 Auf viele Jahre, liebe neu getaufte Eva, Eltern Alexij und Svetlana, Pateneltern Xenia und Wassilij!!!
 
-<div class="full zoomable"><img src="/upload/v1553500158/media/2019/foto2.jpg"></div>
+<div class="full zoomable"><img src="upload/v1553500158/media/2019/foto2.jpg"></div>
 
 Von links nach rechts: Xenia mit Eva, Priestermönch Kornilij und Wassilij nach der Taufe
