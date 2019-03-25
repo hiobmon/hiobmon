@@ -21,4 +21,4 @@ Auf viele Jahre, liebe neu getaufte Eva, Eltern Alexij und Svetlana, Pateneltern
 
 </div>
 
-Von links nach rechts: Xenia mit Eva, Priestermönch Kornilij und Wassilij nach der Taufe
+_Von links nach rechts: Xenia mit Eva, Priestermönch Kornilij und Wassilij nach der Taufe_
