@@ -62,9 +62,10 @@ fields:
   default: "/uploads/assets/pages/aktuelles/cover_image.jpg"
   description: 'Den Pfad zum Coverbild. Pflichtfeld. Standardmäßig auf "/uploads/assets/pages/aktuelles/cover_image.jpg"! '
 pages:
-- _i18n/ru/_posts/2019/2019-03-25-св-крещения-дочери-друзей-нашего-монастыря.md
-- _i18n/de/_posts/2019/2019-03-25-heilige-taufe-der-tochter-unserer-freunde-alexij-und-svetlana.md
-- _i18n/ru/_posts/2019/2019-03-18-первая-неделя-великого-поста.md
+- _i18n/ru/_posts/2019/priesterweihe-unseres-mitgliedes.md
 - _i18n/de/_posts/2019/2019-03-18-erste-woche-vor-der-großen-fastenzeit.md
+- _i18n/ru/_posts/2019/2019-03-18-первая-неделя-великого-поста.md
+- _i18n/de/_posts/2019/2019-03-25-heilige-taufe-der-tochter-unserer-freunde-alexij-und-svetlana.md
+- _i18n/ru/_posts/2019/2019-03-25-св-крещения-дочери-друзей-нашего-монастыря.md
 - _i18n/de/_posts/2019/2019-03-05-versuchte-brandstiftung-am-klosterschuppen.md
 - _i18n/de/_posts/2017/2017-12-22-neuigkeiten-md.md
