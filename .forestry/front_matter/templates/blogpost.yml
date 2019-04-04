@@ -62,6 +62,7 @@ fields:
   default: "/uploads/assets/pages/aktuelles/cover_image.jpg"
   description: 'Den Pfad zum Coverbild. Pflichtfeld. Standardmäßig auf "/uploads/assets/pages/aktuelles/cover_image.jpg"! '
 pages:
+- _i18n/ru/_posts/2019/визит-местного-телевидения.md
 - _i18n/de/_posts/2019/2019-04-04-bayerischer-rundfunk-bei-uns-zu-besuch.md
 - _i18n/de/_posts/2019/grüße-aus-san-francisco.md
 - _i18n/de/_posts/2019/priesterweihe-unseres-mitgliedes.md
