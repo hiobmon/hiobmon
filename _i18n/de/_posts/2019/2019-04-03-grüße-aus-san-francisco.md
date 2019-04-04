@@ -17,8 +17,8 @@ Gute Freunde unseres Klosters Kyrill und Alina haben auf ihrer Pilgerreise durch
 
 Mit Gottes Hilfe ist die Reise nach Kalifornien gut gelungen und unsere Freunde sind heil und gut gestimmt nach München zurückgekehrt.
 
- 
-
 Fotos von dem Aufenthalt in der Kathedrale (Vater Peter und Vladyka Kyrill und unsere Pilger)
 
 Am 2.04.19 sind Alina mit Marina- unserer neuen Helferin schon wieder bei der Arbeit in der Klosterbibliothek.
+
+![](https://res.cloudinary.com/hiobmon/image/upload/v1554410623/media/2019/WhatsApp%20Image%202019-04-02%20at%2011.36.15.jpg)
