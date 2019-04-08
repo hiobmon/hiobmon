@@ -5,7 +5,7 @@ author:
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
 title: 'Rjassophor-Mönche '
-excerpt: Bruder Vitalij und Bruder Georgi
+excerpt: Tonsur unserer Brüder Vitalij und Georgi
 date: 2019-04-06 09:46:20 +0200
 
 ---
@@ -13,9 +13,9 @@ date: 2019-04-06 09:46:20 +0200
 
 04\.04.19
 
-В конце великого повечерия настоятель нашей Обители, архиепископ Марк совершил иноческий постриг двух наших послушников Виталия (Волкова) и Георгия (Бухлицкого).
+Am Ende des Großen Komplets vollzog der Abt unseres Klosters, Erzbischof Mark, die klösterliche Tonsur unserer Novizen Vitalij (Volkov) und Georgi (Bukhlitsky).
 
-Братия поздравляет новых отцов-иноков и желает им дальнейшего духовного преуспеяния!
+Die Brüder beglückwünschen die neuen Mönche und wünschen ihnen weiteren spirituellen Erfolg!
 
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1554533830/media/2019/DSC_8037.jpg)
 
