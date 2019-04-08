@@ -1,6 +1,6 @@
 ---
 author:
-  bio: Kloster des heiligen Hiob
+  bio: Freundeskreis Kloster des heiligen Hiob e. V.
   name: Pavel
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
