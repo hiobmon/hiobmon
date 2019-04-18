@@ -4,7 +4,7 @@ author:
   name: Vater Kornilij
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
-title: reguläre Versammlung des Freundeskreises
+title: Reguläre Versammlung des Freundeskreises
 excerpt: Am 14.04.2019
 date: 2019-04-18 21:54:04 +0200
 
