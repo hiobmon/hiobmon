@@ -62,6 +62,7 @@ fields:
   default: "/uploads/assets/pages/aktuelles/cover_image.jpg"
   description: 'Den Pfad zum Coverbild. Pflichtfeld. Standardmäßig auf "/uploads/assets/pages/aktuelles/cover_image.jpg"! '
 pages:
+- _i18n/ru/_posts/2019/расписание-богослужений-на-страстной-седмице.md
 - _i18n/de/_posts/2019/gottesdienstplan-in-der-leidenswoche.md
 - _i18n/ru/_posts/2019/очередное-собрание-членов-попечительского-общества.md
 - _i18n/de/_posts/2019/reguläre-versammlung-des-freundeskreises.md
