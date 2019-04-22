@@ -4,7 +4,7 @@ author:
   name: Pavel
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
-title: Palmensonntag
+title: Palmsonntag
 excerpt: Foto
 date: 2019-04-22 08:43:38 +0200
 
