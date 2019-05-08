@@ -62,7 +62,7 @@ fields:
   default: "/uploads/assets/pages/aktuelles/cover_image.jpg"
   description: 'Den Pfad zum Coverbild. Pflichtfeld. Standardmäßig auf "/uploads/assets/pages/aktuelles/cover_image.jpg"! '
 pages:
-- _i18n/ru/_posts/2019/крестный-ход-в-дахау.md
+- _i18n/ru/_posts/2019/2019-05-08-крестный-ход-в-дахау.md
 - _i18n/de/_posts/2019/kreuz-prozession-nach-dachau.md
 - _i18n/ru/_posts/2019/расписание-богослужений-на-светлой-седмицы.md
 - _i18n/de/_posts/2019/gottesdiensplan-lichtwoche.md
