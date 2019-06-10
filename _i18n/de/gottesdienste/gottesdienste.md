@@ -11,12 +11,13 @@ Wer die Liturgie am Morgen oder den Abendgottesdienst um 18:00 besucht hat, ist 
 
 <hr>
 
-## Die große Fastenzeit
-[Gottesdienstplan während der großen Fastenzeit](https://www.hiobmon.org/2019/03/10/gro%C3%9Fe-fastenzeit/)
-
 ## Wichtige Festtage
-- **Ostern**: 28. April 2019 (greg.) / 15. April 2019 (jul.)
-- **Patronatsfest des Klosters**: 19. Mai 2019 (greg.) / 6. Mai 2019 (jul.)
-- **Himmelfahrt**: 6. Juni 2019 (greg.) / 24. Mai 2019 (jul.)
-- **Pfingsten**: 16. Juni 2019 (greg.) / 3. Juni 2019 (jul.)
-- **Patronatsfest des Klosters**: 10. November 2019 (greg.) / 28. Oktober 2019 (jul.)
+- **Ostern**: 28. April 2019 (neuer Kalender) / 15. April 2019 (alter Kalender)
+- **Himmelfahrt**: 6. Juni 2019 (n.K.) / 24. Mai 2019 (a.K.)
+- **Pfingsten**: 16. Juni 2019 (n.K.) / 3. Juni 2019 (a.K.)
+- **Patronatsfeste des Klosters**: 
+  - 19. Mai 2019 (n.K.) / 6. Mai 2019 (a.K.),
+  - 10. September 2019 (n.K.) / 28. August 2019 (a.K.),
+  - 10. November 2019 (n.K.) / 28. Oktober 2019 (a.K.)
+
+Änderungen am regulären Gottesdienstplan werden in der Sektion [Aktuelles](https://www.hiobmon.org/news/) angekündigt.
