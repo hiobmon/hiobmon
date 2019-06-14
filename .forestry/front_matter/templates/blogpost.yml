@@ -62,28 +62,12 @@ fields:
   default: "/uploads/assets/pages/aktuelles/cover_image.jpg"
   description: 'Den Pfad zum Coverbild. Pflichtfeld. Standardmäßig auf "/uploads/assets/pages/aktuelles/cover_image.jpg"! '
 pages:
-- _i18n/ru/_posts/2019/2019-05-08-крестный-ход-в-дахау.md
-- _i18n/de/_posts/2019/kreuz-prozession-nach-dachau.md
-- _i18n/ru/_posts/2019/расписание-богослужений-на-светлой-седмицы.md
-- _i18n/de/_posts/2019/gottesdiensplan-lichtwoche.md
-- _i18n/de/_posts/2019/änderung-des-gottesdienstplans.md
-- _i18n/ru/_posts/2019/измененик-в-расписании-на-страстной-седмице.md
-- _i18n/ru/_posts/2019/вербное-воскресение.md
-- _i18n/de/_posts/2019/2019-04-22-palmensonntag.md
-- _i18n/ru/_posts/2019/расписание-богослужений-на-страстной-седмице.md
-- _i18n/de/_posts/2019/gottesdienstplan-in-der-leidenswoche.md
-- _i18n/ru/_posts/2019/очередное-собрание-членов-попечительского-общества.md
-- _i18n/de/_posts/2019/reguläre-versammlung-des-freundeskreises.md
-- _i18n/ru/_posts/2019/сорок-дней-со-дня-священнической-хиротонии.md
-- _i18n/ru/_posts/2019/иноческий-постриг.md
-- _i18n/de/_posts/2019/2019-03-18-erste-woche-vor-der-großen-fastenzeit.md
-- _i18n/de/_posts/2019/grüße-aus-san-francisco.md
-- _i18n/de/_posts/2019/rjassophor-mönche.md
-- _i18n/ru/_posts/2019/тв-репортаж-о-монастыре.md
+- _i18n/de/_posts/2019/renovierung-der-klosterküche.md
 - _i18n/de/_posts/2019/2019-04-04-bayerischer-rundfunk-bei-uns-zu-besuch.md
-- _i18n/ru/_posts/2019/визит-местного-телевидения.md
-- _i18n/de/_posts/2019/priesterweihe-unseres-mitgliedes.md
-- _i18n/ru/_posts/2019/2019-03-18-первая-неделя-великого-поста.md
-- _i18n/de/_posts/2019/2019-03-25-heilige-taufe-der-tochter-unserer-freunde-alexij-und-svetlana.md
+- _i18n/de/_posts/2019/2019-04-22-palmensonntag.md
+- _i18n/ru/_posts/2019/2019-05-08-крестный-ход-в-дахау.md
+- _i18n/de/_posts/2019/2019-03-18-erste-woche-vor-der-großen-fastenzeit.md
 - _i18n/de/_posts/2019/2019-03-05-versuchte-brandstiftung-am-klosterschuppen.md
+- _i18n/de/_posts/2019/2019-03-25-heilige-taufe-der-tochter-unserer-freunde-alexij-und-svetlana.md
+- _i18n/ru/_posts/2019/2019-03-18-первая-неделя-великого-поста.md
 - _i18n/de/_posts/2017/2017-12-22-neuigkeiten-md.md
