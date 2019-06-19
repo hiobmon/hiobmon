@@ -62,7 +62,7 @@ fields:
   default: "/uploads/assets/pages/aktuelles/cover_image.jpg"
   description: 'Den Pfad zum Coverbild. Pflichtfeld. Standardmäßig auf "/uploads/assets/pages/aktuelles/cover_image.jpg"! '
 pages:
-- _i18n/de/_posts/2019/bekannter-missioner-priester-georgij-maximov-aus-moskau.md
+- _i18n/de/_posts/2019/2019-06-19-bekannter-missioner-priester-georgij-maximov-aus-moskau.md
 - _i18n/ru/_posts/2019/встреча-с-отцом-георгием-максимовым-г-москва.md
 - _i18n/ru/_posts/2019/2019-06-14-кухня-на-ремонте.md
 - _i18n/de/_posts/2019/renovierung-der-klosterküche.md
