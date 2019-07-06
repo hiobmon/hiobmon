@@ -10,4 +10,4 @@ excerpt: ''
 ---
 Trotz der Hitze wird in dem Klostergarten weiter gearbeitet. Freunde des Klosters sind wieder bei uns/da.
 
-![](https://res.cloudinary.com/hiobmon/image/upload/v1562421997/media/2019/WhatsApp%20Image%202019-06-19%20at%2017.09.16.jpg)
+![](https://res.cloudinary.com/hiobmon/image/upload/v1562422189/media/2019/WhatsApp%20Image%202019-06-19%20at%2017.09-1.16.jpg)
