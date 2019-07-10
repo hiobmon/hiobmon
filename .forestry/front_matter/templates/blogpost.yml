@@ -62,6 +62,7 @@ fields:
   default: "/uploads/assets/pages/aktuelles/cover_image.jpg"
   description: 'Den Pfad zum Coverbild. Pflichtfeld. Standardmäßig auf "/uploads/assets/pages/aktuelles/cover_image.jpg"! '
 pages:
+- _i18n/de/_posts/2019/mitgliederversammlung-des-freundeskreises.md
 - _i18n/ru/_posts/2019/работы-в-монастырском-саду.md
 - _i18n/de/_posts/2019/klostergarten.md
 - _i18n/de/_posts/2019/2019-06-19-bekannter-missioner-priester-georgij-maximov-aus-moskau.md
