@@ -62,7 +62,7 @@ fields:
   default: "/uploads/assets/pages/aktuelles/cover_image.jpg"
   description: 'Den Pfad zum Coverbild. Pflichtfeld. Standardmäßig auf "/uploads/assets/pages/aktuelles/cover_image.jpg"! '
 pages:
-- _i18n/ru/_posts/2019/аварийный-ремонт-в-свечной-мастерской.md
+- _i18n/ru/_posts/2019/2019-07-27-аварийный-ремонт-в-свечной-мастерской.md
 - _i18n/de/_posts/2019/dringende-reparatur-unserer-hebeanlage.md
 - _i18n/de/_posts/2019/mitgliederversammlung-des-freundeskreises.md
 - _i18n/ru/_posts/2019/работы-в-монастырском-саду.md
