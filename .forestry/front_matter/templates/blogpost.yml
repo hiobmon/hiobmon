@@ -62,20 +62,21 @@ fields:
   default: "/uploads/assets/pages/aktuelles/cover_image.jpg"
   description: 'Den Pfad zum Coverbild. Pflichtfeld. Standardmäßig auf "/uploads/assets/pages/aktuelles/cover_image.jpg"! '
 pages:
-- _i18n/de/_posts/2019/2019-07-27-dringende-reparatur-unserer-hebeanlage.md
+- _i18n/de/_posts/2019/tag-der-offenen-tür-im-kloster.md
 - _i18n/ru/_posts/2019/2019-07-27-аварийный-ремонт-в-свечной-мастерской.md
+- _i18n/de/_posts/2019/2019-07-27-dringende-reparatur-unserer-hebeanlage.md
 - _i18n/de/_posts/2019/mitgliederversammlung-des-freundeskreises.md
-- _i18n/ru/_posts/2019/работы-в-монастырском-саду.md
 - _i18n/de/_posts/2019/klostergarten.md
-- _i18n/de/_posts/2019/2019-06-19-bekannter-missioner-priester-georgij-maximov-aus-moskau.md
 - _i18n/ru/_posts/2019/встреча-с-отцом-георгием-максимовым-г-москва.md
-- _i18n/ru/_posts/2019/2019-06-14-кухня-на-ремонте.md
 - _i18n/de/_posts/2019/renovierung-der-klosterküche.md
-- _i18n/de/_posts/2019/2019-04-04-bayerischer-rundfunk-bei-uns-zu-besuch.md
 - _i18n/de/_posts/2019/2019-04-22-palmensonntag.md
+- _i18n/de/_posts/2019/2019-04-04-bayerischer-rundfunk-bei-uns-zu-besuch.md
 - _i18n/ru/_posts/2019/2019-05-08-крестный-ход-в-дахау.md
-- _i18n/de/_posts/2019/2019-03-18-erste-woche-vor-der-großen-fastenzeit.md
-- _i18n/de/_posts/2019/2019-03-05-versuchte-brandstiftung-am-klosterschuppen.md
 - _i18n/de/_posts/2019/2019-03-25-heilige-taufe-der-tochter-unserer-freunde-alexij-und-svetlana.md
 - _i18n/ru/_posts/2019/2019-03-18-первая-неделя-великого-поста.md
+- _i18n/de/_posts/2019/2019-03-05-versuchte-brandstiftung-am-klosterschuppen.md
+- _i18n/ru/_posts/2019/работы-в-монастырском-саду.md
+- _i18n/de/_posts/2019/2019-06-19-bekannter-missioner-priester-georgij-maximov-aus-moskau.md
+- _i18n/ru/_posts/2019/2019-06-14-кухня-на-ремонте.md
+- _i18n/de/_posts/2019/2019-03-18-erste-woche-vor-der-großen-fastenzeit.md
 - _i18n/de/_posts/2017/2017-12-22-neuigkeiten-md.md
