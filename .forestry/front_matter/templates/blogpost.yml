@@ -62,8 +62,8 @@ fields:
   default: "/uploads/assets/pages/aktuelles/cover_image.jpg"
   description: 'Den Pfad zum Coverbild. Pflichtfeld. Standardmäßig auf "/uploads/assets/pages/aktuelles/cover_image.jpg"! '
 pages:
-- _i18n/ru/_posts/2019/2019-09-22-кирилл-и-алина-наши-близкие-друзья-к-сожалению-уехали-на-родину-в-санкт-петербург.md
 - _i18n/ru/_posts/2019/2019-09-22-помощь-в-саду-и-библиотеке.md
+- _i18n/ru/_posts/2019/2019-09-22-кирилл-и-алина-наши-близкие-друзья-к-сожалению-уехали-на-родину-в-санкт-петербург.md
 - _i18n/de/_posts/2019/fest-der-erhebung-der-gebeine-unseres-schutzpatrons.md
 - _i18n/ru/_posts/2019/престольный-праздник-обретение-мощей-нашего-небесного-покровителя.md
 - _i18n/de/_posts/2019/2019-09-08-tag-der-offenen-tür-im-kloster.md
