@@ -1,11 +1,11 @@
 ---
 author:
-  bio: Kloster des heiligen Hiob
-  name: Ekaterina - Juli/August 2019
+  bio: Freundeskreis Kloster des heiligen Hiob e. V.
+  name: 'Ekaterina '
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
 title: Arbeit im Garten
-excerpt: ''
+excerpt: Juli/August 2019
 
 ---
 Unsere Freunde arbeiten an der Digitalisierung unserer Bibliothek weiter.
