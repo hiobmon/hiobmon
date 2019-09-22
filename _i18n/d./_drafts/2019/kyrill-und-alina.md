@@ -1,11 +1,11 @@
 ---
 author:
-  bio: Kloster des heiligen Hiob
-  name: 'Ekaterina - 22.08.2019 '
+  bio: Freundeskreis Kloster des heiligen Hiob e. V.
+  name: 'Ekaterina '
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
 title: Kyrill und Alina
-excerpt: ''
+excerpt: '22.08.2019 '
 
 ---
 Kyrill und Alina, unsere guten Freunde, gehen wieder in die Heimat - nach Sankt-Petersburg.
