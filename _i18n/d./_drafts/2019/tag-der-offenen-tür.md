@@ -22,12 +22,12 @@ In der klösterlichen Kerzenzieherei
 
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1569157733/media/2019/ff59d295-497d-4aa1-8c7c-b2cf92c3e994_diwfpn.jpg)
 
-Am Bienenstand
+Am Bienenstand. Klosterimker Antonius erzählt den Gästen mehr über die Bienen.
 
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1569157757/media/2019/2459ac08-394e-4a8f-b721-b661c004dd4f_wr6fav.jpg)
 
-<Klosterimker Antonius erzählt den Gästen mehr über die Bienen>
+Der Freundeskreis bewirtet unsere Gäste mit russischen Speisen: Piroggen, Kumys und Bliny. Großen Dank an Äbtissin Maria und die Schwesternschaft in Buchendorf!
 
-<Der Freundeskreis bewirtet unsere Gäste mit russischen Speisen: Piroggen, Kumys und Bliny. Großen Dank an Äbtissin Maria und die Schwesternschaft in Buchendorf!>
+Sergey vor dem Samowar.
 
-<Fotogallerie (wird durch Sergey eingefügt)>
+![](https://res.cloudinary.com/hiobmon/image/upload/v1569158049/media/2019/2019-09-22_14-47-13_uqae4s.png) 
