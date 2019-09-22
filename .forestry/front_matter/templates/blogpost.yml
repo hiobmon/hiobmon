@@ -62,11 +62,11 @@ fields:
   default: "/uploads/assets/pages/aktuelles/cover_image.jpg"
   description: 'Den Pfad zum Coverbild. Pflichtfeld. Standardmäßig auf "/uploads/assets/pages/aktuelles/cover_image.jpg"! '
 pages:
+- _i18n/ru/_posts/2019/2019-09-22-помощь-в-саду-и-библиотеке.md
 - _i18n/ru/_posts/2019/начало-работ-по-укладыванию-брусчатки-в-монастырском-дворе.md
 - _i18n/ru/_posts/2019/день-открытых-дверей.md
 - _i18n/ru/_posts/2019/подготовительная-встреча-ко-дню-открытых-дверей.md
 - _i18n/ru/_posts/2019/кирилл-и-алина.md
-- _i18n/ru/_posts/2019/2019-09-22-помощь-в-саду-и-библиотеке.md
 - _i18n/de/_posts/2019/2019-09-22-tag-der-offenen-tür.md
 - _i18n/de/_posts/2019/2019-09-22-vorbereitung-zum-tag-der-offenen-tür.md
 - _i18n/de/_posts/2019/2019-09-22-kyrill-und-alina.md
