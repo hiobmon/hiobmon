@@ -21,12 +21,14 @@ Wer die Liturgie am Morgen oder den Abendgottesdienst um 18:00 besucht hat, ist 
 * **Ostern**: 28. April 2019 (neuer Kalender) / 15. April 2019 (alter Kalender)
 * **Himmelfahrt**: 6. Juni 2019 (n.K.) / 24. Mai 2019 (a.K.)
 * **Pfingsten**: 16. Juni 2019 (n.K.) / 3. Juni 2019 (a.K.)
-* **Patronatsfeste des Klosters**:
+* **Patronatsfeste des Klosters__:
+  \*
+
+  19\. Mai 2019 (n.K.) / 6. Mai 2019 (a.K.),
   * 
-    1. Mai 2019 (n.K.) / 6. Mai 2019 (a.K.),
+
+    10\. September 2019 (n.K.) / 28. August 2019 (a.K.),
   * 
-    10.  September 2019 (n.K.) / 28. August 2019 (a.K.),
-  * 
-    10.  November 2019 (n.K.) / 28. Oktober 2019 (a.K.)
+    10. November 2019 (n.K.) / 28. Oktober 2019 (a.K.)
 
 Änderungen am regulären Gottesdienstplan werden in der Sektion [Aktuelles](https://www.hiobmon.org/news/) angekündigt.
