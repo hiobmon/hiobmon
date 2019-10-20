@@ -11,6 +11,7 @@ excerpt: 15.10.2019
 Der Erzbischof Mark und seine Bruderschaft gehen jedes Jahr wandern - dieses Jahr war die Bruderschaft am Blomberg bei Bad Tölz.
 
 ###### Herbstwald
+
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1571577950/media/2019/8beeaf67-3b44-4737-a22e-78557c12344b_wegiss.jpg "Herbstwald")
 
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1571578950/media/2019/3b66871d-88f3-4548-9102-d949ea5e1b2b_w1hiuh.jpg)
