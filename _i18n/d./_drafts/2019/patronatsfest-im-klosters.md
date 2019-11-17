@@ -14,7 +14,7 @@ am 10. November 2019 (n.K.) / 28. Oktober 2019 (a.K.) war das Patronatsfest im K
 
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1574017862/media/2019/DSC_9343_khn7md.jpg)
 
-###### Vater Kornilij und vater Hiob 
+###### Vater Kornilij und vater Hiob
 
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1574018104/media/2019/DSC_9364_ksiptd.jpg)
 
