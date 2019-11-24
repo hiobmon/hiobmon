@@ -62,9 +62,9 @@ fields:
   default: "/uploads/assets/pages/aktuelles/cover_image.jpg"
   description: 'Den Pfad zum Coverbild. Pflichtfeld. Standardmäßig auf "/uploads/assets/pages/aktuelles/cover_image.jpg"! '
 pages:
+- _i18n/ru/_posts/2019-11-24-престольный-праздник-в-монастыре.md
 - _i18n/de/_posts/2019/patronatsfest-im-klosters.md
 - _i18n/ru/_posts/2019-11-24-православный-открытый-семинар-26-12-28-12-2019-г.md
-- _i18n/ru/_posts/престольный-праздник-в-монастыре.md
 - _i18n/de/_posts/2019/2019-10-29-gedenkgottesdienst-für-russische-kriegsgefangene-in-puchheim.md
 - _i18n/ru/_posts/2019/2019-10-29-панихида-по-русским-военнопленным-в-пухгейме.md
 - _i18n/ru/_posts/2019-10-20-памяти-отца-евфимия.md
