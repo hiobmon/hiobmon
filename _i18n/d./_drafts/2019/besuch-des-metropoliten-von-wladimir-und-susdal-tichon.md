@@ -5,7 +5,7 @@ author:
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
 title: 'Besuch des Metropoliten von Wladimir und Susdal Tichon '
-excerpt: 12.11.2019)
+excerpt: 12.11.2019
 
 ---
 Im Rahmen des Kulturaustausches zwischen den Partnerstädten Erlangen und Wladimir kam Metropolit von Wladimir und Susdal Tichon (Emeljanow) nach Bayern.
