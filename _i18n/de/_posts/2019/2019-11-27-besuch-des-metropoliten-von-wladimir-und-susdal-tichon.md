@@ -10,7 +10,7 @@ excerpt: 12.11.2019
 ---
 Im Rahmen des Kulturaustausches zwischen den Partnerstädten Erlangen und Wladimir kam Metropolit von Wladimir und Susdal Tichon (Emeljanow) nach Bayern.
 
-Vladyka Tichon wurde in unserer Diözese herzlich empfangen von Erzbischof Mark und seinem Klerus
+Vladyka Tichon wurde in unserer Diözese herzlich empfangen von Erzbischof Mark und seinem Klerus.
 
 Mehr dazu ist hier zu lesen:
 
@@ -19,3 +19,5 @@ Mehr dazu ist hier zu lesen:
 ###### Auf dem Foto von links: Protodiakon Varfolomey, Priester Anatolij, Erzbischof Mark und Metropolit Tichon mit Gästen
 
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1574848583/media/2019/DSC00928-1024x679_es02w7.jpg)
+
+Vladyka Tichon hat auch unser Kloster kurz besichtigt.
