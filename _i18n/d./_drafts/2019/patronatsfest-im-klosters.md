@@ -10,8 +10,6 @@ excerpt: 10. November 2019 (n.K.) / 28. Oktober 2019 (a.K.)
 ---
 am 10. November 2019 (n.K.) / 28. Oktober 2019 (a.K.) war das Patronatsfest im Klosters.
 
-###### 
-
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1574017862/media/2019/DSC_9343_khn7md.jpg)
 
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1574018104/media/2019/DSC_9364_ksiptd.jpg)
