@@ -62,6 +62,7 @@ fields:
   default: "/uploads/assets/pages/aktuelles/cover_image.jpg"
   description: 'Den Pfad zum Coverbild. Pflichtfeld. Standardmäßig auf "/uploads/assets/pages/aktuelles/cover_image.jpg"! '
 pages:
+- _i18n/de/_posts/2019/vorstandssitzung-des-kloster-freundeskreises.md
 - _i18n/de/_posts/2019/besuch-des-metropoliten-von-wladimir-und-susdal-tichon.md
 - _i18n/ru/_posts/2019/новая-крыша-у-садового-домика.md
 - _i18n/ru/_posts/2019/братия-обители-разделила-радость-престольного-праздника-в-церкви-святого-архистратига-божия-михаила.md
