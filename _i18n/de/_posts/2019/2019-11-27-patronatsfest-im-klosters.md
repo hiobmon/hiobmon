@@ -4,7 +4,7 @@ author:
   name: Ekaterina
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
-title: Patronatsfest im Klosters
+title: Patronatsfest im Kloster
 excerpt: 10. November 2019 (n.K.) / 28. Oktober 2019 (a.K.)
 
 ---
