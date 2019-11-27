@@ -8,7 +8,7 @@ title: Patronatsfest in der Kirche des Hl. Erzengels Michael
 excerpt: 21.11.2019
 
 ---
-Unsere Bruderschaft feierte mit Klerus und Gemeinde in der Kirche des Hl. Erzengels Michael in München-Ludwigsfeld das Patronatsfest. Bei der Vigil konzelebrierte dem Erzbischof Mark und Vorsteher Priester Andrej Berezovskyi Priestermönch Hiob, und am Festtag selbst Priestermönch Kornilij.
+Unsere Bruderschaft feierte mit Klerus und Gemeinde in der Kirche des Hl. Erzengels Michael in München-Ludwigsfeld das Patronatsfest. Bei der Vigil konzelebrierte mit Erzbischof Mark und Vorsteher Priester Andrej Berezovskyi Priestermönch Hiob, und am Festtag selbst Priestermönch Kornilij.
 
 Nach der Göttlichen Liturgie, die von Erzbischof Mark mit zahlreichem Klerus zelebriert wurde, fand die traditionelle Kreuzprozession und anschließend eine Trapeza statt. An dem festlichen Mittagsmahl, das Gemeindemitglieder in dem Gotteshaus hervorragend zubereitet hatten, nahm auch die Bruderschaft des Klosters teil.
 
