@@ -18,6 +18,4 @@ am 10. November 2019 (n.K.) / 28. Oktober 2019 (a.K.) war das Patronatsfest im K
 
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1574017892/media/2019/DSC_9348_md3wut.jpg)
 
-###### 
-
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1574017903/media/2019/DSC_9359_vjqdnf.jpg)
