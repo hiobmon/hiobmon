@@ -62,6 +62,7 @@ fields:
   default: "/uploads/assets/pages/aktuelles/cover_image.jpg"
   description: 'Den Pfad zum Coverbild. Pflichtfeld. Standardmäßig auf "/uploads/assets/pages/aktuelles/cover_image.jpg"! '
 pages:
+- _i18n/de/_posts/2019/wofür-und-wie-soll-man-die-heilige-schrift-lesen.md
 - _i18n/de/_posts/2019/2019-11-27-patronatsfest-im-klosters.md
 - _i18n/ru/_posts/2019/2019-11-27-визит-митрополита-владимирского-и-суздальского-тихон.md
 - _i18n/de/_posts/2019/besuch-des-metropoliten-von-wladimir-und-susdal-tichon.md
