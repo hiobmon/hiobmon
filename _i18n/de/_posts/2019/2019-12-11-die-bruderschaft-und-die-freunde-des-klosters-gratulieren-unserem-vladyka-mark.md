@@ -8,7 +8,9 @@ title: Die Bruderschaft und die Freunde des Klosters gratulieren unserem Vladyka
 excerpt: 11.12.2019
 
 ---
-Die Bruderschaft und die Freunde des Klosters gratulieren unserem Vladyka Mark. Für seine besonderen Verdienste um die Kirche Christi und das Ansehen seiner Diözese wurde Erzbischof Mark in das Amt des Metropoliten eingeführt. Viele und segensreiche Jahre!
+Die Bruderschaft und die Freunde des Klosters gratulieren unserem Vladyka Mark. Für seine besonderen Verdienste um die Kirche Christi und das Ansehen seiner Diözese wurde Erzbischof Mark in das Amt des Metropoliten eingeführt. 
+
+Viele und segensreiche Jahre!
 
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1576096703/media/2019/2451ed3c-d30a-4f7d-b0ea-0eba8997a2bb_hhzmks.jpg)
 
