@@ -62,8 +62,8 @@ fields:
   default: "/uploads/assets/pages/aktuelles/cover_image.jpg"
   description: 'Den Pfad zum Coverbild. Pflichtfeld. Standardmäßig auf "/uploads/assets/pages/aktuelles/cover_image.jpg"! '
 pages:
-- _i18n/ru/_posts/2019/поздравления-нашему-владыке-марку.md
 - _i18n/de/_posts/2019/2019-12-11-die-bruderschaft-und-die-freunde-des-klosters-gratulieren-unserem-vladyka-mark.md
+- _i18n/ru/_posts/2019/поздравления-нашему-владыке-марку.md
 - _i18n/ru/_posts/2019/2019-11-27-братия-обители-разделила-радость-престольного-праздника-в-церкви-святого-архистратига-божия-михаила.md
 - _i18n/de/_posts/2019/2019-11-27-die-bruderschaft-macht-das-klosterdach-winterfest.md
 - _i18n/de/_posts/2019/2019-11-27-vorstandssitzung-des-kloster-freundeskreises.md
