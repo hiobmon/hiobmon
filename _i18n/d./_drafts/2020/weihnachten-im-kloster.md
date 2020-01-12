@@ -5,7 +5,7 @@ author:
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
 title: Weihnachten im Kloster
-excerpt: 7.01.2020
+excerpt: 07.01.2020
 
 ---
 am 6. und 7. Januar waren die Weihnachtsgottesdienste im Kloster. 
