@@ -18,12 +18,12 @@ Wer die Liturgie am Morgen oder den Abendgottesdienst um 18:00 besucht hat, ist 
 
 ## Wichtige Festtage
 
-* **Ostern**: 28. April 2019 (neuer Kalender) / 15. April 2019 (alter Kalender)
-* **Himmelfahrt**: 6. Juni 2019 (n.K.) / 24. Mai 2019 (a.K.)
-* **Pfingsten**: 16. Juni 2019 (n.K.) / 3. Juni 2019 (a.K.)
-* **Patronatsfeste des Klosters**: 
-  * 19\. Mai 2019 (n.K.) / 6. Mai 2019 (a.K.),
-  * 10\. September 2019 (n.K.) / 28. August 2019 (a.K.),
-  * 10\. November 2019 (n.K.) / 28. Oktober 2019 (a.K.)
+* **Ostern**: 19. April 2020 (neuer Kalender) / 6. April 2020 (alter Kalender)
+* **Himmelfahrt**: 28. Mai 2020 (n.K.) / 15. Mai 2020 (a.K.)
+* **Pfingsten**: 7. Juni 2020 (n.K.) / 25. Mai 2020 (a.K.)
+* **Patronatsfeste des Klosters**:
+  * 19. Mai 2020 (n.K.) / 6. Mai 2020 (a.K.),
+  * 10. September 2020 (n.K.) / 28. August 2020 (a.K.),
+  * 10. November 2020 (n.K.) / 28. Oktober 2020 (a.K.)
 
 Änderungen am regulären Gottesdienstplan werden in der Sektion [Aktuelles](https://www.hiobmon.org/news/) angekündigt.
