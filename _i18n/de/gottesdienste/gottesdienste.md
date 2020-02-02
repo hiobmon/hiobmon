@@ -22,8 +22,8 @@ Wer die Liturgie am Morgen oder den Abendgottesdienst um 18:00 besucht hat, ist 
 * **Himmelfahrt**: 28. Mai 2020 (n.K.) / 15. Mai 2020 (a.K.)
 * **Pfingsten**: 7. Juni 2020 (n.K.) / 25. Mai 2020 (a.K.)
 * **Patronatsfeste des Klosters**:
-  * 19. Mai (n.K.) / 6. Mai (a.K.),
-  * 10. September (n.K.) / 28. August (a.K.),
-  * 10. November (n.K.) / 28. Oktober (a.K.)
+  * 19 Mai (n.K.) / 6. Mai (a.K.),
+  * 10 September (n.K.) / 28. August (a.K.),
+  * 10 November (n.K.) / 28. Oktober (a.K.)
 
 Änderungen am regulären Gottesdienstplan werden in der Sektion [Aktuelles](https://www.hiobmon.org/news/) angekündigt.
