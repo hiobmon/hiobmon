@@ -4,10 +4,12 @@ author:
   name: Ekaterina
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
-title: 'Reise nach Irland vom 14.-20. Januar '
+title: Kurze Pilgerfahrt nach Irland
 excerpt: 02.02.2020
 
 ---
+Reise nach Irland vom 14.-20. Januar
+
 Auf Einladung des Geistlichen der Kirche des hl. Kolman von Ogoval, Priester Sergij Mironenko und dem Segen des Vorsteher unseres Klosters Metropolit Mark.
 
 Priestermönch Kornilij war in einer der entlegendsten Gemeinden der ROKA (westeuropäischen Eparchie) in Irland. Während des Aufenthaltes konnten einige altchristliche Heiligtümer Irlands besucht werden. Und sich mit dem Leben der Gemeinde des hl Kolman bekannt zumachen und mitzuhelfen Gottesdienste abzuhalten.
