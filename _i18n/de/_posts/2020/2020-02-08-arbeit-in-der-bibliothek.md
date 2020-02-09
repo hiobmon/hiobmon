@@ -16,12 +16,12 @@ Wir laden alle ein, Ihren Beitrag zur Unterstützung der Klosterbibliothek zu le
 
 Im Namen aller Schwestern des Freundeskreises, die in der Bibliothek sowie im Garten helfen, wünschen wir Euch eine seelische Bereicherung mit den Büchern des Klosters.
 
-![https://res.cloudinary.com/hiobmon/image/upload/v1581172267/media/2020/11da1fcf-5553-4506-8536-1dbf67a43f5b_nuiilw.jpg](https://res.cloudinary.com/hiobmon/image/upload/v1581172267/media/2020/11da1fcf-5553-4506-8536-1dbf67a43f5b_nuiilw.jpg)
+![https://res.cloudinary.com/hiobmon/image/upload/v1581172267/media/2020/11da1fcf-5553-4506-8536-1dbf67a43f5b](https://res.cloudinary.com/hiobmon/image/upload/v1581172267/media/2020/11da1fcf-5553-4506-8536-1dbf67a43f5b_nuiilw.jpg)
 
-![https://res.cloudinary.com/hiobmon/image/upload/v1581172279/media/2020/908dfc37-9aa2-4ef8-a414-3a0f02818cb3_bbnewx.jpg](https://res.cloudinary.com/hiobmon/image/upload/v1581172279/media/2020/908dfc37-9aa2-4ef8-a414-3a0f02818cb3_bbnewx.jpg)
+![https://res.cloudinary.com/hiobmon/image/upload/v1581172279/media/2020/908dfc37-9aa2-4ef8-a414-3a0f02818cb3](https://res.cloudinary.com/hiobmon/image/upload/v1581172279/media/2020/908dfc37-9aa2-4ef8-a414-3a0f02818cb3_bbnewx.jpg)
 
-![https://res.cloudinary.com/hiobmon/image/upload/v1581172295/media/2020/38bbbbb0-a6fc-444a-80e9-e034172088fd_kgkqrp.jpg](https://res.cloudinary.com/hiobmon/image/upload/v1581172295/media/2020/38bbbbb0-a6fc-444a-80e9-e034172088fd_kgkqrp.jpg)
+![https://res.cloudinary.com/hiobmon/image/upload/v1581172295/media/2020/38bbbbb0-a6fc-444a-80e9-e034172088fd](https://res.cloudinary.com/hiobmon/image/upload/v1581172295/media/2020/38bbbbb0-a6fc-444a-80e9-e034172088fd_kgkqrp.jpg)
 
-![https://res.cloudinary.com/hiobmon/image/upload/v1581172311/media/2020/b0a252ec-e408-4baa-98e2-b88b9c4f2849_bbv9p9.jpg](https://res.cloudinary.com/hiobmon/image/upload/v1581172311/media/2020/b0a252ec-e408-4baa-98e2-b88b9c4f2849_bbv9p9.jpg)![https://res.cloudinary.com/hiobmon/image/upload/v1581172331/media/2020/e3bbe05d-3517-4ed2-8cbc-7169fd38315a_ek5tpd.jpg](https://res.cloudinary.com/hiobmon/image/upload/v1581172331/media/2020/e3bbe05d-3517-4ed2-8cbc-7169fd38315a_ek5tpd.jpg)
+![https://res.cloudinary.com/hiobmon/image/upload/v1581172311/media/2020/b0a252ec-e408-4baa-98e2-b88b9c4f2849](https://res.cloudinary.com/hiobmon/image/upload/v1581172311/media/2020/b0a252ec-e408-4baa-98e2-b88b9c4f2849_bbv9p9.jpg)
 
-![https://res.cloudinary.com/hiobmon/image/upload/v1581172345/media/2020/9cdd56ce-6afa-48b4-b76a-0dd28cc07190_esk0nj.jpg](https://res.cloudinary.com/hiobmon/image/upload/v1581172345/media/2020/9cdd56ce-6afa-48b4-b76a-0dd28cc07190_esk0nj.jpg)
+![https://res.cloudinary.com/hiobmon/image/upload/v1581172345/media/2020/9cdd56ce-6afa-48b4-b76a-0dd28cc07190](https://res.cloudinary.com/hiobmon/image/upload/v1581172345/media/2020/9cdd56ce-6afa-48b4-b76a-0dd28cc07190_esk0nj.jpg)
