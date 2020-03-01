@@ -16,8 +16,8 @@ Bruderschaft und Pfadfinder im Klosterhof
 
 ![https://res.cloudinary.com/hiobmon/image/upload/v1583052388/media/2020/DSC](https://res.cloudinary.com/hiobmon/image/upload/v1583052388/media/2020/DSC_9944_xi8enl.jpg)
 
-![https://res.cloudinary.com/hiobmon/image/upload/v1583052426/media/2020/DSC_9947_eh3beu.jpg](https://res.cloudinary.com/hiobmon/image/upload/v1583052426/media/2020/DSC_9947_eh3beu.jpg)
+![https://res.cloudinary.com/hiobmon/image/upload/v1583052426/media/2020/DSC](https://res.cloudinary.com/hiobmon/image/upload/v1583052426/media/2020/DSC_9947_eh3beu.jpg)
 
-![https://res.cloudinary.com/hiobmon/image/upload/v1583052494/media/2020/DSC_9953_kdwdf4.jpg](https://res.cloudinary.com/hiobmon/image/upload/v1583052494/media/2020/DSC_9953_kdwdf4.jpg)
+![https://res.cloudinary.com/hiobmon/image/upload/v1583052494/media/2020/DSC](https://res.cloudinary.com/hiobmon/image/upload/v1583052494/media/2020/DSC_9953_kdwdf4.jpg)
 
-![https://res.cloudinary.com/hiobmon/image/upload/v1583052538/media/2020/DSC_9964_bwobxp.jpg](https://res.cloudinary.com/hiobmon/image/upload/v1583052538/media/2020/DSC_9964_bwobxp.jpg)
+![https://res.cloudinary.com/hiobmon/image/upload/v1583052538/media/2020/DSC](https://res.cloudinary.com/hiobmon/image/upload/v1583052538/media/2020/DSC_9964_bwobxp.jpg)
