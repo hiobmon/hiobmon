@@ -26,7 +26,7 @@ Bruderschaft und Pfadfinder im Klosterhof
 
 **Pilgerfahrt nach München ins Kloster des heiligen Hiob von Počaev.**
 
-Vom 17 bis zum 23 Februar hatten Pfadfinder der Patrouille “Falke“ aus dem Pfadfindergruppe vom heiligen Krieger Feodor Uschakov eine Pilgerfahrt ins Münchener Kloster des Heiligen Hiob von Počaev.
+Vom 17 bis zum 23 Februar hatten Pfadfinder der Patrouille “Falke“ aus der Pfadfindergruppe vom heiligen Krieger Feodor Uschakov eine Pilgerfahrt ins Münchener Kloster des Heiligen Hiob von Počaev.
 
 Die Pfadfinder wohnten nach den Klosterregel. Und nicht achtend auf die Schulferien zeigten keine Schwäche und bemühten sich an Gottesdiensten nicht zu fehlen. Dabei halfen sie der Bruderschaft die Tagesarbeit zu verrichten. Vater Meliton hat dem Gruppenanführer Roman Unterrichten des Glockenspiels beigebracht. Danach verfeinerte er seine Fähigkeiten im Glockenwerk. Er bekam es bestens hin!
 
