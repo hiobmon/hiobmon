@@ -26,7 +26,7 @@ Bruderschaft und Pfadfinder im Klosterhof
 
 **Pilgerfahrt nach München ins Kloster des heiligen Hiob von Počaev.**
 
-_Ein Bericht von Instrukteur Andreas Lunev_
+_Ein Bericht von Teamleiter Andreas Lunev_
 
 Vom 17. bis zum 23. Februar hatten Pfadfinder der Patrouille “Falke“ aus der Pfadfindergruppe vom heiligen Krieger Feodor Uschakov eine Pilgerfahrt ins Münchener Kloster des Heiligen Hiob von Počaev gemacht.
 
