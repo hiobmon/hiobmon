@@ -26,18 +26,18 @@ Bruderschaft und Pfadfinder im Klosterhof
 
 **Pilgerfahrt nach München ins Kloster des heiligen Hiob von Počaev.**
 
-Vom 17 bis zum 23 Februar hatten Pfadfinder der Patrouille “Falke“ aus der Pfadfindergruppe vom heiligen Krieger Feodor Uschakov eine Pilgerfahrt ins Münchener Kloster des Heiligen Hiob von Počaev.
+_Ein Bericht von Instrukteur Andreas Lunev_
 
-Die Pfadfinder wohnten nach den Klosterregel. Und nicht achtend auf die Schulferien zeigten keine Schwäche und bemühten sich an Gottesdiensten nicht zu fehlen. Dabei halfen sie der Bruderschaft die Tagesarbeit zu verrichten. Vater Meliton hat dem Gruppenanführer Roman Unterrichten des Glockenspiels beigebracht. Danach verfeinerte er seine Fähigkeiten im Glockenwerk. Er bekam es bestens hin!
+Vom 17. bis zum 23. Februar hatten Pfadfinder der Patrouille “Falke“ aus der Pfadfindergruppe vom heiligen Krieger Feodor Uschakov eine Pilgerfahrt ins Münchener Kloster des Heiligen Hiob von Počaev gemacht.
 
-In unserer Freizeit veranstalteten wir das „alter Wolf“ Patrouille Lager, benannt nach der Erinnerung an den Chef Scoutmaster (STS) Boris Borisovič Martino. Jeder Tag war bei uns voll mit der Bedeutung und Ereignissen. An Gruppenstunden wurden neue Themen gelernt, und Prüfungen bestanden. Also hatten wir eine Fahrt in die gegenüberliegende Seite von München, wo das Grab des Hl. Alexander (Schmorell) besucht, Teilnehmer der Untergrundwiderstandsbewegung gegen die Nazis "Weiße Rose". Heiliger Alexander, bete zu Gott für uns! Auch besuchten wir das Grab des STS Boris Borisovič Martino, oder wie ihn die Pfadfinder - “Alter Wolf“ nennen. Ewiges Gedenken! Überall war ein Teppich aus Alpenblumen herum, was eine besondere Feierlichkeit betonte.
+Die Pfadfinder wohnten nach den Klosterregeln. Und ungeachtet der Schulferien zeigten sie keine Schwäche und bemühten sich bei Gottesdiensten nicht zu fehlen. Dabei halfen sie der Bruderschaft die Tagesarbeit zu verrichten. Vater Meliton hat dem Gruppenanführer Roman das Glockenspiel beigebracht. Danach verfeinerte Roman seine Fähigkeiten im Glockenwerk. Er bekam es bestens hin!
 
-Außerdem unternahmen wir eine Tageswanderung im Alpenschnee bei Mittenwald. Währenddessen probierten wir eine Ration aus dem Pemmikan (Reiseproviant der Indianer Nordamerikas), die in der Zukunft die Komplexität der Wanderung steigern lässt.
+In unserer Freizeit veranstalteten wir das „alter Wolf“ Patrouille Lager, zur Erinnerung an den Chef Scoutmaster (STS) Boris Borisovič Martino. Jeder Tag war bei uns voll mit der Bedeutung und Ereignissen. In Gruppenstunden wurden neue Themen gelernt, und Prüfungen bestanden. Auch unternahmen wir eine Fahrt an das andere Ende von München und haben dort das Grab des Hl. Alexander (Schmorell) besucht, Teilnehmer der Untergrundwiderstandsbewegung gegen das Naziregime "Weiße Rose". Heiliger Alexander, bete zu Gott für uns! Auch besuchten wir das Grab des STS Boris Borisovič Martino, oder wie ihn die Pfadfinder - “Alter Wolf“ nennen. Ewiges Gedenken! Überall war ein Teppich aus Blumen herum, was eine besondere Feierlichkeit betonte.
 
-Während der Woche bereiteten wir uns zum Empfang der heiligen Kommunion vor, und am Sonntag hatten wir es alle zusammen vollbracht. Damit wurde der Hauptzweck unseres Klosteraufenthaltes erfüllt. Wir dankten der Bruderschaft des Klosters, und begaben uns auf unseren Heimweg. Eine tiefe Verbeugung vor der ganzen Bruderschaft! Und bis bald!
+Außerdem unternahmen wir eine Tageswanderung im Alpenschnee bei Mittenwald. Währenddessen probierten wir eine Ration aus dem Pemmikan (Reiseproviant der Indianer Nordamerikas), damit in der Zukunft unsere Wanderungen schwieriger werden können.
+
+Während der Woche bereiteten wir uns zum Empfang der heiligen Kommunion vor, und am Sonntag hatten wir sie alle zusammen empfangen. Damit wurde der Hauptzweck unseres Klosteraufenthaltes erfüllt. Wir dankten der Bruderschaft des Klosters, und begaben uns auf unseren Heimweg. Eine tiefe Verbeugung vor der ganzen Bruderschaft! Und bis bald!
 
 Fotoalbum: [https://vk.com/album-184752092_270666067](https://vk.com/album-184752092_270666067 "https://vk.com/album-184752092_270666067")
-
-_Instrukteur Andreas Lunev_
 
 _Leiter der Pfadfindergruppe namens des hl. Krieger Feodor Uschakov, Pfadfinderbund „Tsar-Grad“_
