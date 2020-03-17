@@ -4,7 +4,7 @@ author:
   name: Екатерина
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
-title: 'Der Gottesdienst von heute - online! '
+title: Life-Übertragungen unserer Gottesdienste!
 excerpt: 17.03.2020
 
 ---
