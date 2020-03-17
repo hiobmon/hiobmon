@@ -8,6 +8,8 @@ title: Life-Übertragungen unserer Gottesdienste!
 excerpt: 17.03.2020
 
 ---
-Der Gottesdienst von heute kann man unter folgendem Link anschauen:
+Leider zurzeit kann niemand unsere Gottesdienste besuchen, deswegen haben wir heute eine Life- Übertragung aufgenommen.
+
+Der Gottesdienst von heute kann man unter folgendem _Link_ anschauen_:_
 
 [https://www.instagram.com/jelbe_john/](https://www.instagram.com/jelbe_john/ "https://www.instagram.com/jelbe_john/")
