@@ -2,7 +2,7 @@ language: ruby
 rvm:
 - 2.6.4
 install:
-- bundle install --trace
+- bundle install
 deploy:
   provider: pages
   skip_cleanup: true
