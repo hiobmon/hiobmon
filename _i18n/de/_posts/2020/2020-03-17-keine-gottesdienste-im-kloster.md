@@ -8,4 +8,7 @@ title: ACHTUNG!!!
 excerpt: 17.03.2020
 
 ---
-Auf Verordnung der Regierung keine öffentliche Gottesdienste im Kloster.
+Auf Verordnung der Bayerischen Staatsregierung finden im Kloster keine öffentliche Gottesdienste statt.
+
+Live-Übertragungen unserer Gottesdienste findet ihr auf unserem Freundeskreis Kloster des hl. Hiob e.V. YouTube Channel.  
+https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ

@@ -8,8 +8,5 @@ title: Live-Übertragungen unserer Gottesdienste!
 excerpt: 17.03.2020
 
 ---
-Leider zurzeit kann niemand unsere Gottesdienste besuchen, deswegen haben wir heute eine Life- Übertragung aufgenommen.
-
-Der Gottesdienst von heute kann man unter folgendem _Link_ anschauen_:_
-
-[https://www.instagram.com/jelbe_john/](https://www.instagram.com/jelbe_john/ "https://www.instagram.com/jelbe_john/")
+Live-Übertragungen unserer Gottesdienste findet ihr auf unserem Freundeskreis Kloster des hl. Hiob e.V. YouTube Channel.  
+[https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ](https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ)
