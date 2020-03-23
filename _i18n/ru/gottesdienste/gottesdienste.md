@@ -1,6 +1,3 @@
----
-
----
 Смотрите прямые трансляции богослужений на нашем YouTube канале - Freundeskreis Kloster des hl. Hiob e.V.
 
 [https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ](https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ "https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ")

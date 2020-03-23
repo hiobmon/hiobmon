@@ -22,43 +22,43 @@ destination: "./_site"
 plugins_dir: "./_plugins"
 layouts_dir: "./_layouts"
 include:
-- ".htaccess"
+  - ".htaccess"
 exclude:
-- vendor/bundle
-- Gemfile
-- Gemfile.lock
-- LICENSE
-- README.md
-- Rakefile
-timezone: Europe/Moscow
+  - vendor/bundle
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Rakefile
+timezone: Europe/Berlin
 languages:
-- de
-- ru
+  - de
+  - ru
 exclude_from_localizations:
-- javascript
-- uploads
-- css
+  - javascript
+  - uploads
+  - css
 plugins:
-- jekyll-paginate
-- jekyll-multiple-languages-plugin
+  - jekyll-paginate
+  - jekyll-multiple-languages-plugin
 future: false
 show_drafts: 'false'
-limit_posts: "0"
+limit_posts: 0
 highlighter: rouge
 permalink: pretty
-paginate: "10"
+paginate: 10
 paginate_path: "/news/:num"
 markdown: kramdown
 markdown_ext: markdown,mkd,mkdn,md
 textile_ext: textile
 excerpt_separator: "<!-- more -->"
 safe: false
-port: "4000"
+port: 4000
 baseurl: "/"
 lsi: false
 kramdown:
   auto_ids: true
-  footnote_nr: "1"
+  footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
@@ -66,9 +66,9 @@ kramdown:
   syntax_highlighter_opts:
     coderay_wrap: div
     coderay_line_numbers: inline
-    coderay_line_numbers_start: "1"
-    coderay_tab_width: "4"
-    coderay_bold_every: "10"
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
     coderay_css: style
 rdiscount:
   extensions: []
@@ -80,16 +80,16 @@ assets:
   dirname: css
   baseurl: "/css/"
   sources:
-  - css/javascripts
-  - css/stylesheets
-  - uploads/assets
+    - css/javascripts
+    - css/stylesheets
+    - uploads/assets
   js_compressor: uglifier
   css_compressor: sass
   cachebust: none
   cache: false
   gzip:
-  - text/css
-  - application/javascript
+    - text/css
+    - application/javascript
   debug: false
 sass:
   sass_dir: css/stylesheets/_sass

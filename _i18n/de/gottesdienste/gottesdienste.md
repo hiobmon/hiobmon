@@ -1,6 +1,3 @@
----
-
----
 Live-Übertragungen unserer Gottesdienste findet ihr auf unserem Freundeskreis Kloster des hl. Hiob e.V. YouTube Channel.
 
 [https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ](https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ "https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ")
