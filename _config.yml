@@ -1,127 +1,95 @@
+---
 inc:
-  # Blog Information
-  title:        "Kloster des heiligen Hiob"
-  subtitle:     "Russisch-Orthodoxe Kirche im Ausland | München-Obermenzing"
-  cover_image:  /uploads/assets/pages/shared/cover_images/kirche.jpg
-  logo:         hiobmon_logo.png
-
-  # Company information
-  company:      Kloster des heiligen Hiob von Počaev
-  url:          http://hiobmon.de
-
-  # Comments
+  title: Kloster des heiligen Hiob
+  subtitle: Russisch-Orthodoxe Kirche im Ausland | München-Obermenzing
+  cover_image: "/uploads/assets/pages/shared/cover_images/kirche.jpg"
+  logo: hiobmon_logo.png
+  company: Kloster des heiligen Hiob von Počaev
+  url: http://hiobmon.de
   disqus:
-    # Eg. "exampleblog" Set to false to disable comments
-    shortname:  hiobmon
-
-  # Sharing settings
+    shortname: hiobmon
   sharing:
-    twitter:    false
-    facebook:   false
-    gplus:      false
-    hn:         false
-
-
- # Analytics
+    twitter: false
+    facebook: false
+    gplus: false
+    hn: false
   analytics:
-    google: false # Add tracking code in _includes/_google-analytics.html
-
-
-  # Google Fonts
-  # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
-  google_font: 'Droid+Sans:400,700'
-
-  # Setup your fonts, colors etc at _assets/stylesheets/main.scss
-
-url:         http://hiobmon.github.io
-source:      .
-destination: ./_site
-plugins_dir:     ./_plugins
-layouts_dir:     ./_layouts
-include:     ['.htaccess']
+    google: false
+  google_font: Droid+Sans:400,700
+url: http://hiobmon.github.io
+source: "."
+destination: "./_site"
+plugins_dir: "./_plugins"
+layouts_dir: "./_layouts"
+include:
+- ".htaccess"
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - Rakefile
-timezone:    nil
-languages: ['de', 'ru']
-exclude_from_localizations: ['javascript', 'uploads', 'css']
-plugins: [jekyll-paginate, jekyll-multiple-languages-plugin]
-
-# Show future posts
-future:      false
+- vendor/bundle
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md
+- Rakefile
+timezone: nil
+languages:
+- de
+- ru
+exclude_from_localizations:
+- javascript
+- uploads
+- css
+plugins:
+- jekyll-paginate
+- jekyll-multiple-languages-plugin
+future: false
 show_drafts: nil
-limit_posts: 0
-highlighter:    rouge
-
-# relative_permalinks: true
-
-permalink:     pretty
-
-# Pagination: https://github.com/scandio/jekyll-paginate-multiple
-paginate: 10
-paginate_path: '/news/:num'
-
-markdown:      kramdown
-markdown_ext:  markdown,mkd,mkdn,md
-textile_ext:   textile
-
+limit_posts: "0"
+highlighter: rouge
+permalink: pretty
+paginate: "10"
+paginate_path: "/news/:num"
+markdown: kramdown
+markdown_ext: markdown,mkd,mkdn,md
+textile_ext: textile
 excerpt_separator: "<!-- more -->"
-
-safe:        false
-port:        4000
-baseurl:     /
-lsi:         false
-
-kramdown:
-  use_tex:    false
-  use_divs:   false
-  png_engine: blahtex
-  png_dir:    uploads/latex
-  png_url:    /uploads/latex
-
-rdiscount:
-  extensions: []
-
-redcarpet:
-  extensions: []
-
+safe: false
+port: "4000"
+baseurl: "/"
+lsi: false
 kramdown:
   auto_ids: true
-  footnote_nr: 1
+  footnote_nr: "1"
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
   syntax_highlighter_opts:
     coderay_wrap: div
     coderay_line_numbers: inline
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
+    coderay_line_numbers_start: "1"
+    coderay_tab_width: "4"
+    coderay_bold_every: "10"
     coderay_css: style
-
+rdiscount:
+  extensions: []
+redcarpet:
+  extensions: []
 redcloth:
   hard_breaks: true
-
-#
-# jekyll-assets: see more at https://github.com/ixti/jekyll-assets
-#
 assets:
   dirname: css
-  baseurl: /css/
+  baseurl: "/css/"
   sources:
-    - css/javascripts
-    - css/stylesheets
-    - uploads/assets
+  - css/javascripts
+  - css/stylesheets
+  - uploads/assets
   js_compressor: uglifier
   css_compressor: sass
   cachebust: none
   cache: false
-  gzip: [ text/css, application/javascript ]
+  gzip:
+  - text/css
+  - application/javascript
   debug: false
 sass:
   sass_dir: css/stylesheets/_sass
