@@ -1,6 +1,10 @@
 ---
 
 ---
+Live-Übertragungen unserer Gottesdienste findet ihr auf unserem Freundeskreis Kloster des hl. Hiob e.V. YouTube Channel.
+
+[https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ](https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ "https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ")
+
 Wer die Liturgie am Morgen oder den Abendgottesdienst um 18:00 besucht hat, ist zur anschließenden Mahlzeit herzlich eingeladen.
 
 ## Morgens
