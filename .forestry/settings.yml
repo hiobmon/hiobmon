@@ -89,6 +89,10 @@ sections:
   label: Пожертвования
   templates:
   - leeres-template
+- type: document
+  path: _config.yml
+  label: Jekyll Config
+  match: "**/*"
 upload_dir: media
 public_path: https://res.cloudinary.com/hiobmon/image/upload
 front_matter_path: ''
