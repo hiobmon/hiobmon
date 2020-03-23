@@ -30,7 +30,7 @@ exclude:
 - LICENSE
 - README.md
 - Rakefile
-timezone: nil
+timezone: Europe/Moscow
 languages:
 - de
 - ru
@@ -42,7 +42,7 @@ plugins:
 - jekyll-paginate
 - jekyll-multiple-languages-plugin
 future: false
-show_drafts: nil
+show_drafts: 'false'
 limit_posts: "0"
 highlighter: rouge
 permalink: pretty
