@@ -54,7 +54,7 @@ textile_ext: textile
 excerpt_separator: "<!-- more -->"
 safe: false
 port: "4000"
-baseurl: ''
+baseurl: "/"
 lsi: false
 kramdown:
   auto_ids: true
