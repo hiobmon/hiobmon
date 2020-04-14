@@ -74,18 +74,15 @@ redcloth:
   hard_breaks: true
 assets:
   dirname: css
-  baseurl: "/css/"
+  baseurl: /css/
   sources:
-    - css/javascripts
     - css/stylesheets
     - uploads/assets
   js_compressor: uglifier
   css_compressor: sass
   cachebust: none
   cache: false
-  gzip:
-    - text/css
-    - application/javascript
+  gzip: [ text/css, application/javascript ]
   debug: false
 sass:
   sass_dir: css/stylesheets/_sass

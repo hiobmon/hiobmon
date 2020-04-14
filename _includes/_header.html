@@ -20,7 +20,7 @@
           {% if site.lang == "de" %}
             <a href="{{ site.baseurl_root | append: 'ru' }}" class="btn btn-outline">{% t language_toggle.russian %}</a>
           {% elsif site.lang == "ru" %}
-            <a href="{{ site.baseurl_root }}" class="btn btn-outline">{% t language_toggle.german %}</a>
+            <a href="{{ site.baseurl_root | append: '/' }}" class="btn btn-outline">{% t language_toggle.german %}</a>
           {% endif %}
         </nav>
     </header>
