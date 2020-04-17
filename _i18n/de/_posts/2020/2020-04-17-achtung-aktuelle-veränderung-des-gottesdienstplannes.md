@@ -10,4 +10,4 @@ excerpt: ''
 ---
 Großer Freitag:
 
-Morgenamt des Gr. Samstag (Grablegungund Umzug), 1. Stunde - Anfang um 20 Uhr. 
+Morgenamt des Gr. Samstag (Grablegungund Umzug), 1. Stunde - Anfang um **20 Uhr.**
