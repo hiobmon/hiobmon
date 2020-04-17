@@ -4,7 +4,7 @@ author:
   name: Ekaterina
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
-title: Achtung! Aktuelle Veränderung des Gottesdienstplannes
+title: Achtung! Aktuelle Veränderung des Gottesdienstplanes
 excerpt: ''
 
 ---
