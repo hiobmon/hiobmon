@@ -34,4 +34,4 @@ Lasst uns, Brüder, in den kommenden Tagen von ganzem Herzen Buße tun, denn all
 
 \+MARK. Metropolit von Berlin
 
-Rohübersetzung der Predigt von Metropolit Mark am Palmsonntagund Deutschland
+und Deutschland
