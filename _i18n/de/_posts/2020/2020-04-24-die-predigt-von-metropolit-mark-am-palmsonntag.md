@@ -35,3 +35,5 @@ Lasst uns, Brüder, in den kommenden Tagen von ganzem Herzen Buße tun, denn all
 \+MARK. Metropolit von Berlin
 
 und Deutschland
+
+_Übersetzung: Maria Speranskaja_
