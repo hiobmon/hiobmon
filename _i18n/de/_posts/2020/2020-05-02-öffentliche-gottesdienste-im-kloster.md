@@ -10,12 +10,12 @@ excerpt: ''
 ---
 Liebe Gläubigen,
 
-Ab dem 04.05.20 sind in Bayern öffentliche Gottesdienste   
+Ab dem 04.05.20 sind in Bayern öffentliche Gottesdienste  
 wieder erlaubt.
 
 Die damit verbundenen strengen Auflagen des Staates sind in unseren bescheidenen Gegebenheiten kaum umsetzbar.
 
-Daher werden bis auf Weiteres die Gottesdienste im Kloster   
+Daher werden bis auf Weiteres die Gottesdienste im Kloster  
 leider **_nicht öffentlich_** bleiben.
 
 Die Sakramente der Beichte und Kommunion können nach Vereinbarung außerhalb der Gottesdienstzeiten empfangen werden.
