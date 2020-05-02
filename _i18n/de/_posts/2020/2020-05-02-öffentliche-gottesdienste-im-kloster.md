@@ -4,7 +4,7 @@ author:
   name: Ekaterina
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
-title: Öffentliche Gottesdienste im Kloster
+title: Öffentliche Gottesdienste im Kloster weiterhin ausgesetzt
 excerpt: ''
 
 ---
