@@ -1,12 +1,17 @@
----
+Liebe Gläubigen,
 
----
-**Auf Verordnung der Bayerischen Staatsregierung finden im Kloster keine öffentlichen Gottesdienste und Malzeiten statt.**
+Ab dem 04.05.20 sind in Bayern öffentliche Gottesdienste wieder erlaubt.
 
-Live-Übertragungen unserer Gottesdienste findet ihr auf unserem Freundeskreis Kloster des hl. Hiob e.V. YouTube Channel.  
-[https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ](https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ "https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ")
+Die damit verbundenen strengen Auflagen des Staates sind in unseren bescheidenen Gegebenheiten kaum umsetzbar.
+Daher werden bis auf Weiteres die Gottesdienste im Kloster leider **_nicht öffentlich_** bleiben.
 
-Wer die Liturgie am Morgen oder den Abendgottesdienst um 18:00 besucht hat, ist zur anschließenden Mahlzeit herzlich eingeladen.
+Die Sakramente der Beichte und Kommunion können nach Vereinbarung außerhalb der Gottesdienstzeiten empfangen werden.
+Der Gottesdienstbesuch wird in der Kathedrale (Lincolnstr. 58, 81549 M.) sowie in anderen Gemeindekirchen möglich sein.
+
+Wir werden unsere Gottesdienste weiterhin live im Internet übertragen:
+[**www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ**](http://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ)
+
+<hr>
 
 ## Morgens
 
