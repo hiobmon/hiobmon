@@ -1,4 +1,4 @@
-Liebe Gläubigen,
+Liebe Gläubige,
 
 Ab dem 04.05.20 sind in Bayern öffentliche Gottesdienste wieder erlaubt.
 
@@ -6,7 +6,7 @@ Die damit verbundenen strengen Auflagen des Staates sind in unseren bescheidenen
 Daher werden bis auf Weiteres die Gottesdienste im Kloster leider **_nicht öffentlich_** bleiben.
 
 Die Sakramente der Beichte und Kommunion können nach Vereinbarung außerhalb der Gottesdienstzeiten empfangen werden.
-Der Gottesdienstbesuch wird in der Kathedrale (Lincolnstr. 58, 81549 M.) sowie in anderen Gemeindekirchen möglich sein.
+Der Gottesdienstbesuch wird in der [Kathedrale](http://sobor.de) ([Lincolnstr. 58, 81549 M.](https://goo.gl/maps/mApnjYHUYHp29pNW8)) sowie in anderen Gemeindekirchen möglich sein.
 
 Wir werden unsere Gottesdienste weiterhin live im Internet übertragen:
 [**www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ**](http://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ)
