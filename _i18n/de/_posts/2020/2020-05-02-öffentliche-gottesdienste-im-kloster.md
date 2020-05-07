@@ -8,19 +8,18 @@ title: Öffentliche Gottesdienste im Kloster weiterhin ausgesetzt
 excerpt: ''
 
 ---
-Liebe Gläubigen,
+Liebe Gottesdienst-Besucher,
 
-Ab dem 04.05.20 sind in Bayern öffentliche Gottesdienste  
-wieder erlaubt.
+Seit dem 04.05.20 sind in Bayern öffentliche Gottesdienste  
+unter bestimmten strengen Bedingungen wieder erlaubt.
 
-Die damit verbundenen strengen Auflagen des Staates sind in unseren bescheidenen Gegebenheiten kaum umsetzbar.
+Wir können in unserem kleinen Kirchenraum diese strengen Bedingungen leider nicht erfüllen.
 
-Daher werden bis auf Weiteres die Gottesdienste im Kloster  
-leider **_nicht öffentlich_** bleiben.
+Das heißt: **vorläufig keine öffentlichen Gottesdienste im Kloster.**
 
-Die Sakramente der Beichte und Kommunion können nach Vereinbarung außerhalb der Gottesdienstzeiten empfangen werden.
+Beichte und Kommunion können nach Vereinbarung außerhalb der Gottesdienstzeiten empfangen werden.
 
-Der Gottesdienstbesuch wird in der Kathedrale (Lincolnstr. 58, 81549 M.) sowie in anderen Gemeindekirchen möglich sein.
+Der Gottesdienstbesuch ist in der Kathedrale (Lincolnstr. 58, 81549 München -Perlach) sowie in anderen Gemeindekirchen möglich.
 
 Wir werden unsere Gottesdienste weiterhin live im Internet übertragen:
 
