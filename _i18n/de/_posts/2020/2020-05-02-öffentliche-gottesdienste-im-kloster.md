@@ -11,7 +11,7 @@ excerpt: ''
 Liebe Gottesdienst-Besucher,
 
 Seit dem 04.05.20 sind in Bayern öffentliche Gottesdienste  
-unter bestimmten strengen Bedingungen wieder erlaubt.
+unter bestimmten Bedingungen wieder erlaubt.
 
 Wir können in unserem kleinen Kirchenraum diese strengen Bedingungen leider nicht erfüllen.
 
