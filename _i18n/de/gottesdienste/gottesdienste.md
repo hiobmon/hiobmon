@@ -1,15 +1,18 @@
-Liebe Gläubige,
+Liebe Gottesdienst-Besucher,
 
-Ab dem 04.05.20 sind in Bayern öffentliche Gottesdienste wieder erlaubt.
+Seit dem 04.05.20 sind in Bayern öffentliche Gottesdienste
+unter bestimmten Bedingungen wieder erlaubt.
 
-Die damit verbundenen strengen Auflagen des Staates sind in unseren bescheidenen Gegebenheiten kaum umsetzbar.
-Daher werden bis auf Weiteres die Gottesdienste im Kloster leider **_nicht öffentlich_** bleiben.
+Wir können in unserem kleinen Kirchenraum diese strengen Bedingungen leider nicht erfüllen.
 
-Die Sakramente der Beichte und Kommunion können nach Vereinbarung außerhalb der Gottesdienstzeiten empfangen werden.
-Der Gottesdienstbesuch wird in der [Kathedrale](http://sobor.de) ([Lincolnstr. 58, 81549 M.](https://goo.gl/maps/mApnjYHUYHp29pNW8)) sowie in anderen Gemeindekirchen möglich sein.
+Das heißt: **vorläufig keine öffentlichen Gottesdienste im Kloster.**
+
+Beichte und Kommunion können nach Vereinbarung außerhalb der Gottesdienstzeiten empfangen werden.
+
+Der Gottesdienstbesuch ist in der [Kathedrale](http://sobor.de) ([Lincolnstr. 58, 81549 München-Perlach](https://goo.gl/maps/mApnjYHUYHp29pNW8)) sowie in anderen Gemeindekirchen möglich.
 
 Wir werden unsere Gottesdienste weiterhin live im Internet übertragen:
-[**www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ**](http://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ)
+[www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ](www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ)
 
 <hr>
 
