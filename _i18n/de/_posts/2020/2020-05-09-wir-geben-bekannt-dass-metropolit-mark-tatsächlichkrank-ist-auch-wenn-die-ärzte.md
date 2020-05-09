@@ -4,8 +4,7 @@ author:
   name: 'Ekaterina '
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
-title: Wir geben bekannt, dass Metropolit Mark tatsächlichkrank ist, auch wenn die
-  Ärzte...
+title: Der Gesundheitszustand von Metropolit Mark
 excerpt: ''
 
 ---
