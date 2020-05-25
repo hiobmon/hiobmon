@@ -17,3 +17,15 @@ Die Hilfe ließ nicht lange auf sich warten: bereits nach 15 Minuten war die Feu
 Die Klosterbruderschaft bedankt sich bei der Feuerwache Nr. 6 in Pasing und insbesondere bei ihrem Feuerwehrkommandanten, Herrn Manfred Mainusch, und natürlich bei unserem Helfer Juri.
 
 _Übersetzung: Maja Speranskij_
+
+Video ist auf unserem Instagram-Kanal:
+
+[https://www.instagram.com/p/B_vUyGeodPL/?utm_source=ig_web_copy_link](https://www.instagram.com/p/B_vUyGeodPL/?utm_source=ig_web_copy_link "https://www.instagram.com/p/B_vUyGeodPL/?utm_source=ig_web_copy_link")
+
+![https://res.cloudinary.com/hiobmon/image/upload/v1590143945/media/2020/Screenshot_2020-05-22_at_12.38.08_mjj7hy.png](https://res.cloudinary.com/hiobmon/image/upload/v1590143945/media/2020/Screenshot_2020-05-22_at_12.38.08_mjj7hy.png)
+
+![https://res.cloudinary.com/hiobmon/image/upload/v1590143780/media/2020/d4325ba7-8874-493d-b171-610beec496e7_f0a3ba.jpg](https://res.cloudinary.com/hiobmon/image/upload/v1590143780/media/2020/d4325ba7-8874-493d-b171-610beec496e7_f0a3ba.jpg)
+
+![https://res.cloudinary.com/hiobmon/image/upload/v1590144212/media/2020/Screenshot_2020-05-22_at_12.43.05_t3t3vi.png](https://res.cloudinary.com/hiobmon/image/upload/v1590144212/media/2020/Screenshot_2020-05-22_at_12.43.05_t3t3vi.png)
+
+![https://res.cloudinary.com/hiobmon/image/upload/v1590144232/media/2020/Screenshot_2020-05-22_at_12.42.48_anrikv.png](https://res.cloudinary.com/hiobmon/image/upload/v1590144232/media/2020/Screenshot_2020-05-22_at_12.42.48_anrikv.png)
