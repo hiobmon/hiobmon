@@ -12,6 +12,6 @@ Heute Nacht um 1.41 Uhr im Klinikum Dritter Orden in München ist Erzbischof von
 
 Wir bitten um Gebete für unseren neuentschlafenen Erzbischof Agapit.
 
-_Priestermönch Kornilij (Litwitschenko)_
-
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1590696273/media/2020/WhatsApp_Image_2020-05-28_at_21.13.29_nsimsu.jpg)
+
+_Priestermönch Kornilij (Litwitschenko)_
