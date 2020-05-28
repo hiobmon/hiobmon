@@ -8,8 +8,10 @@ title: Ewiges Gedenken!
 excerpt: ''
 
 ---
-Heute Nacht um 1.41 Uhr im Klinikum Dritter Orden in München ist Erzbischof von Stuttgart Agapit (Goratschek) zu Gott gegangen. Als Grund für seinen Tod wurde Nierenversagen festgestellt. 
+Heute Nacht um 1.41 Uhr im Klinikum Dritter Orden in München ist Erzbischof von Stuttgart Agapit (Gorachek) zu Gott gegangen. Als Grund für seinen Tod wurde Nierenversagen festgestellt.
 
 Wir bitten um Gebete für unseren Erzbischof Agapit.
 
-_Priestermönch Kornilij_ 
+_Priestermönch Kornilij (Litwitschenko)_
+
+## 
