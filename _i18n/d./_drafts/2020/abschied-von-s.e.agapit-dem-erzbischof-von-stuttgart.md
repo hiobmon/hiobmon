@@ -8,8 +8,6 @@ title: Abschied von S.E. Agapit, dem Erzbischof von Stuttgart
 excerpt: ''
 
 ---
-Heute Nacht am Himmelfahrtsfest, 28. Mai 2020 um 1:40 verließ der Höchstgeweihte Agapit, Erzbischof von Stuttgart und Vikarbischof der deutschen Diözese der Russischen Auslandskirche diese irdische Welt und ging zum Herrn.
-
 Abschied vom Verstorbenen:
 
 **Im Münchner Männerkloster des Hl. Hiob von Počaev:**
