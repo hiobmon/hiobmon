@@ -4,7 +4,7 @@ author:
   name: 'Ekaterina '
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
-title: Live-Übertragung des Aussegnen von Erzbischof Agapit
+title: Live-Übertragung der Aussegnung von Erzbischof Agapit
 excerpt: ''
 
 ---
