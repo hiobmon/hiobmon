@@ -8,6 +8,6 @@ title: Live-Übertragung der Aussegnung von Erzbischof Agapit
 excerpt: ''
 
 ---
-Live-Übertragung des Aussegnen von Erzbischof Agapit über diesen Kanal: 
+Live-Übertragung der Aussegnung von Erzbischof Agapit über diesen Kanal:
 
 [https://youtu.be/pfWC17uvcr8](https://youtu.be/pfWC17uvcr8 "https://youtu.be/pfWC17uvcr8")
