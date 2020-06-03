@@ -4,7 +4,7 @@ author:
   name: Ekaterina
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
-title: Liebe Väter, Brüder und Schwester im Herrn!
+title: Liebe Väter, Brüder und Schwestern im Herrn!
 excerpt: ''
 
 ---
