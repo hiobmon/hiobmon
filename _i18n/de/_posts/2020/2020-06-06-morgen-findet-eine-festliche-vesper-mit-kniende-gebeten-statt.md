@@ -4,7 +4,7 @@ author:
   name: 'Ekaterina '
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
-title: Morgen findet eine festliche Vesper mit kniende Gebeten statt
+title: Morgen findet eine festliche Vesper mit Gebeten auf den Knien statt
 excerpt: ''
 
 ---
