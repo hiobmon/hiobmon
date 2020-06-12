@@ -6,7 +6,7 @@ layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
 title: Staatliches Bauprojekt zur Erneuerung unseres Dachstuhls / Daches kommt ins
   Rollen
-excerpt: ''
+excerpt: '08.06.2020'
 
 ---
 Auf unsere Bitten wurde vor drei Jahren ein Prozess in Gang gesetzt zur Begutachtung und Erörterung des Bauzustandes unseres Klosters und einer möglichen Dachsanierung.
