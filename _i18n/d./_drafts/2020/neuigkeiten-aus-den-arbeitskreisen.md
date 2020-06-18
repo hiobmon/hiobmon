@@ -18,9 +18,9 @@ Allen freiwilligen Gärtnern, die unter der Anleitung von Vater Georgij ehrenamt
 
 Unsere Imkerei wächst. Jetzt haben wir schon sieben Bienenstöcke und hoffen, dass alle sieben erfolgreich den Winter überstehen. Die Honigernte, heißt es, soll allerdings bescheiden ausfallen.
 
-![https://res.cloudinary.com/hiobmon/image/upload/v1592465072/media/2020/WhatsApp_Image_2020-05-20_at_17.03.25_mln6jf.jpg](https://res.cloudinary.com/hiobmon/image/upload/v1592465072/media/2020/WhatsApp_Image_2020-05-20_at_17.03.25_mln6jf.jpg)
+![https://res.cloudinary.com/hiobmon/image/upload/v1592465072/media/2020/WhatsApp](https://res.cloudinary.com/hiobmon/image/upload/v1592465072/media/2020/WhatsApp_Image_2020-05-20_at_17.03.25_mln6jf.jpg)
 
-![https://res.cloudinary.com/hiobmon/image/upload/v1592465087/media/2020/WhatsApp_Image_2020-05-20_at_15.06.57_agbgca.jpg](https://res.cloudinary.com/hiobmon/image/upload/v1592465087/media/2020/WhatsApp_Image_2020-05-20_at_15.06.57_agbgca.jpg)
+![https://res.cloudinary.com/hiobmon/image/upload/v1592465087/media/2020/WhatsApp](https://res.cloudinary.com/hiobmon/image/upload/v1592465087/media/2020/WhatsApp_Image_2020-05-20_at_15.06.57_agbgca.jpg)
 
 #### Computeraustausch in der Bibliothek
 
