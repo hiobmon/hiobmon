@@ -8,7 +8,7 @@ title: Neuigkeiten aus den Arbeitskreisen
 excerpt: ''
 
 ---
-##### Gartenarbeit
+#### Gartenarbeit
 
 Im Klostergarten gehen die Gartenarbeiten weiter: Gemüse wurde ausgepflanzt, der Kampf mit dem Unkraut in Beeten und Weingarten geht weiter, die Blumenstauden erfreuen nach wie vor das Auge.
 
