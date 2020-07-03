@@ -14,11 +14,6 @@ Beichte und Kommunion können nach Vereinbarung außerhalb der Gottesdienstzeite
 
 Der Gottesdienstbesuch ist in der [Kathedrale](http://sobor.de) ([Lincolnstr. 58, 81549 München-Perlach](https://goo.gl/maps/mApnjYHUYHp29pNW8)) sowie in anderen Gemeindekirchen möglich.
 
-Wir werden unsere Gottesdienste weiterhin live im Internet übertragen:
-
-
-[https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ](https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ "https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ")
-
 <hr>
 
 ## Morgens
