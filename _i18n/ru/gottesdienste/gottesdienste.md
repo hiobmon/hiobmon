@@ -11,9 +11,6 @@
 Таинства Исповеди и Причастия совершаются по предварительной договорённости во внебогослужебное время.
 Для посещения богослужений просим обращаться в [кафедральный собор](http://sobor.de/index.php?lang=ru) ([Lincolnstr. 58, 81549 M.](https://goo.gl/maps/mApnjYHUYHp29pNW8)) или в другие приходские храмы.
 
-Наши прямые трансляции продолжаются:
-[www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ](http://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ)
-
 <hr>
 
 ## Утром
