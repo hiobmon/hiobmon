@@ -11,6 +11,9 @@
 Таинства Исповеди и Причастия совершаются по предварительной договорённости во внебогослужебное время.
 Для посещения богослужений просим обращаться в [кафедральный собор](http://sobor.de/index.php?lang=ru) ([Lincolnstr. 58, 81549 M.](https://goo.gl/maps/mApnjYHUYHp29pNW8)) или в другие приходские храмы.
 
+Смотрите прямые трансляции богослужений на нашем YouTube канале - Freundeskreis Kloster des hl. Hiob e.V.  
+ [https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ](https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ "https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ")
+
 <hr>
 
 ## Утром
