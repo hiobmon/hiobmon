@@ -16,4 +16,4 @@ Derzeit absolviert Vater Mihail sein Gottesdienstpraktikum in unserem Kloster un
 
 ![https://res.cloudinary.com/hiobmon/image/upload/v1594123506/media/2020/](https://res.cloudinary.com/hiobmon/image/upload/v1594123506/media/2020/_DSC0725_elrida.jpg)
 
-_Übersetzung: Maja Speranski_ 
+_Übersetzung: Maja Speranskij_
