@@ -8,8 +8,10 @@ title: Ein neues Buch zum 100-jährigen Bestehen der Russischen Kirche im Auslan
 excerpt: ''
 
 ---
-Ein neues Buch von Vitalij Zherdev _“Das Goldene Zeitalter orthodoxen Kirchenbaus in Deutschland (1806 – 1903) – eine kunsthistorische Beschreibung der Kirchen im Bistum”_ kann über diese E-Mail Adresse bereits bestellt werden: [bestellung@hiobmon.org](mailto:bestellung@hiobmon.org)
+Ein neues Buch von Vitalij Zherdev _“Das Goldene Zeitalter orthodoxen Kirchenbaus in Deutschland (1806 – 1903) – eine kunsthistorische Beschreibung der Kirchen in der Diözese”_ kann über diese E-Mail Adresse bereits bestellt werden: [bestellung@hiobmon.org](mailto:bestellung@hiobmon.org)
 
 Wir freuen uns auf Ihre Bestellungen!
 
-![https://res.cloudinary.com/hiobmon/image/upload/v1594123385/media/2020/6e653a4b-cc0a-459a-8e08-1570af0ff937_uxbcqw.jpg](https://res.cloudinary.com/hiobmon/image/upload/v1594123385/media/2020/6e653a4b-cc0a-459a-8e08-1570af0ff937_uxbcqw.jpg)
+![https://res.cloudinary.com/hiobmon/image/upload/v1594123385/media/2020/6e653a4b-cc0a-459a-8e08-1570af0ff937](https://res.cloudinary.com/hiobmon/image/upload/v1594123385/media/2020/6e653a4b-cc0a-459a-8e08-1570af0ff937_uxbcqw.jpg)
+
+_Übersetzung: Maja Speranksij_ 
