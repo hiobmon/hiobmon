@@ -16,4 +16,4 @@ Wir wünschen Vater Ilya, unserem neugeweihten Diakon, einen segensreichen Diens
 
 ![https://res.cloudinary.com/hiobmon/image/upload/v1594123558/media/2020/](https://res.cloudinary.com/hiobmon/image/upload/v1594123558/media/2020/_DSC0707_wdtesv.jpg)
 
-_Übersetzung: Maja Speranski_ 
+_Übersetzung: Maja Speranskij_
