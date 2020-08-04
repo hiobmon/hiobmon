@@ -1,7 +1,7 @@
 ---
 author:
   bio: Freundeskreis Kloster des heiligen Hiob e. V.
-  name: Ekaterina
+  name: 'Ekaterina / Übersetzung: Maja Speranskij'
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
 title: Ein Ausflug in die Berge
@@ -13,8 +13,6 @@ Am Dienstag, dem Fest des Heiligen Apostelgleichen Fürsten Wladimir, hat die Br
 Es war ein sehr gelungener Ausflug: ungeachtet des sehr heißen Sommerwetters war es auf den schmalen malerischen Bergpfaden kühl, frisch und ruhig genug.
 
 Am späten Nachmittag, also vor Beginn des Abendgottesdienstes, kam die müde aber sehr zufriedene Brüderschaft wieder ins Kloster zurück.
-
-_Übersetzung: Maja Speranskij_
 
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1596532363/media/2020/P7280172_ss3z7g.jpg)
 
