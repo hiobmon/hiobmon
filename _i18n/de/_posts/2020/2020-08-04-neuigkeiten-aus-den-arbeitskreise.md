@@ -4,7 +4,7 @@ author:
   name: 'Ekaterina / Übersetzung: Maja Speranskij'
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
-title: Neuigkeiten aus den Arbeitskreise
+title: Neuigkeiten aus den Arbeitskreisen
 excerpt: Garten
 
 ---
