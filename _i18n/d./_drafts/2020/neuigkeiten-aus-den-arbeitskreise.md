@@ -1,15 +1,13 @@
 ---
 author:
   bio: Freundeskreis Kloster des heiligen Hiob e. V.
-  name: Ekaterina
+  name: 'Ekaterina / Übersetzung: Maja Speranskij'
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
 title: Neuigkeiten aus den Arbeitskreise
-excerpt: ''
+excerpt: Garten
 
 ---
-#### Garten
-
 Vielen Dank an alle unsere Helfer: Stets frische Gurken und Zucchini bereichern nach wie vor die Tafel der Brüder. Die Kürbisse werden sie dann später im Jahr, im Herbst und Winter erfreuen.
 
 Die Rosen erfreuen nach wie vor das Auge nicht nur der Bruderschaft sondern auch der Pilger und Besucher unseres Klosters.
@@ -24,4 +22,4 @@ Auf Grund der Hitze wird allerdings möglicherweise die Gurkenernte leiden. Aus 
 
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1596532779/media/2020/WhatsApp_Image_2020-07-30_at_13.32.17_gl01ct.jpg)
 
-![](https://res.cloudinary.com/hiobmon/image/upload/v1596532834/media/2020/WhatsApp_Image_2020-07-21_at_16.12.36_gbfuot.jpg)
+![](https://res.cloudinary.com/hiobmon/image/upload/v1596533526/media/2020/2dbac767-6cc6-4cbb-a6fc-bc33793cf1e5_pmjijt.jpg)![](https://res.cloudinary.com/hiobmon/image/upload/v1596533561/media/2020/7767f5f8-2f14-493d-bea2-6869f951fb89_ihyrfn.jpg)
