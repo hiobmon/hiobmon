@@ -14,8 +14,8 @@ Wir möchten Sie auf den im Verlag des Klosters neu erschienenen Kommentar zum E
 
 Die Übersetzung stammt aus der Hand des Metropoliten sukzessive in unserer Diözesan-Zeitschrift „der Bote“ veröffentlich worden. Jetzt gibt es erstmals den kompletten Kommentar in einem großen Prachtband über 600 Seiten, mit Goldprägung und Ledereinband (Kunstleder).
 
-Auch eine russische Ausgabe ist derzeit in Arbeit. 
+Auch eine russische Ausgabe ist derzeit in Arbeit.
 
-Bestellungen bitte auf [Hargia Sophia](https://www.edition-hagia-sophia.de/p/hl-justin-popovic-von-celije-kommentar-zum-evangelium-nach-matthaeus).
+Bestellungen bitte auf [Hagia Sophia](https://www.edition-hagia-sophia.de/p/hl-justin-popovic-von-celije-kommentar-zum-evangelium-nach-matthaeus).
 
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1597428002/media/2020/Screenshot_2020-08-14_at_15.30.54_x4djvx.png)
