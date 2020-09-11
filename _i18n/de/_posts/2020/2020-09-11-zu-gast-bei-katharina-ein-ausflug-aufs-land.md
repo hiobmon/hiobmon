@@ -4,15 +4,15 @@ author:
   name: 'Priestermönch Kornilij '
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
-title: Zu Gast bei ... – Ein Ausflug aufs Land
+title: Zu Gast bei Katharina – Ein Ausflug aufs Land
 excerpt: ''
 
 ---
 Am vergangenen Dienstag, dem 1.September, sind die Brüder zusammen mit ihrem Klostervorsteher Metropolit Mark der Einladung Katharinas, eines Mitglieds unseres Freundeskreises, gefolgt und haben sie auf ihrem Anwesen besucht.
 
-Regnerisches Wetter hat uns die Laune nicht verdorben, wir haben uns wunderbar erholt: Wir sind im Wald spazierengegangen, haben Pilze gesammelt und uns an der frischen Luft und der Stille erfreut (nebenbeibemerkt: es gab auch keine Mobilfunknetz!)
+Regnerisches Wetter hat uns die Laune nicht verdorben, wir haben uns wunderbar erholt: Wir sind im Wald spazierengegangen, haben Pilze gesammelt und uns an der frischen Luft und der Stille erfreut (nebenbeibemerkt: es gab auch kein Mobilfunknetz!)
 
-Vielen Dank, Katharina, für diese Einladung und die Gastfreundschaft! Nach dem Mittagessen hat es aufgehellt und gegen Abend kehrten die Brüder müde, aber sehr zufrieden ins Kloster zurück.
+Vielen Dank Katharina, für diese Einladung und die Gastfreundschaft! Nach dem Mittagessen hat es aufgehellt und gegen Abend kehrten die Brüder müde, aber sehr zufrieden ins Kloster zurück.
 
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1599590758/media/2020/DSC_1259_j7dlt9.jpg)
 
