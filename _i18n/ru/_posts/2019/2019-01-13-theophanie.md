@@ -9,7 +9,7 @@ cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg
 excerpt: "5. января 2019 г. (старый стиль) / 18. января 2019 г. (новый стиль)"
 
 author:
-  name: Сергий
+  name: Екатерина
   bio: Рабочая группа Web
 ---
 ## В навечерие

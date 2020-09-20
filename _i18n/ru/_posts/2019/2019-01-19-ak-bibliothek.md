@@ -1,7 +1,7 @@
 ---
 author:
   bio: Рабочая группа Интернета
-  name: 'Сергий'
+  name: 'Екатерина'
 layout: post
 lang: ru
 cover_image: /uploads/assets/pages/aktuelles/cover_image.jpg

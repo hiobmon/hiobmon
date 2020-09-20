@@ -1,7 +1,7 @@
 ---
 author:
   bio: Freundeskreis Kloster des heiligen Hiob e. V.
-  name: Sergey
+  name: Priestermönch Kornilij
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
 title: Orthodoxer Weihnachtsgottesdienst 2020

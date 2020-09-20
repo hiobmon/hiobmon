@@ -1,7 +1,7 @@
 ---
 author:
   bio: Web-Kreis
-  name: Sergey
+  name: Priestermönch Kornilij
 layout: post
 lang: de
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"

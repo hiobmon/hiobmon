@@ -27,7 +27,3 @@ Am Bienenstand. Klosterimker Antonius erzählt den Gästen mehr über die Bienen
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1569157757/media/2019/2459ac08-394e-4a8f-b721-b661c004dd4f_wr6fav.jpg)
 
 Der Freundeskreis bewirtet unsere Gäste mit russischen Speisen: Piroggen, Kumys und Bliny. Großen Dank an Äbtissin Maria und die Schwesternschaft in Buchendorf!
-
-Sergey vor dem Samowar.
-
-![](https://res.cloudinary.com/hiobmon/image/upload/v1569158049/media/2019/2019-09-22_14-47-13_uqae4s.png) 
