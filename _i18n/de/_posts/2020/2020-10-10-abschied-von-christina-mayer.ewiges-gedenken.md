@@ -8,7 +8,7 @@ title: Abschied von Christina Mayer. Ewiges Gedenken!
 excerpt: ''
 
 ---
-Wir trauern um unsere Freundin und Schwester im Herrn, Christina Mayer, die am 10. Oktober  im Johannes-Hospiz der Barmherzigen Brüder in München zu Gott gegangen ist.
+Wir trauern um unsere Freundin und Schwester im Herrn, Christina Mayer, die am 10. Oktober im Johannes-Hospiz der Barmherzigen Brüder in München zu Gott gegangen ist.
 
 Wir bitten um Ihre Gebete für die neuentschlafene Magd Gottes Christina.
 
