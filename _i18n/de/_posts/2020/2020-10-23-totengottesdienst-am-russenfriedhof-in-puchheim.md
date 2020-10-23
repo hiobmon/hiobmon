@@ -10,19 +10,13 @@ excerpt: ''
 ---
 Liebe Freunde,
 
-wegen der COVID-Pandemie fällt leider der traditionelle
-
-Totengottesdienst am Russenfriedhof in Puchheim dieses Jahr
-
-aus.
+wegen der COVID-Pandemie fällt leider der traditionelle Totengottesdienst am Russenfriedhof in Puchheim dieses Jahr aus.
 
 Stattdessen wird der verstorbenen russischen Soldaten im
 
-Kloster des hl. Hiob (Hofbauernstr. 26, 81247 München) gedacht.
+Kloster des hl. Hiob **(Hofbauernstr. 26, 81247 München)** gedacht.
 
-Der Totengottesdienst im Kloster beginnt
-
-am 1.11.2020 um 17:30.
+Der Totengottesdienst im Kloster beginntam **1.11.2020 um 17:30.**
 
 Diözesanverwaltung der Deutschen Diözese
 
