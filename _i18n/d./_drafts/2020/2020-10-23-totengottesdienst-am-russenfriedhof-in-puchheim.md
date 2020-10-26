@@ -14,6 +14,6 @@ wegen der COVID-Pandemie fällt leider der traditionelle Totengottesdienst am Ru
 
 Stattdessen wird der verstorbenen russischen Soldaten des ersten Weltkrieges, die auf dem Friedhof in Puchheim begraben sind, im Kloster des hl. Hiob **(Hofbauernstr. 26, 81247 München)** gedacht.
 
-Der Totengottesdienst im Kloster beginnt am **1.11.2020 um 17:30.**
+Der Totengottesdienst im Kloster beginnt am **01.11.2020 um 17:30.**
 
 Diözesanverwaltung der Deutschen Diözese der Russischen Orthodoxen Kirche im Ausland
