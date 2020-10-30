@@ -5,7 +5,7 @@ author:
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
 title: Aussegnung und Beisetzung der Magd Gottes Christina Mayer
-excerpt: ''
+excerpt: 16.10.2020
 
 ---
 Am 16. Oktober wurde in München auf dem in der Nähe der Kathedrale gelegenen Friedhof Am Perlacher Forst das Mitglied unseres Freundeskreises Christina beigesetzt.

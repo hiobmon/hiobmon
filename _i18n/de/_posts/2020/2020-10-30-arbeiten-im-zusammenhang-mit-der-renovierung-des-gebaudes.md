@@ -5,7 +5,7 @@ author:
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
 title: Arbeiten im Zusammenhang mit der Renovierung des Gebäudes
-excerpt: ''
+excerpt: 14.10.2020
 
 ---
 Die Eigentümer des Klostergebäudes setzen planmäßig ihre Arbeit fort. Derzeit wird der Bauzustand des Gebäudes genau diagnostiziert und es laufen die Vorarbeiten zur Renovierung des oberen Stockwerks und des Daches.
