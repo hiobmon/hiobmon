@@ -15,3 +15,7 @@ Vor einer Woche haben Olga und Sascha, Freunde unseres Klosters, den Kater beim 
 Es sind weitere Besuche beim Tierarzt geplant und es ist nicht auszuschließen, dass der Kater sich auch einer kleinen Operation unterziehen muss.
 
 Wünschen Sie alle unserem Kater bitte baldige Genesung!
+
+![](https://res.cloudinary.com/hiobmon/image/upload/v1605293520/media/2020/IMG_0445_lg9dtk.jpg)
+
+![](https://res.cloudinary.com/hiobmon/image/upload/v1605293591/media/2020/WhatsApp_Image_2020-10-18_at_14.02.47_wro1ud.jpg)
