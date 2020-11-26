@@ -29,7 +29,7 @@ Abt Hiob wurde 1982 in Berlin geboren und erhielt den Namen John. Mit dem Namen 
 
 Vater Hiob leistet den vom Bayerischen Kultusministerium anerkannten Orthodoxen Religionsunterricht als Pflichtfach, in dem die Schüler auch das Abitur ablegen können. Außerdem ist er der Sekretär der von der Orthodoxen Bischofskonferenz eingesetzten Übersetzungskommission.
 
-Am 10.09.2018, dem Fest des Klosterpatrons und Namensheiligen Hiob, wurde V. Hiob von S.E. Metropolit Mark zum Priestermönch geweiht. Am 18.10.2020 wurde Vater Hiob zum Abt gweiht.
+Am 10.09.2018, dem Fest des Klosterpatrons und Namensheiligen Hiob, wurde V. Hiob von S.E. Metropolit Mark zum Priestermönch geweiht. Am 18.10.2020 wurde Vater Hiob zum Abt geweiht.
 
 ## Priestermönch Kornilij (Litwitschenko)
 
