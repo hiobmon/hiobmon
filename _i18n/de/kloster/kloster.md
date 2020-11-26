@@ -1,7 +1,9 @@
 ---
 
 ---
-![После второй мировой войны](/uploads/assets/pages/kloster/geschichte.jpg)  
+![После второй мировой войны](/uploads/assets/pages/kloster/geschichte.jpg)
+
+  
 Unweit des Schlosses Blutenburg, im Münchner Stadtteil Obermenzing, befindet sich hinter Bäumen versteckt das Kloster des heiligen Hiob von Počaev der russischen orthodoxen Kirche im Ausland, gegründet 1946. Davor schon hatten die russischen Mönche ein Kloster in der Ostslowakei bevölkert. Die Bruderschaft war jedoch am Ende des zweiten Weltkrieges vor der Roten Armee geflüchtet und ließ sich schließlich in München nieder.
 
 Heute leben im Kloster über zehn Bewohner, deren Tag jeden Morgen noch im Dunkeln mit dem Gottesdienst um vier Uhr beginnt. Die Grundhaltung im orthodoxen Gottesdienst ist das Stehen, Instrumente zur Begleitung des Gesanges gibt es nicht, die  liturgischen Texte, die bis ins erste Jahrtausend zurückreichen, werden gesungen oder gesangartig rezitiert.
