@@ -1,4 +1,5 @@
 ---
+published: false
 
 ---
 ![После второй мировой войны](/uploads/assets/pages/kloster/geschichte.jpg)  
