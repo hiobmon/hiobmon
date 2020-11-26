@@ -1,5 +1,4 @@
 ---
-published: false
 
 ---
 ![После второй мировой войны](/uploads/assets/pages/kloster/geschichte.jpg)  
@@ -23,10 +22,10 @@ Nach dem Magisterexamen wurde Michael Arndt mit einer Arbeit über die Literatur
 
 Ab 1980 war Mark Arndt Bischof von Stuttgart und Süddeutschland, 1982 erfolgte die Ernennung zum Bischof von Berlin und Deutschland. 1990 wurde er in den Rang eines Erzbischofs erhoben. Im Dezember 2019 erfolgte in New York die Ernennung zum Metropoliten. Er leitet die zur russisch-orthodoxen Auslandskirche gehörende Russische Orthodoxe Diözese des orthodoxen Bischofs von Berlin und Deutschland - so der offizielle Titel. In seine Zuständigkeit als Metropolit in Deutschland fällt auch die Eparchie Großbritannien, die Gemeinde in Kopenhagen und die „Russische geistliche Mission“ in Jerusalem. [Mehr lesen...](http://sobor.de/index.php?option=com_content&view=article&id=119&Itemid=81&lang=de)
 
-## Priestermönch Hiob (Bandmann)
+## Abt Hiob (Bandmann)
 
-![Priestermönch Hiob (Bandmann)](/uploads/assets/pages/kloster/otez_hiob.jpg)  
-Priestermönch Hiob wurde 1982 in Berlin geboren und erhielt den Namen John. Mit dem Namen Johannes wurde er im Jordan während einer Pilgerfahrt im Heiligen Land getauft. 2002 legte er die Abiturprüfung ab und leistete dann Zivildienst in einem Wohnheim für geistig Behinderte, wonach er 2003 in das Männerkloster des Heiligen Hiob von Počaev in München eintrat. Der Vater Hiob besuchte schon in jungen Jahren das Kloster. Nach seinem Eintritt ins Kloster befasste er sich viele Jahre mit der Herausgabe des Klostermagazins "Der Bote" (russ. "Vestnik") sowie dem Layout und der Druckvorbereitung von Büchern. Zudem dient er im Kloster als Chorleiter. Die Weihe zum Lektor erfolgte 2006. Das Studium (2004-2009) im Institut für Orthodoxe Theologie an der Münchner Universität schloss er mit dem Diplom theol. univ. ab. Das Thema der Diplomarbeit lautete: „Der Begriff der Wissenschaft im Dialog der Orthodoxen Theologie mit den Naturwissenschaften“. Es folgt das Promotionsstudium unter Mitwirkung an der Gestaltung von Seminaren und Übungen. Sprachen: Deutsch, Englisch, Russisch – Latinum, Graecum und Hebraicum. Am 23. Juni (jul.) 2012 bzw. dem 6. Juli (greg.) 2012 vollzog Metropolit Mark im Kloster des Hl. Hiob von Počaev die Mönchsweihe an Inok Josef (Bandmann). Vater Josef erhielt beim kleinen Schema den Mönchsnamen Hiob, nach dem himmlischen Schutzherrn des Münchner Klosters. Zur Mönchsweihe führten ihn der ehemalige, mittlerweile entschlafene Abt Evfimij sowie Priestermönch Kornilij.
+![Abt Hiob (Bandmann)](/uploads/assets/pages/kloster/otez_hiob.jpg)  
+Abt Hiob wurde 1982 in Berlin geboren und erhielt den Namen John. Mit dem Namen Johannes wurde er im Jordan während einer Pilgerfahrt im Heiligen Land getauft. 2002 legte er die Abiturprüfung ab und leistete dann Zivildienst in einem Wohnheim für geistig Behinderte, wonach er 2003 in das Männerkloster des Heiligen Hiob von Počaev in München eintrat. Der Vater Hiob besuchte schon in jungen Jahren das Kloster. Nach seinem Eintritt ins Kloster befasste er sich viele Jahre mit der Herausgabe des Klostermagazins "Der Bote" (russ. "Vestnik") sowie dem Layout und der Druckvorbereitung von Büchern. Zudem dient er im Kloster als Chorleiter. Die Weihe zum Lektor erfolgte 2006. Das Studium (2004-2009) im Institut für Orthodoxe Theologie an der Münchner Universität schloss er mit dem Diplom theol. univ. ab. Das Thema der Diplomarbeit lautete: „Der Begriff der Wissenschaft im Dialog der Orthodoxen Theologie mit den Naturwissenschaften“. Es folgt das Promotionsstudium unter Mitwirkung an der Gestaltung von Seminaren und Übungen. Sprachen: Deutsch, Englisch, Russisch – Latinum, Graecum und Hebraicum. Am 23. Juni (jul.) 2012 bzw. dem 6. Juli (greg.) 2012 vollzog Metropolit Mark im Kloster des Hl. Hiob von Počaev die Mönchsweihe an Inok Josef (Bandmann). Vater Josef erhielt beim kleinen Schema den Mönchsnamen Hiob, nach dem himmlischen Schutzherrn des Münchner Klosters. Zur Mönchsweihe führten ihn der ehemalige, mittlerweile entschlafene Abt Evfimij sowie Priestermönch Kornilij.
 
 Vater Hiob leistet den vom Bayerischen Kultusministerium anerkannten Orthodoxen Religionsunterricht als Pflichtfach, in dem die Schüler auch das Abitur ablegen können. Außerdem ist er der Sekretär der von der Orthodoxen Bischofskonferenz eingesetzten Übersetzungskommission.
 
@@ -53,12 +52,3 @@ Seit 1994 war er Gemeindemitglied der Maria-Entschlafens-Kirche in Chmelnyzkyj, 
 
 2009 siedelte er als Novize in das Kloster des hl. Hiob in München über.
 2012 wurde er von Metropolit Mark zum Inok/Rjassophor-Mönch mit dem Namen Amfilochij geschoren. Am 4. März 2016 wurde er zum Mönch mit dem Namen Anatolij geschoren und am 5. März folgte seine Weihe zum Diakon, gefolgt von der Chirotonie (Handauflegung) zum Priestermönch am 6. März.
-
-## Erzbischof Agapit (Gorachek)
-
-![Erzbischof Agapit (Gorachek)](/uploads/assets/pages/kloster/vladyka_agapit.jpg)  
-Erzbischof Agapit wurde am 29. September 1955 in Deutschland geboren. Er absolvierte das Gymnasium in Frankfurt-am-Main und nahm dann das Studium der Architektur in Darmstadt auf. Um die Mönchsweihe empfangen zu können, gab er das Studium auf. 1979 trat er der Klostergemeinschaft des Heiligen Hiob von Počaev bei München bei. Am 9. November 1981 empfing er die Scherung zum Rjasophor-Mönch und ab dem 29. März 1983 bekleidete er die Mantia eines Mönches.
-
-Am 25. Dezember 1983 wurde zum Mönchsdiakon und am 8. April 1991 zum Priestermönch geweiht. 1995 wurde er zum Abt ernannt und 1998 mit einem verziertem Kreuz ausgezeichnet. Im Kloster leistete er verschiedene Dienste, unter anderem im Klosterverlag.
-
-Am 1. Mai 2001 erfolgte seine Hochweihe zum Bischof von Stuttgart und Vikar der deutschen Diözese der Russischen Orthodoxen Kirche im Ausland (ROKA).
