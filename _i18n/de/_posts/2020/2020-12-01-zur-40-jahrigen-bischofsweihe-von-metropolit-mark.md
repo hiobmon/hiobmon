@@ -8,16 +8,15 @@ title: Zur 40-jährigen Bischofsweihe von Metropolit Mark
 excerpt: 30.11.2020
 
 ---
-**  
 Der Freundeskreis des Klosters des Hl.Hiob von Počaev gratuliert unserem teuren Metropoliten Mark zum 40-jährigen Jubiläum seines erzbischöflichen Dienstes und seiner Bischofsweihe vor vierzig Jahren!**
 
-**Auf viele und gute Jahre!**
+Auf viele und gute Jahre!
 
 Schauen Sie auch das Video an:
 
- [https://www.youtube.com/watch?v=1u5Ukd4_mEQ&feature=youtu.be](https://www.youtube.com/watch?v=1u5Ukd4_mEQ&feature=youtu.be "https://www.youtube.com/watch?v=1u5Ukd4_mEQ&feature=youtu.be")
+[https://www.youtube.com/watch?v=1u5Ukd4_mEQ&feature=youtu.be](https://www.youtube.com/watch?v=1u5Ukd4_mEQ&feature=youtu.be "https://www.youtube.com/watch?v=1u5Ukd4_mEQ&feature=youtu.be")
 
-##### **Festgottesdienst in der Kathedralkirche in München**
+##### Festgottesdienst in der Kathedralkirche in München
 
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1606823041/media/2020/5c17d5f7-4ddb-48d7-bb74-91f595e94378_q1si8u.jpg)
 
