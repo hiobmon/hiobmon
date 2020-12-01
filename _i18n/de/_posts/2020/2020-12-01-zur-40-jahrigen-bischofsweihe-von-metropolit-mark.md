@@ -8,7 +8,7 @@ title: Zur 40-jährigen Bischofsweihe von Metropolit Mark
 excerpt: 30.11.2020
 
 ---
-Der Freundeskreis des Klosters des Hl.Hiob von Počaev gratuliert unserem teuren Metropoliten Mark zum 40-jährigen Jubiläum seines erzbischöflichen Dienstes und seiner Bischofsweihe vor vierzig Jahren!**
+Der Freundeskreis des Klosters des Hl.Hiob von Počaev gratuliert unserem teuren Metropoliten Mark zum 40-jährigen Jubiläum seines erzbischöflichen Dienstes und seiner Bischofsweihe vor vierzig Jahren!
 
 Auf viele und gute Jahre!
 
