@@ -5,7 +5,7 @@ author:
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
 title: Besuch der Absolventinnen der Sonntagsschule
-excerpt: ''
+excerpt: 23.12.2020
 
 ---
 ![](https://res.cloudinary.com/hiobmon/image/upload/v1609152135/media/2020/1433f07b-38d0-48c0-b3de-d75ab99e6f8a_drq4bs.jpg)
