@@ -5,7 +5,7 @@ author:
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
 title: "«Der Bote» Nr.5"
-excerpt: ''
+excerpt: 28.12.2020
 
 ---
 In der Klosterdruckerei ist die nächste Ausgabe «des Boten» fertig geworden.
