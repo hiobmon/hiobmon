@@ -315,7 +315,6 @@ a {
 }
 
 /*  Fenster Neues Standort */
-
 .standort{
     display: flex;
     width: 500px;
@@ -325,6 +324,8 @@ a {
     font-weight: 300;
     font-size: 14pt ;
     background-color: #fbbc6e;
+    position: absolute;
+    z-index: 5;
 
 }
 
