@@ -10,7 +10,7 @@ excerpt: 29.01.2020
 ---
 Am 29. Januar ist unser teurer Vladyka Mark 80 Jahre alt geworden. Aus diesem für uns wichtigen Anlass haben wir alle Glückwünsche zusammengesammelt. Sie können unter folgenden Links nachgesehen werden:
 
-Gratulation Seiner Heiligkeit des Patriarchen von Moskau und der ganzen Rus‘ Kyrill
+Gratulation Seiner Heiligkeit des Patriarchen von Moskau und der ganzen Rus‘ Kyrill:
 
 [http://www.patriarchia.ru/db/text/5755844.html](http://www.patriarchia.ru/db/text/5755844.html "http://www.patriarchia.ru/db/text/5755844.html")
 
