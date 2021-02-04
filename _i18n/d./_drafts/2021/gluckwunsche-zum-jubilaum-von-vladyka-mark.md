@@ -5,7 +5,7 @@ author:
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
 title: Glückwünsche zum Jubiläum von Vladyka Mark
-excerpt: 29.01.2020
+excerpt: 29.01.2021
 
 ---
 Am 29. Januar ist unser teurer Vladyka Mark 80 Jahre alt geworden. Aus diesem für uns wichtigen Anlass haben wir alle Glückwünsche zusammengesammelt. Sie können unter folgenden Links nachgesehen werden:
