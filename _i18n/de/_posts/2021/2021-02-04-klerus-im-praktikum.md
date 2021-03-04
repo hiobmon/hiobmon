@@ -14,8 +14,6 @@ Wir danken ihnen für ihren einsatzfreudigen Dienst sowie ihre praktische Hilfe 
 
 Wir wünschen dem neugeweihten Klerus Gottes Segen und Beistand für seinen kirlichen Dienst.
 
-![https://res.cloudinary.com/hiobmon/image/upload/v1614859522/media/2021/DSC_2150_phtrsd.jpg](https://res.cloudinary.com/hiobmon/image/upload/v1614859522/media/2021/DSC_2150_phtrsd.jpg)
+![https://res.cloudinary.com/hiobmon/image/upload/v1614859492/media/2021/DSC](https://res.cloudinary.com/hiobmon/image/upload/v1614859492/media/2021/DSC_2480_wzq6xh.jpg)
 
-![https://res.cloudinary.com/hiobmon/image/upload/v1614859492/media/2021/DSC_2480_wzq6xh.jpg](https://res.cloudinary.com/hiobmon/image/upload/v1614859492/media/2021/DSC_2480_wzq6xh.jpg)
-
-![https://res.cloudinary.com/hiobmon/image/upload/v1614859467/media/2021/DSC_0082_gxbckv.jpg](https://res.cloudinary.com/hiobmon/image/upload/v1614859467/media/2021/DSC_0082_gxbckv.jpg)
+![https://res.cloudinary.com/hiobmon/image/upload/v1614859467/media/2021/DSC](https://res.cloudinary.com/hiobmon/image/upload/v1614859467/media/2021/DSC_0082_gxbckv.jpg)
