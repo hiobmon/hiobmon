@@ -34,7 +34,7 @@ Live-Übertragungen unserer Gottesdienste findet ihr auf unserem Freundeskreis K
 ## Wichtige Festtage
 
 * **Ostern**: 2. Mai 2021 (neuer Kalender) / 19. April 2021 (alter Kalender)
-* **Himmelfahrt**: 10. Juni 2021 (n.K.) / 28. Mai 2021(a.K.)
+* **Himmelfahrt**: 10. Juni 2021 (n.K.) / 28. Mai 2021 (a.K.)
 * **Pfingsten**: 20. Juni 2021 (n.K.) / 7. Juni 2021 (a.K.)
 * **Patronatsfeste des Klosters**:
   * 19 Mai (n.K.) / 6. Mai (a.K.),
