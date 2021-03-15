@@ -1,0 +1,11 @@
+---
+author:
+  bio: Kloster des heiligen Hiob
+  name: 'Priestermönch Kornilij '
+layout: post
+cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
+title: 'Gottesdienstplan - in der Großen Fastenzeit:'
+excerpt: ''
+
+---
+![](https://res.cloudinary.com/hiobmon/image/upload/v1615809184/media/2021/photo_2021-03-14_14-06-30_2_bddkbi.jpg)
