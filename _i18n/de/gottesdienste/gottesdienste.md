@@ -3,8 +3,7 @@
 ---
 Liebe Gottesdienst-Besucher,
 
-Seit dem 04.05.20 sind in Bayern öffentliche Gottesdienste
-unter bestimmten Bedingungen wieder erlaubt.
+Seit dem 04.05.20 sind in Bayern öffentliche Gottesdienste unter bestimmten Bedingungen wieder erlaubt.
 
 Wir können in unserem kleinen Kirchenraum diese strengen Bedingungen leider nicht erfüllen.
 
@@ -15,7 +14,7 @@ Beichte und Kommunion können nach Vereinbarung außerhalb der Gottesdienstzeite
 Der Gottesdienstbesuch ist in der [Kathedrale](http://sobor.de) ([Lincolnstr. 58, 81549 München-Perlach](https://goo.gl/maps/mApnjYHUYHp29pNW8)) sowie in anderen Gemeindekirchen möglich.
 
 Live-Übertragungen unserer Gottesdienste findet ihr auf unserem Freundeskreis Kloster des hl. Hiob e.V. YouTube Channel:  
- [https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ](https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ "https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ")
+[https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ](https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ "https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ")
 
 <hr>
 
@@ -34,9 +33,9 @@ Live-Übertragungen unserer Gottesdienste findet ihr auf unserem Freundeskreis K
 
 ## Wichtige Festtage
 
-* **Ostern**: 19. April 2020 (neuer Kalender) / 6. April 2020 (alter Kalender)
-* **Himmelfahrt**: 28. Mai 2020 (n.K.) / 15. Mai 2020 (a.K.)
-* **Pfingsten**: 7. Juni 2020 (n.K.) / 25. Mai 2020 (a.K.)
+* **Ostern**: 2. Mai 2021 (neuer Kalender) / 19. April 2021 (alter Kalender)
+* **Himmelfahrt**: 10. Juni 2021 (n.K.) / 28. Mai 2021(a.K.)
+* **Pfingsten**: 20. Juni 2021 (n.K.) / 7. Juni 2021 (a.K.)
 * **Patronatsfeste des Klosters**:
   * 19 Mai (n.K.) / 6. Mai (a.K.),
   * 10 September (n.K.) / 28. August (a.K.),
