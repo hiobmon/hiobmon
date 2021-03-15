@@ -12,7 +12,7 @@
 Для посещения богослужений просим обращаться в [кафедральный собор](http://sobor.de/index.php?lang=ru) ([Lincolnstr. 58, 81549 M.](https://goo.gl/maps/mApnjYHUYHp29pNW8)) или в другие приходские храмы.
 
 Смотрите прямые трансляции богослужений на нашем YouTube канале - Freundeskreis Kloster des hl. Hiob e.V.  
- [https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ](https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ "https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ")
+[https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ](https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ "https://www.youtube.com/channel/UCjDdESGDYEet8xEDmfhp3zQ")
 
 <hr>
 
@@ -31,9 +31,9 @@
 
 ## Важные Праздники
 
-* **Пасха**: 19 апреля 2020 г. (н.ст.) / 6 апреля 2020 г. (ст.ст.)
-* **Вознесение**: 28 мая 2020 года (н.ст.) / 15 мая 2020 года (ст.ст.)
-* **Пятидесятница**: 7 июня 2020 г. (н.ст.) / 25 мая 2020 г. (ст.ст.)
+* **Пасха**: 2 мая 2021 г. (н.ст.) / 19 апреля 2021 г. (ст.ст.)
+* **Вознесение**: 10 июня 2021 года (н.ст.) / 28 мая 2021 г. (ст.ст.)
+* **Пятидесятница**: 20 июня 2021 г. (н.ст.) / 7 июня 2021 г. (ст.ст.)
 * **Престольные праздники**:
   * 19 мая (н.ст.) / 6 мая (ст.ст.)
   * 10 сентября (н.ст.) / 28 августа (ст.ст.),
