@@ -18,3 +18,7 @@ Folgende Vorträge wurden gehalten:
 * Priestermönch Kornilij (Litwitschenko) – «Die Tradition des Pocaev-Klosters in der Auslandskirche am Beispiel des Klosters des hl. Hiob in München
 
 Eine Aufzeichnung dieser Live-Veranstaltung findet sich unter folgendem Link: [https://www.youtube.com/watch?v=WfR2G9EDucc](https://www.youtube.com/watch?v=WfR2G9EDucc "https://www.youtube.com/watch?v=WfR2G9EDucc")
+
+###### Brüder des hl.Hiob-Klosters von Ladomir in Genf (1946)
+
+![https://res.cloudinary.com/hiobmon/image/upload/v1617646054/media/2021/photo_2021-03-28_11-58-21_w5v740.jpg](https://res.cloudinary.com/hiobmon/image/upload/v1617646054/media/2021/photo_2021-03-28_11-58-21_w5v740.jpg)
