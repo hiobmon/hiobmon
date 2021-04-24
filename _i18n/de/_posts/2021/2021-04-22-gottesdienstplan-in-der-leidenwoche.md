@@ -4,7 +4,7 @@ author:
   name: 'Priestermönch Kornilij '
 layout: post
 cover_image: "/uploads/assets/pages/aktuelles/cover_image.jpg"
-title: Gottesdienstplan in der Leidenwoche
+title: 'Gottesdienstplan in der Leidenswoche '
 excerpt: ''
 
 ---
