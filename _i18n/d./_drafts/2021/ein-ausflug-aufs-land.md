@@ -8,7 +8,7 @@ title: Ein Ausflug aufs Land
 excerpt: 01.06.2021
 
 ---
-Am 1.Juni haben die Brüder – in kleiner Besetzung – einen Ausflug aufs Land gemacht. Der war bereits seit Ostern geplant und konnte endlich stattfinden.
+Am 1. Juni haben die Brüder – in kleiner Besetzung – einen Ausflug aufs Land gemacht. Der war bereits seit Ostern geplant und konnte endlich stattfinden.
 
 Leider war es aus dringenden Gründen an diesem Tag nicht allen Brüdern möglich, sich dem Waldausflug anzuschließen, und vorher hat ja das Wetter nicht mitgemacht. Diesmal ging es in die Gegend von Bad Tölz ins Längental.
 
